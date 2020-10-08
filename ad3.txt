@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5NLYcIXj5XO+vFFUkhCm6g
+! Checksum: lQQvFYuBiHH3mqSTxrADQg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202010090024
-! Last Modified: 2020年10月09日 00:24
+! Version: 202010090520
+! Last Modified: 2020年10月09日 05:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -21999,7 +21999,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /collection.php?data=
 /collector.php?
 /collector/*/*?*&euidl=*&url=
-/collector/beacon^
+/collector/beacon
 /collector/hit?
 /collector/pageview
 /collector?report=
@@ -30977,6 +30977,7 @@ _mongo_stats/
 ||collect.rewardstyle.com^
 ||collect.usefathom.com^
 ||collector-*.elb.amazonaws.com^$image,third-party
+||collector-*.px-client.net^
 ||collector-*.tvsquared.com^
 ||collector-api.99designs.com^
 ||collector.automote.co.nz^
@@ -35168,6 +35169,7 @@ _mongo_stats/
 ||securepaynet.net/image.aspx?
 ||seeclickfix.com^*/text_widgets_analytics.html
 ||seedr.cc/tr.js
+||seekingalpha.com/mone_event
 ||selfip.org/counter/
 ||sella.co.nz^*/sella_stats_
 ||seoquake.com/seoadv/audience/3.gif
@@ -36099,7 +36101,6 @@ _mongo_stats/
 ||ralphlauren.de/IZ/
 ||ralphlauren.fr/IZ/
 ||seatgeek.com/aG6ZzoXU/
-||seekingalpha.com/xgCxM9By/
 ||skechers.com/dL6GOSf9/
 ||sweetwater.com/p2TBVNJZ/
 ||therealreal.com/ev56mY37/
