@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lQWTg9g6Zt9r8NE/FDdk3w
+! Checksum: S6oJpjLiw9dBI986vPvqlw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202010090900
-! Last Modified: 2020年10月09日 09:00
+! Version: 202010091023
+! Last Modified: 2020年10月09日 10:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -8837,6 +8837,7 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||szonline.net/static/js/ads.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -11533,8 +11534,6 @@ cnlinfo.net##.guanggao-right
 hkwb.net##.guanggao2
 tukergo.com##.guanggaoBox
 gasaq.com##.guanggao_ime_big
-shm.com.cn##.guanggaowei2
-shm.com.cn##.guanggaowei3
 downhot.com##.guans
 daohang.qq.com##.guess
 hao.qq.com##.guess.m
@@ -13567,7 +13566,6 @@ ali213.net##div[id^="ali-ad-js-"]
 jdbbs.com##div[id^="archy_ad"]
 qbiao.com##div[id^="aup"]
 qianzhan.com##div[id^="baidu_ad_"]
-shm.com.cn##div[id^="baidu_clb_slot_"]
 ncnews.com.cn##div[id^="ban"]
 recruit.com.hk##div[id^="banner"]
 2345.com##div[id^="bd-search-ad"]
@@ -32116,6 +32114,7 @@ _mongo_stats/
 ||squarespace.com/universal/scripts-compressed/performance-$script,third-party
 ||srvmath.com^*/analytics.js
 ||ssl-images-amazon.com/images/*/common/1x1._*.gif$domain=~amazon.com
+||ssr.streamrail.net^
 ||st.cdnco.us^
 ||st.linkfire.com^
 ||stacksocialcontent.com/event/
@@ -32440,6 +32439,7 @@ _mongo_stats/
 ||trove.com^*&uid=$image
 ||tru.webelapp.com^
 ||trumba.com/et.aspx?$third-party
+||trustarc.com/bannermsg?
 ||trustcommander.net/privacy/
 ||trustedform.com/trustedform.js?provide_referrer
 ||trustpilot.com/stats/
@@ -36270,6 +36270,7 @@ _mongo_stats/
 ||ttauri.t3.com^
 ||ttauri.tomsguide.com^
 ||ttauri.tomshardware.com^
+||ttauri.toptenreviews.com^
 ||ttauri.whathifi.com^
 ||twch.20min.ch^
 ||vg247.com/wp-content/themes/vg247/scripts/mvg247-fsm.js
