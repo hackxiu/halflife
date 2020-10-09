@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DxhbGnxztat7HQlfezOyAg
+! Checksum: k20hy2chTQ0DrtMDyiohpg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202010091223
-! Last Modified: 2020年10月09日 12:23
+! Version: 202010091423
+! Last Modified: 2020年10月09日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -26194,6 +26194,7 @@ _mongo_stats/
 ://top.*/count/cnt.php?
 ://top.*/hit/
 !-----------------Third-party tracking domains-----------------!
+u
 ||g2178927685.co^
 ||g2377012020.co^
 ||g2575096355.co^
@@ -26635,6 +26636,7 @@ _mongo_stats/
 ||capturly.com^$third-party
 ||caramel.press^$third-party
 ||carrotquest.io^$third-party
+||casalemedia.com^$third-party
 ||cashburners.com^$third-party
 ||cashcount.com^$third-party
 ||cbtrk.net^$third-party
@@ -27344,6 +27346,7 @@ _mongo_stats/
 ||index.ru^$third-party
 ||indexstats.com^$third-party
 ||indextools.com^$third-party
+||indexww.com^$third-party
 ||indicative.com^$third-party
 ||indicia.com^$third-party
 ||individuad.net^$third-party

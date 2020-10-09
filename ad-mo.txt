@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qLdigc+VLCrA3lNQUq2AdA
+! Checksum: am1cl/Q8//8x96Y50voZjA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010091320
-! Last Modified: 2020年10月09日 13:20
+! Version: 202010091423
+! Last Modified: 2020年10月09日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -42528,7 +42528,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||carbonads.com^$third-party
 ||caroda.io^$third-party
 ||cartorkins.com^$third-party
-||casalemedia.com^$third-party
 ||cash-duck.com^$third-party
 ||cash4members.com^$third-party
 ||cashbigo.com^$third-party
@@ -43649,7 +43648,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||incogpontus.club^$third-party
 ||increaserev.com^$third-party
 ||incrediblethebest.online^$third-party
-||indexww.com^$third-party
 ||indiads.com^$third-party
 ||indianbannerexchange.com^$third-party
 ||indianlinkexchange.com^$third-party
@@ -48984,6 +48982,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cas.*.criteo.com^$third-party
 ||cas.clickability.com^
 ||cas.criteo.com^$third-party
+||casalemedia.com/cygnus?
 ||cash.neweramediaworks.com^
 ||cashmakingpowersites.com^*/banners/
 ||cashmyvideo.com/images/cashmyvideo_banner.gif
@@ -85521,6 +85520,7 @@ _mongo_stats/
 ://top.*/count/cnt.php?
 ://top.*/hit/
 !-----------------Third-party tracking domains-----------------!
+u
 ||g2178927685.co^
 ||g2377012020.co^
 ||g2575096355.co^
@@ -85962,6 +85962,7 @@ _mongo_stats/
 ||capturly.com^$third-party
 ||caramel.press^$third-party
 ||carrotquest.io^$third-party
+||casalemedia.com^$third-party
 ||cashburners.com^$third-party
 ||cashcount.com^$third-party
 ||cbtrk.net^$third-party
@@ -86671,6 +86672,7 @@ _mongo_stats/
 ||index.ru^$third-party
 ||indexstats.com^$third-party
 ||indextools.com^$third-party
+||indexww.com^$third-party
 ||indicative.com^$third-party
 ||indicia.com^$third-party
 ||individuad.net^$third-party
