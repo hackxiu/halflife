@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BVlymCE6fjcN0gh6BgVzqQ
+! Checksum: V+xfULiEPtVbQ24oIR3M1g
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202010092321
-! Last Modified: 2020年10月09日 23:21
+! Version: 202010100025
+! Last Modified: 2020年10月10日 00:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -591,7 +591,7 @@ cocomanhua.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-re
 hdzone.org#$#abort-current-inline-script Math zfgloaded
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/czech.txt ***
 ! #CV-655
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-write ic_ehole; abort-on-property-read document.px_write; abort-on-property-write document.px_write
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-write iceho_le; abort-on-property-read document.px_write; abort-on-property-write document.px_write
 iprima.cz#$#abort-on-property-read loadSeznamMones; abort-on-property-write loadSeznamMones; abort-on-property-write SeznamSSP
 iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone, .sas_megaboard, .ifr-classflak, [data-sas-creative], #cnn_reklama, div[class^="mas_"], ._sasia_fcid, [class^="mas"][class$="_clue"]
 /section=adblock_desktop^$domain=iprima.cz
@@ -602,7 +602,7 @@ iprima.cz##[class$="_fcid"], [data-mashiatus]
 iprima.cz##div[data-d-area]
 iprima.cz##[data-masparabus], [class$="_bubuzela"]
 iprima.cz##[class*="sas"]
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##warp-hole, firebal-l, warmchimne-y, looph-ole
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##warp-hole, firebal-l, warmchimne-y, looph-ole, d-rivehole
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##iframe[frameborder="0"][scrolling="no"][src^="javascript:window"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,expres.cz##div[style*="baackground-repeat: no-no;"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##leaderBoard
@@ -1558,7 +1558,7 @@ passion.ru,motor.ru,letidor.ru##[style^="float: none; left: 0px; margin: 0px; ri
 autorambler.ru,quto.ru##[style^="padding-bottom: 30px; transform: translateZ(0px);"]
 rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com#?#:-abp-has(>a[style*="//zoomdecorate.rambler.ru/"])
 wmj.ru,letidor.ru,passion.ru,motor.ru,quto.ru,autorambler.ru##div[id^="block-id-"][style^="min-width"]
-rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com,gazeta.ru##a[href^="https://ccl09js5jb6z4."], a[href^="https://ygazyrmuxna0."], a[href^="https://g6rp65sgeir8o."], a[href^="https://gsr9stmh860r."], a[href^="https://0qp3k9w4kfhty."], a[href^="https://vscpnmigelkxr."], a[href^="https://btzdhfxsrnowm."], a[href^="https://btgxsokjchfuq."], a[href^="https://agksqbdezfpjciv."], a[href^="https://rizwhgk."], a[href^="https://xynlehf."], a[href^="https://gvqsywk."], a[href^="https://sjmokixchpdzlaw."], a[href^="https://wxhqcjpoakledrn."], a[href^="https://loqacfhkpmdxutw."], a[href^="https://suizlhwebq."], a[href^="https://ntyamcfwxkubrdv."], a[href^="https://fyasmgxbpvrwh."], a[href^="https://ftomjaskgzudinv."], a[href^="https://wrobtlu."], a[href^="https://j16odtjxfaznk2."], a[href^="https://lpwkh6onyey9."], a[href^="https://4jbnm05dzi."], a[href^="https://csc8j4og3osf9r."], a[href^="https://8o3x107a2echkk."], a[href^="https://68b4dd1d51."], a[href^="https://3e35dc5d948d6b27."], a[href^="https://2419dc65."], a[href^="https://e3b7488ea5a55f27."], a[href^="https://355b8998fae3."], a[href^="https://47830c46a99ab."], a[href^="https://740733cee82."], a[href^="https://b22e863cd9."], a[href^="https://650abf8b2801."], a[href^="https://42c51641e6d5."], a[href^="https://9e902445f."], a[href^="https://035eb77b7e4b163e."], a[href^="https://39deee1a0c6953."], a[href^="https://7d58c7492f."], a[href^="https://8297c3f29af5."], a[href^="https://605ec54e."], a[href^="https://ff3c25825f06dd93."], a[href^="https://4f906c29d766b98a."], a[href^="https://2b877604b22dfae2."], a[href^="https://a60a6a49bbfddd."], a[href^="https://303a45e4bf."], a[href^="https://892e275511."], a[href^="https://823261c9."], a[href^="https://16c819f96181b5."]
+rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com,gazeta.ru##a[href^="https://ccl09js5jb6z4."], a[href^="https://ygazyrmuxna0."], a[href^="https://g6rp65sgeir8o."], a[href^="https://gsr9stmh860r."], a[href^="https://0qp3k9w4kfhty."], a[href^="https://vscpnmigelkxr."], a[href^="https://btzdhfxsrnowm."], a[href^="https://btgxsokjchfuq."], a[href^="https://agksqbdezfpjciv."], a[href^="https://rizwhgk."], a[href^="https://xynlehf."], a[href^="https://gvqsywk."], a[href^="https://sjmokixchpdzlaw."], a[href^="https://wxhqcjpoakledrn."], a[href^="https://loqacfhkpmdxutw."], a[href^="https://suizlhwebq."], a[href^="https://ntyamcfwxkubrdv."], a[href^="https://fyasmgxbpvrwh."], a[href^="https://ftomjaskgzudinv."], a[href^="https://wrobtlu."], a[href^="https://j16odtjxfaznk2."], a[href^="https://lpwkh6onyey9."], a[href^="https://4jbnm05dzi."], a[href^="https://csc8j4og3osf9r."], a[href^="https://8o3x107a2echkk."], a[href^="https://68b4dd1d51."], a[href^="https://3e35dc5d948d6b27."], a[href^="https://2419dc65."], a[href^="https://e3b7488ea5a55f27."], a[href^="https://355b8998fae3."], a[href^="https://47830c46a99ab."], a[href^="https://740733cee82."], a[href^="https://b22e863cd9."], a[href^="https://650abf8b2801."], a[href^="https://42c51641e6d5."], a[href^="https://9e902445f."], a[href^="https://035eb77b7e4b163e."], a[href^="https://39deee1a0c6953."], a[href^="https://7d58c7492f."], a[href^="https://8297c3f29af5."], a[href^="https://605ec54e."], a[href^="https://ff3c25825f06dd93."], a[href^="https://4f906c29d766b98a."], a[href^="https://2b877604b22dfae2."], a[href^="https://a60a6a49bbfddd."], a[href^="https://303a45e4bf."], a[href^="https://892e275511."], a[href^="https://823261c9."], a[href^="https://16c819f96181b5."], a[href^="https://e8688e393bc5f87."]
 ! #CV-694
 www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/spanish.txt ***
