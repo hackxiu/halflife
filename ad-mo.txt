@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: am1cl/Q8//8x96Y50voZjA
+! Checksum: EN18xWhjfrUqEjwWmY5x3Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010091423
-! Last Modified: 2020年10月09日 14:23
+! Version: 202010091521
+! Last Modified: 2020年10月09日 15:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -32352,6 +32352,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||askallalb.club^
 ||askaspalb.online^
 ||askbegrag.com^
+||askewpatienceblameless.com^
 ||askinsoner.club^
 ||asonaloccu.info^
 ||asoulrox.com^
@@ -36991,6 +36992,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nlyqwlyykvjl.com^
 ||nlz0ini5uz9t.com^
 ||nlzz7a3md4sx.com^
+||nmentsce.top^
 ||nmentshad.info^
 ||nmentsim.club^
 ||nmldqncelrpht.com^
@@ -80775,7 +80777,6 @@ fqsousou.com,kengso.com#@#.user-share
 /api/log?
 /api/lt/ref?
 /api/metrics$other
-/api/metrics|
 /api/pageview?
 /api/ping/*
 /api/pixel?
@@ -95021,6 +95022,7 @@ u
 ||ts.delfi.
 ||tsn.ua/svc/video/stat/
 ||ttxm.co.uk^*/log.js
+||tube8live.com/api/metrics
 ||tubeplus.me/geoip.php?
 ||tubepornclassic.com/js/111.js
 ||tubepornstars.com/js/analytics

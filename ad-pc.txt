@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4uv5YdLBxV9qRQOYzm7wdA
+! Checksum: /CSUcQa5vFOv3wj/JqLfAw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202010091423
-! Last Modified: 2020年10月09日 14:23
+! Version: 202010091521
+! Last Modified: 2020年10月09日 15:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32465,6 +32465,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||askallalb.club^
 ||askaspalb.online^
 ||askbegrag.com^
+||askewpatienceblameless.com^
 ||askinsoner.club^
 ||asonaloccu.info^
 ||asoulrox.com^
@@ -37104,6 +37105,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nlyqwlyykvjl.com^
 ||nlz0ini5uz9t.com^
 ||nlzz7a3md4sx.com^
+||nmentsce.top^
 ||nmentshad.info^
 ||nmentsim.club^
 ||nmldqncelrpht.com^
@@ -80888,7 +80890,6 @@ fqsousou.com,kengso.com#@#.user-share
 /api/log?
 /api/lt/ref?
 /api/metrics$other
-/api/metrics|
 /api/pageview?
 /api/ping/*
 /api/pixel?
@@ -95134,6 +95135,7 @@ u
 ||ts.delfi.
 ||tsn.ua/svc/video/stat/
 ||ttxm.co.uk^*/log.js
+||tube8live.com/api/metrics
 ||tubeplus.me/geoip.php?
 ||tubepornclassic.com/js/111.js
 ||tubepornstars.com/js/analytics
