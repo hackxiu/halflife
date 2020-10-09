@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jiNxCqfQeMrSKJScFuqmxw
+! Checksum: CGvJlGglN4r+taNkrbi3IQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202010092120
-! Last Modified: 2020年10月09日 21:20
+! Version: 202010092321
+! Last Modified: 2020年10月09日 23:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -33405,6 +33405,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cyqbtxpgarmc.com^
 ||cytrkxfzkxrjv.com^
 ||cyvnsdsygkpqvz.com^
+||cyzyyv.com^
 ||czcetfjlisyjh.com^
 ||czgmlnhz.com^
 ||czobtirdnwqhn.com^
@@ -34452,6 +34453,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||flexknfp.com^
 ||flipy6sudy.com^
 ||flloczhqdkn.com^
+||flmuqa.com^
 ||flmyidbnljphko.com^
 ||flnfbaoozuib.com^
 ||flnwaqyh.com^
@@ -37217,6 +37219,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nsserviewssti.club^
 ||nstjenxcpvm.com^
 ||nstlnjtrufu.com^
+||nstructhow.top^
 ||nswnseld.com^
 ||nsxawdatuetbq.com^
 ||ntadnddfgogpse.com^
