@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0cfJhBfouJYg5Yqy3l85hQ
+! Checksum: MUFrmzUVaRK3Sh0iodwaFA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010091624
-! Last Modified: 2020年10月09日 16:24
+! Version: 202010091822
+! Last Modified: 2020年10月09日 18:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -3986,7 +3986,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adwrapperiframe.
 /adwriter2.
 /adx-exchange.
-/adx.$domain=~adx.co.nz|~adx.cx|~adx.nz|~adx.ru|~adx.tribefire.com|~adx.uk.com|~adx.world|~adx.wowfi.com|~journals.uchicago.edu
+/adx.$domain=~adx.co.nz|~adx.cx|~adx.nz|~adx.ru|~adx.traveledge.com|~adx.tribefire.com|~adx.uk.com|~adx.world|~adx.wowfi.com|~journals.uchicago.edu
 /adx/ads?
 /adx/iframe.
 /adx/js/*
@@ -32221,6 +32221,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||amsfi.com^
 ||amsthr.com^
 ||amsvts.com^
+||amuletlatemanagement.com^
 ||amxodxmsuwdhn.com^
 ||anatomicele.site^
 ||anbalxkcpwa.com^
@@ -36657,6 +36658,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||monadplug.com^
 ||monastersincl.site^
 ||mondayunauthorized.com^
+||moneyzenith.com^
 ||mongdaughc.fun^
 ||monotonoussurveytoxic.com^
 ||montkpl.top^
@@ -37031,6 +37033,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||norakseemlyntr.info^
 ||normugtog.com^
 ||northeregikgf.club^
+||northernintimate.com^
 ||northyatters.site^
 ||nosdbwnd.com^
 ||nostromedia.com^
@@ -38360,6 +38363,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||reenrageasse.xyz^
 ||refaucherais.site^
 ||refaucherais.website^
+||reflectionsforeground.com^
 ||refnippod.com^
 ||reforeightolikm.site^
 ||refunsiy.net^
@@ -39711,6 +39715,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||unoblotto.net^
 ||unreshiramor.com^
 ||unrzhgdly.com^
+||unskilledsqueakjunk.com^
 ||untabilityde.site^
 ||untpresearch.club^
 ||untridrisa.cf^
