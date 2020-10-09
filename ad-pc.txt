@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UT8SWL7jIaUuikaMDV2+Pw
+! Checksum: gSj0QidN/KOjbFDEvWgDfg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202010091223
-! Last Modified: 2020年10月09日 12:23
+! Version: 202010091320
+! Last Modified: 2020年10月09日 13:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32238,6 +32238,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||aicansecrea.fun^
 ||aichaima.top^
 ||aickeeho.com^
+||aidjodlthdaxq.com^
 ||aifoosty.net^
 ||aighthatev.club^
 ||aigneloa.com^
@@ -33900,6 +33901,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||effectionerew.site^
 ||effectionothere.site^
 ||effectwringoverreact.com^
+||efficiencycypressregarding.com^
 ||effixtile-inceive.com^
 ||efhlntnvpzi.com^
 ||eficdbhnojt.com^
@@ -35439,6 +35441,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||intelligenceadx.com^
 ||interdfp.com^
 ||interferingchauffeurorbit.com^
+||intermediaryinvoluntaryflippant.com^
 ||intinuedbgyuj.site^
 ||inukjwvwhz.com^
 ||invitesuperstitiousadmire.com^
@@ -36182,6 +36185,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ledsdwwmhapz.com^
 ||legalledgtjuj.club^
 ||legislands.club^
+||legislationsoil.com^
 ||legistsstillo.club^
 ||lehfzuosurakj.com^
 ||leijsdpbkgobg.com^
@@ -36686,6 +36690,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||miserintesto.site^
 ||missingarchery.com^
 ||missiontestamentinterfering.com^
+||mistressavouchdeity.com^
 ||misxgkvnlf.com^
 ||mitsczechoesy.site^
 ||mivrpcxlo.com^
@@ -38364,6 +38369,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||raccourir.xyz^
 ||ractcogniser.top^
 ||racticeretre.club^
+||radiusinlandexhibit.com^
 ||raenfh9tkuka.com^
 ||railroadheroicgold.com^
 ||raisingglisten.com^
@@ -39081,6 +39087,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||soapproceeding.com^
 ||socalledsteadilyeducated.com^
 ||socialbars-web1.com^
+||socialbars-web2.com^
 ||socialbars-web4.com^
 ||sociatedilo.club^
 ||societyuga.club^
@@ -39797,6 +39804,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||unexqnotmzyf.com^
 ||unfairliam.club^
 ||unformaticy.club^
+||unificfancin.club^
 ||uniformer.club^
 ||uniformery.club^
 ||unjqjnzvzyrtw.com^
@@ -40817,6 +40825,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||yaikleyabl.com^
 ||yajeaumd.com^
 ||yanderthundr.fun^
+||yankszapfop.com^
 ||yanskweqyuma.com^
 ||yapparenalu.info^
 ||yasmwesikz.com^
