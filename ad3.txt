@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lTkuFXBZc3sMHCVEzYWbog
+! Checksum: umOI8gFGrNYX257JOkb+tQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202010140017
-! Last Modified: 2020年10月14日 00:17
+! Version: 202010140415
+! Last Modified: 2020年10月14日 04:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -28342,7 +28342,7 @@ _mongo_stats/
 ||sophi.io^$third-party
 ||sophus3.com^$third-party
 ||soska.us^$third-party
-||sp-prod.net^$third-party,domain=~autobild.de|~bild.de|~boerse-online.de|~bz-berlin.de|~caramia.de|~computerbild.de|~edelblech.de|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~kombi.de|~metal-hammer.de|~musikexpress.de|~n24.de|~onmeda.de|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~transfermarkt.de|~travelbook.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
+||sp-prod.net^$third-party,domain=~autobild.de|~bild.de|~boerse-online.de|~bz-berlin.de|~caramia.de|~computerbild.de|~edelblech.de|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~kombi.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~onmeda.de|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~transfermarkt.de|~travelbook.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 ||spamanalyst.com^$third-party
 ||spectate.com^$third-party
 ||speed-trap.com^$third-party
@@ -32698,7 +32698,7 @@ _mongo_stats/
 ||fastly.net/plw.js
 ||fastly.net/sp.js
 ||opencmp.net^$script,third-party
-||privacy-mgmt.com^$script,third-party,domain=~11freunde.de|~faz.net|~tvspielfilm.de|~vip.de
+||privacy-mgmt.com^$script,third-party,domain=~11freunde.de|~boerse-online.de|~faz.net|~finanzen.at|~finanzen.net|~tvspielfilm.de|~vip.de
 ||cyveillance.com^$third-party
 ||howsmyssl.com^$third-party
 ||js.trendmd.com^$script,subdocument,third-party

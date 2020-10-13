@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Eu4/NjVIYqrFDtgSEX5Prw
+! Checksum: MGe0OeNBZvh/YJzSU3rSIQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202010140017
-! Last Modified: 2020年10月14日 00:17
+! Version: 202010140415
+! Last Modified: 2020年10月14日 04:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -602,6 +602,7 @@ iprima.cz##[class$="_fcid"], [data-mashiatus]
 iprima.cz##div[data-d-area]
 iprima.cz##[data-masparabus], [class$="_bubuzela"]
 iprima.cz##[class*="sas"]
+/posid=sas_$subdocument,xmlhttprequest,domain=iprima.cz
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##ball-hole, dr-ivehole
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##iframe[frameborder="0"][scrolling="no"][src^="javascript:window"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,expres.cz##div[style*="baackground-repeat: no-no;"]
@@ -729,7 +730,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 &cmpState=$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|expres.cz|idnes.cz
 /exlocate2=$subdocument,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 &ifr=0|$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
-&drula$script,domain=idnes.cz|expres.cz
+&mwla$script,domain=idnes.cz|expres.cz
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
@@ -1428,6 +1429,7 @@ kuchnia.wp.pl#$#abort-on-property-read pbjs.libLoaded
 turystyka.wp.pl#$#abort-on-property-read pbjsChunk
 dom.wp.pl,facet.wp.pl#?#.view-first:-abp-has(a[onclick*="var img = document.createElement('img');"])
 parenting.pl#$#abort-on-property-read slot
+wiadomosci.wp.pl,wawalove.wp.pl,turystyka.wp.pl,teleshow.wp.pl,opinie.wp.pl,gwiazdy.wp.pl,ksiazki.wp.pl,film.wp.pl,facet.wp.pl,kobieta.wp.pl,kuchnia.wp.pl,moto.wp.pl,tech.wp.pl,gry.wp.pl,finanse.wp.pl#$#abort-on-property-write window.INITIAL_STATE
 wp.pl,pudelek.pl,dobreprogramy.pl,abczdrowie.pl,parenting.pl,nerwica.com,autokult.pl,fotoblogia.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl,gadzetomania.pl#$#hide-if-contains-image-hash 01fbaba1e1e124f6,0f0f0f0f0f0f8f0e,01df646e662e74f0,06cf03f57c0ecf0c,c4d65c1edc1342e7,7a58585e5e1c465e,80dfccccc0becee0,676866473734f464,0bf170f404efc539,f870303c3c3000ff,0f0f8f070f0fcf06,5a5a7a5878783a3a,10f7e703385e2f23,1f38f838f0f0e8f0,e343e3a223e3cb07,ff001a1f1d36fc03,0f1b1f191f38381f,f8e003e77f80073b,3c3c7e180c7e3c3c,781e8f83e10f8f83,f98180fb8fc18f85,08dfdc1c1e5cfe10,3f090f87870f0c9f,c783eec00cee8357,60bd7e18107f3c3c,f8f8c1d3c3c3d385,7f0183677781db81,7e7e0f0f1cf4ff00,1cbc81f3c3c3db81,713c1f074f073707,01df646e662e74f0
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
@@ -1473,6 +1475,7 @@ gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.RTB
 razlozhi.ru#$#abort-on-property-read Object.prototype.setBlockData
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
+auto.ru#$#hide-if-matches-xpath '//div[@id="LayoutIndex"]//div[@class="Index"]//*[count(preceding-sibling::div[@class="Index__block"]) > 0]/child::*[last()]/self::*'; hide-if-matches-xpath '//div[@class="sidebar2__blocks"]/child::*[last()]/self::*'; hide-if-matches-xpath '//*[contains(concat(" ",normalize-space(@class)," ")," services-crosslinks ")]/following-sibling::*[1]/self::*'
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
 sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read document.documentElement.createShadowRoot
