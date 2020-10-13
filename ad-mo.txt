@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8SPedlhZoI1msYKi251u3w
+! Checksum: VGJDBooUD8ZRgteB2jiPsQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010130840
-! Last Modified: 2020年10月13日 08:40
+! Version: 202010131215
+! Last Modified: 2020年10月13日 12:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -33983,6 +33983,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||encogcfklrcpqw.com^
 ||encountryf.pro^
 ||encoursejaso.site^
+||endsensura.top^
 ||enelegalreac.space^
 ||enerableoffi.club^
 ||enfunesterons.site^
@@ -90742,6 +90743,7 @@ _mongo_stats/
 ||feedify.net/thirdparty/json/track/
 ||filament-stats.herokuapp.com^
 ||filesonic.com/referral/$third-party
+||firebaselogging-pa.googleapis.com^
 ||firecrux.com/track/$xmlhttprequest
 ||fitanalytics.com/metrics/
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
