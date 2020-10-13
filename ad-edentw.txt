@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kyCDj8tXqm10Lws5W7tl+w
+! Checksum: BBNQwoWBcj7hXetVlHynVw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202010131616
-! Last Modified: 2020年10月13日 16:16
+! Version: 202010132019
+! Last Modified: 2020年10月13日 20:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -729,8 +729,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 &cmpState=$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|expres.cz|idnes.cz
 /exlocate2=$subdocument,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 &ifr=0|$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
-&mula$script,domain=idnes.cz|expres.cz
-&rula$script,domain=idnes.cz|expres.cz
+&drula$script,domain=idnes.cz|expres.cz
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
@@ -873,6 +872,7 @@ novinky.cz#$#freeze-element .omg-barnding
 novinky.cz##a[href*=";CREFURL="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="outstream_container_"]
 novinky.cz##iframe[frofro="no"][scrascra="no"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz###sznad-video-takeover
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##a[href*="verdsi="][href*="&ip="]
@@ -1555,6 +1555,7 @@ ekovolga.com,mind.ua,itechua.com,argumentiru.com,forpost.media,gov.ua,ternopilli
 ! #CV-667
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 ! #CV-747
+quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//body//div//a[contains(@href,".rambler.ru") and @target="_blank" and not(@rel="nofollow") and not(contains(@href,"help.rambler.ru")) and not(contains(@href,"prime.rambler.ru"))]'
 autorambler.ru,championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.ru,rns.online,wmj.ru#$#override-property-read Object.prototype.createBanner noopFunc
 rambler.ru##.top-topic__coins
 rambler.ru##.top-main__banner--context
