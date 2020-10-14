@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eADCWd1etmAls5QtcTB7Ug
+! Checksum: f7e8Kr62x9ygo9UuiO7iPg
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202010141616
-! Last Modified: 2020年10月14日 16:16
+! Version: 202010142018
+! Last Modified: 2020年10月14日 20:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -729,8 +729,9 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 &pssp1=$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|idnes.cz|expres.cz
 &cmpState=$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|expres.cz|idnes.cz
 /exlocate2=$subdocument,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
-&ifr=0|$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
-&mwla$script,domain=idnes.cz|expres.cz
+&ifr=0|$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz
+&dwla$script,domain=idnes.cz|expres.cz
+_cz?format=js&async=1|$domain=idnes.cz
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
@@ -948,7 +949,7 @@ midroll$xmlhttprequest,domain=televizeseznam.cz
 bubak$xmlhttprequest,domain=televizeseznam.cz
 /?bn=*&ord=$xmlhttprequest,domain=expres.cz|idnes.cz
 ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
-/doubleclick_dmm^*/file.mp4|$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|idnes.cz|expres.cz
+/doubleclick_dmm^*/file.mp4$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
 expres.cz,idnes.cz##a[href*="area=preroll_"]
 expres.cz,idnes.cz##a[href*="click?xai="]
@@ -1179,6 +1180,7 @@ katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script do
 ||2h81gp.tkepyc.com^$script,xmlhttprequest,domain=pch.com
 ||1r7efqo.tjfmd.com^$script,xmlhttprequest,domain=pch.com
 ||1qboss9.ejuslehq.com^$script,xmlhttprequest,domain=pch.com
+||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||zk8n5o.oaqjwapqdho.com^$script,xmlhttprequest
 ||volstqkwmth.com^$script,xmlhttprequest
 ||dgnepemukk.com^$script,xmlhttprequest
