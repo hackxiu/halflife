@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vcxHNkA8Nh4tF2eYxSY+tw
+! Checksum: frh7gwvwun9EuYku9UeR/Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010140840
-! Last Modified: 2020年10月14日 08:40
+! Version: 202010141216
+! Last Modified: 2020年10月14日 12:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -33838,6 +33838,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||edjokerned.space^
 ||edlsdyhll.com^
 ||edmarketts.fun^
+||edmodernia.top^
 ||edmotherew.fun^
 ||edotherest.club^
 ||edoutoam.net^
@@ -39421,6 +39422,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||terskneesian.space^
 ||tesfatheleshs.club^
 ||testamentfendsounding.com^
+||testexemplify.com^
 ||teueondocabsu.com^
 ||tevenienceention.fun^
 ||tf-con.com^
@@ -61281,6 +61283,7 @@ www.google.com#@##videoads
 @@||phncdn.com/www-static/js/content-removal.js$script
 @@||phncdn.com/www-static/js/create-account.js?$script
 @@||phncdn.com/www-static/js/create-phlive-account.js$script
+@@||phncdn.com/www-static/js/crowdsource.js$domain=pornhub.com|pornhubthbh7ap3u.onion
 @@||phncdn.com/www-static/js/detect.browser.js?$script
 @@||phncdn.com/www-static/js/dropdown.js$script
 @@||phncdn.com/www-static/js/flag-user.js?$script
@@ -61400,9 +61403,10 @@ www.google.com#@##videoads
 @@||pornhub.com/album_upload$xmlhttprequest
 @@||pornhub.com/channel/$xmlhttprequest
 @@||pornhub.com/chat/$xmlhttprequest
-@@||pornhub.com/check/$xmlhttprequest
+@@||pornhub.com/check/$script,xmlhttprequest
 @@||pornhub.com/comment/$xmlhttprequest
 @@||pornhub.com/community_ajax?$xmlhttprequest,domain=pornhub.com|pornhubthbh7ap3u.onion
+@@||pornhub.com/contest_hub/$domain=pornhub.com|pornhubthbh7ap3u.onion
 @@||pornhub.com/event/awards_vote$xmlhttprequest
 @@||pornhub.com/front/$xmlhttprequest
 @@||pornhub.com/gif/$xmlhttprequest
@@ -61418,13 +61422,14 @@ www.google.com#@##videoads
 @@||pornhub.com/pornstars/$xmlhttprequest
 @@||pornhub.com/premium/$xmlhttprequest
 @@||pornhub.com/press/contact$xmlhttprequest,domain=pornhub.com
+@@||pornhub.com/purchase_flow_step1_ajax$domain=pornhub.com|pornhubthbh7ap3u.onion
 @@||pornhub.com/recommended$xmlhttprequest,domain=pornhub.com|pornhubthbh7ap3u.onion
 @@||pornhub.com/sex/wp-content/uploads/$image,domain=pornhub.com|pornhubthbh7ap3u.onion
 @@||pornhub.com/stream/$xmlhttprequest
 @@||pornhub.com/svvt/add?$xmlhttprequest
 @@||pornhub.com/toys/?$xmlhttprequest,domain=pornhub.com|pornhubthbh7ap3u.onion
 @@||pornhub.com/toys/wp-content/$image,script,xmlhttprequest,domain=pornhub.com|pornhubthbh7ap3u.onion
-@@||pornhub.com/upload/$xmlhttprequest
+@@||pornhub.com/upload/$script,xmlhttprequest
 @@||pornhub.com/uploading/$xmlhttprequest
 @@||pornhub.com/user/$xmlhttprequest
 @@||pornhub.com/users/$xmlhttprequest
@@ -61434,6 +61439,7 @@ www.google.com#@##videoads
 @@||pornhub.com/www-static/flash/gate.swf$other
 @@||pornhub.com/www-static/images/$image
 @@||pornhub.com^*/emoticons/$image
+@@||pornhubcom/video_selector/$domain=pornhub.com|pornhubthbh7ap3u.onion
 @@||pornhubcommunity.com/cdn_files/images/$image
 @@||pornhublive.com/blacklabel/bl.client.min.js|$script
 @@||pornmd.com/resources/js/search_widget.js$script
@@ -61827,7 +61833,6 @@ www.google.com#@##videoads
 /api/apiFetchAdsData
 /api/autosda.php
 /app_ad/slade.js
-/Appapi/adlist.php
 /Appapi/jjlist.php
 /apps/misc.php?action=advert&
 /assets/banners/600x100/*
@@ -70387,6 +70392,7 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+toolfk.com##.desc.center
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -75311,7 +75317,7 @@ bbs.my0511.com##embed[width="970"][height="70"]
 engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 guilinlife.com#?#li:-abp-has(> div > .content-other > .content-type:-abp-contains(广告))
 cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
-hboav.com#?#div:-abp-has(>div>.cc5278_banner_ad_cb)
+hboav.com#?#script + div:-abp-has(>div>.cc5278_banner_ad_cb)
 ifeng.com#?#.box_list:-abp-has(.tuig)
 ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
 sina.cn##iframe[id^="sinaadtk_"]
@@ -97316,6 +97322,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||ibm.com/software/reports/compatibility/clarity-reports/js/$script,~third-party
 @@||identity.mparticle.com^$xmlhttprequest,domain=msnbc.com|nbc.com
 @@||idfcbank.com/static/features/*/scripts/FingerPrint.js$script,~third-party
+@@||imgur.com/min/px.js$~third-party
 @@||imrworldwide.com/novms/js/2/ggc$script,domain=9now.com.au|adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|couriermail.com.au|dailyexaminer.com.au|espn.com|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|ipswichadvertiser.com.au|news-mail.com.au|news.com.au|noosanews.com.au|ntnews.com.au|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|townsvillebulletin.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
 @@||imrworldwide.com/v60.js$domain=adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|couriermail.com.au|dailyexaminer.com.au|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|ipswichadvertiser.com.au|last.fm|musicfeeds.com.au|news-mail.com.au|noosanews.com.au|ntnews.com.au|nzherald.co.nz|realestateview.com.au|sf.se|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|threenow.co.nz|townsvillebulletin.com.au|weatherchannel.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
 @@||infowars.com/videojs-event-tracking/dist/videojs-event-tracking.js
