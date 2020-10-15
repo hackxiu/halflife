@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qTjfkD6xs8D/tXHBtP1e/g
+! Checksum: da+TFStdbdORJSlM9oN0Rw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010160018
-! Last Modified: 2020年10月16日 00:18
+! Version: 202010160415
+! Last Modified: 2020年10月16日 04:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -23020,6 +23020,7 @@ _popunder+$popup
 ##.article-ad-primary
 ##.article-ad-row
 ##.article-ad-row-inner
+##.article-ad-section
 ##.article-ads
 ##.article-adv-right-sideBar
 ##.article-advert
@@ -37596,6 +37597,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||oughaoxixcfe.com^
 ||oughedear.club^
 ||oughgoalityabo.info^
+||oughtedcrim.top^
 ||ouhdgmzajfaop.com^
 ||oujlnbyavjhy.com^
 ||oukreesy.net^
@@ -51664,8 +51666,8 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||manytoon.com/script/$script
 ||marineterms.com/images/banners/
 ||marketrealist.com/?load=$subdocument
-||masternodes.online/bimages/
 ||masternodes.online/baimages/
+||masternodes.online/bimages/
 ||mathforum.org/images/tutor.gif
 ||maxconsole.com/styles/mc/ad/
 ||maxgames.com/img/sponsor_
