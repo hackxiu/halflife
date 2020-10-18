@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: O6HMdbVHmKxEhpWQDZHBGQ
+! Checksum: 5j9h1PNkx7+1jyZ0zfftEw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202010181216
-! Last Modified: 2020年10月18日 12:16
+! Version: 202010181616
+! Last Modified: 2020年10月18日 16:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -21565,6 +21565,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /astrack.js
 /astracker.
 /astracker/*
+/async/stat
 /asyncggtracking.
 /at.gif?
 /atapixel.js
@@ -22529,6 +22530,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /FacebookTracking.
 /faciliti-tag.
 /fairfax_tracking.js
+/famobi_tracking_
 /fastcounter.
 /favcyanalytics?
 /fb-app-tracker.
@@ -22892,6 +22894,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /gujTracker.
 /gv-analytics/*
 /gweb/analytics/*
+/hash_stat/*
 /hash_stat_bulk/*
 /hc/tracking/*
 /hc_pixel.gif?
@@ -25881,6 +25884,7 @@ weibo.com##.apps_PCD_reco_detail_right
 ?record&*&serve_js
 ?ref=*&itemcnt=
 ?service=settrace&
+?sponsor_pixel=
 ?src=*_trk=
 ?statify_referrer=
 ?stwc_cz=
@@ -32433,6 +32437,7 @@ _mongo_stats/
 ||tracking.fits.me^$third-party
 ||tracking.g2crowd.com^
 ||tracking.godatafeed.com^
+||tracking.html5games.com^
 ||tracking.interweave.com^$third-party
 ||tracking.jotform.com^
 ||tracking.keywee.co^
@@ -37062,6 +37067,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||unblog.fr/cu.js
 ||wawacity.*/bypass
 ||wbdds.allocine.fr^
+||wstats.gameblog.fr^
 ||yandex.fr/clck/click
 ||zonecss.fr/images/stat_robocop.gif?
 ||zonecss.fr/images/statscreen.gif?
