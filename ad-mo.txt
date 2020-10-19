@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7cG1+4csDGDW9Vb9qpHJ+g
+! Checksum: HKEeRCruDdRsWC5mF8h+Nw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010191216
-! Last Modified: 2020年10月19日 12:16
+! Version: 202010191616
+! Last Modified: 2020年10月19日 16:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -19464,6 +19464,7 @@ _popunder+$popup
 ##.ad-widget
 ##.ad-widget-area
 ##.ad-widget-list
+##.ad-widget-wrapper
 ##.ad-width-300
 ##.ad-width-728
 ##.ad-windowshade-full
@@ -26753,6 +26754,7 @@ _popunder+$popup
 ##.mt-ad-container
 ##.mt-ads
 ##.mt-header-ads
+##.mt-t-ad
 ##.mt_adv
 ##.mt_adv_v
 ##.mtop_adfit
@@ -33647,6 +33649,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ditorsdyehou.club^
 ||ditwrite.com^
 ||diversepeacehush.com^
+||divisionap.top^
 ||diwfhgfszus.com^
 ||diwsvdnmpn.com^
 ||djdcjvivns.com^
@@ -34750,6 +34753,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gemhamsore.com^
 ||gencehepatie.club^
 ||gendenlend.club^
+||generalizationentertain.com^
 ||genergyothe.top^
 ||genuinealiaspuzzled.com^
 ||geodestricy.site^
@@ -35465,6 +35469,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||immscjnenl.com^
 ||immunical.club^
 ||imounsos.com^
+||implicationdownloadpercy.com^
 ||implishing.club^
 ||impressionassassin.com^
 ||imprisoninstancescourtyard.com^
@@ -37823,6 +37828,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pebadu.com^
 ||pebwjgvxpnxsch.com^
 ||peckshadowlousy.com^
+||pednorthe.top^
 ||peedtzaregg.casa^
 ||peekscrane.com^
 ||peethobo.com^
@@ -39435,6 +39441,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sweatheru.club^
 ||swegaiejcqfojl.com^
 ||swesomepop.com^
+||swimminghardworkingowners.com^
 ||swjvfwtypu.com^
 ||swoodlander.site^
 ||swoodlandsu.site^
@@ -50761,6 +50768,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dc5k8fg5ioc8s.cloudfront.net^
 ||ddvbjehruuj5y.cloudfront.net^
 ||djm080u34wfc5.cloudfront.net^
+||dkus30wj6f84p.cloudfront.net^
 ||dl5ft52dtazxd.cloudfront.net^
 ||dlne6myudrxi1.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
@@ -57406,6 +57414,7 @@ videolan.org##.pub_text
 hellokids.com##.pub_topright
 runt-of-the-web.com##.pubex
 efe.com##.publi-wrapper
+surinenglish.com##.publiTop
 catholic.net##.publicidad
 reporter.bz##.publicidad-logo
 eitb.eus##.publicidad_robapaginas
@@ -57495,6 +57504,7 @@ softicons.com##.right_ga
 talksms.com##.righttd
 songlyrics.com##.ringtone-matcher
 realitytea.com##.roadblock
+surinenglish.com##.roba
 roblox.com##.roblox-skyscraper
 designtaxi.com##.row.displayboard
 bikechatforums.com##.row2[style="padding: 5px;"]
@@ -86981,7 +86991,7 @@ _mongo_stats/
 ||sophi.io^$third-party
 ||sophus3.com^$third-party
 ||soska.us^$third-party
-||sp-prod.net^$third-party,domain=~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~kombi.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~transfermarkt.de|~travelbook.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
+||sp-prod.net^$third-party,domain=~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~kombi.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.de|~travelbook.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 ||spamanalyst.com^$third-party
 ||spectate.com^$third-party
 ||speed-trap.com^$third-party
@@ -93101,6 +93111,7 @@ _mongo_stats/
 ||infogr.am/js/metrics.js
 ||infomine.com/imcounter.js
 ||infoq.com/metrics/
+||informer.com/ajax/article_log.php
 ||informer.com/statistic?
 ||infospace.com^*=pageview&
 ||infusionextreme.com/tracker/
@@ -96159,6 +96170,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||auto.ru/cookiesync/
 ||avito.ru/stat/
 ||babyblog.ru/pixel?
+||c.sibnet.ru^
 ||consultant.ru/js/counter.js
 ||cosmo.ru/*/.js?i=*&r=
 ||counter.drom.ru^
