@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SyylPJKmct7jJLB5RaUifQ
+! Checksum: UX684kxfRU4W7jfQy33Tjg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010210019
-! Last Modified: 2020年10月21日 00:19
+! Version: 202010210415
+! Last Modified: 2020年10月21日 04:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -8443,6 +8443,7 @@ takeover_banner_
 /banger.js
 /detroitchicago/anaheim.js
 /detroitchicago/boise.js
+/detroitchicago/dayton.js
 /detroitchicago/houston.js
 /detroitchicago/memphis.js
 /detroitchicago/minneapolis.js
@@ -34074,6 +34075,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||encogcfklrcpqw.com^
 ||encountryf.pro^
 ||encoursejaso.site^
+||endriawoolr.top^
 ||endsensura.top^
 ||enelegalreac.space^
 ||enerableoffi.club^
@@ -54130,6 +54132,7 @@ cartoonnetwork.co.nz,cartoonnetwork.com.au,quotesdaddy.com###bottomBanner
 rachaelraymag.com###bottomBannerContainer
 jooble.org###bottomBannerPlace
 wtmx.com###bottomBanners
+glosbe.com###bottomContainer
 steamanalyst.com###bottomDiv
 chacha.com###bottomHeaderBannerWrap
 startribune.com###bottomLeaderboard
@@ -55440,7 +55443,7 @@ macworld.co.uk###topBannerSpot
 money.co.uk###topBar
 hotscripts.com###topBox
 ewn.co.za###topCoke
-atlasobscura.com###topContainer
+atlasobscura.com,glosbe.com###topContainer
 kioskea.net###topContent
 steamanalyst.com###topDiv
 popularscreensavers.com###topFooter
@@ -57852,6 +57855,7 @@ trucksales.com.au##.tiles-container
 coub.com##.timeline-banner
 aardvark.co.nz##.tinyprint
 softwaredownloads.org##.title2
+mp1st.com##.titlebar-wrapper
 wambie.com##.titulo_juego1_ad_200x200
 centredaily.com##.tla
 practicalmotorhome.com##.tlc-leaderboard
@@ -96804,6 +96808,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||serve-ts.amagi.tv^*/beacon?$xmlhttprequest,domain=watch.truecrimenetworktv.com
 @@||siteapps.caa.co.uk/scripts/plugins/analytics/ga.min.js$script,~third-party
 @@||smartclient.com/smartclient/isomorphic/system/modules/isc_analytics.js$xmlhttprequest
+@@||solr.sas.com/query/$xmlhttprequest,domain=jmp.com
 @@||songza.com/static/*/songza/systems/$script
 @@||sophos.com^*/tracking/gainjectmin.js$script,domain=community.sophos.com
 @@||speakout7eleven.ca^*/Magento_GoogleTagManager/$~third-party
