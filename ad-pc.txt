@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1thzwAIgR99XoEVxDFt3xw
+! Checksum: V+UOWFEOWPtEuTji5hHO3Q
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202010201216
-! Last Modified: 2020年10月20日 12:16
+! Version: 202010201617
+! Last Modified: 2020年10月20日 16:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -31952,6 +31952,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||62b70ac32d4614b.com^
 ||63fut3uw0b.xyz^
 ||63r2vxacp0pr.com^
+||63voy9ciyi14.com^
 ||640f94e47dc41c.com^
 ||641198810fae7.com^
 ||645yvcj6c8rn.com^
@@ -32100,6 +32101,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||956b2fb847d.com^
 ||95a44ebca8b1abc20.com^
 ||967rett6fzaf.com^
+||96y9sqlihv3d.com^
 ||970ztqtss4.com^
 ||98uhl1aiyw.xyz^
 ||994ot5rkpch2.com^
@@ -32854,6 +32856,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||bilrtklg.com^
 ||bindmillionairenaturalists.com^
 ||binetsrealing.club^
+||bingooverdosegroom.com^
 ||binsatbee.club^
 ||bipwrite.com^
 ||biroads.com^
@@ -33445,6 +33448,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cqvkwpulpwfudg.com^
 ||cqyirsc.com^
 ||cr-brands.net^
+||craqueteriez.xyz^
 ||creasureeffe.club^
 ||createssque.club^
 ||creathere.club^
@@ -38256,6 +38260,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||professonsd.top^
 ||proficientinflectionaluminium.com^
 ||profilesterility.com^
+||profitabledisplaycontent.com^
 ||profitablegate.com^
 ||prograph.club^
 ||prographiciko.site^
@@ -40227,6 +40232,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||urnuvssumlrb.com^
 ||uroidgcc.com^
 ||uropersag.club^
+||urt7bpvfz4am.com^
 ||urthvisitoric.space^
 ||uruswan.com^
 ||urymiseshabe.club^
@@ -40767,6 +40773,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wjvwxcnavjodj.com^
 ||wjwontqlqchq.com^
 ||wkhkffefck.com^
+||wkll7glfazgp.com^
 ||wkloqctyiyow.com^
 ||wkosrsfybeq.com^
 ||wkwakmsttsehi.com^
@@ -41421,6 +41428,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||z11yv3xpzk.com^
 ||z3dmbpl6309s.com^
 ||z501lpfg9x8v.com^
+||z6vmw.top^
 ||zabhoggkgm.com^
 ||zadhrsvmawp.com^
 ||zadhuigxoeztzo.com^
@@ -43415,7 +43423,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||doublemax.net^$third-party
 ||doublepimp.com^$third-party
 ||doublerecall.com^$third-party
-||doubleverify.com^$third-party
 ||doubooca.com^$third-party
 ||down1oads.com^$third-party
 ||downloadboutique.com^$third-party
@@ -62119,6 +62126,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||99l.co^$third-party
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -69738,6 +69746,7 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||alicdn.com/imgextra/i3/1731999033/TB2lAJufnlYBeNjSszcXXbwhFXa_
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 china.cn##.search_video
@@ -90170,6 +90179,7 @@ _mongo_stats/
 ||fullstory.com/s/fs.js$third-party
 ||future-fie-assets.co.uk^
 ||future-price.co.uk^
+||futurecdn.net/bordeaux.js
 ||futurecdn.net^*/abp.js
 ||fwcdn1.com/js/fwn.js
 ||fwix.com/ref.js
