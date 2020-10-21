@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 60BWCHzQ7XELTuMht7M7rg
+! Checksum: LfbfSpL0lVpycdmxVcVJlA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010220020
-! Last Modified: 2020年10月22日 00:20
+! Version: 202010220415
+! Last Modified: 2020年10月22日 04:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -36406,6 +36406,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||limitaterer.club^
 ||limnigraphes.xyz^
 ||lindencarry.pro^
+||lingchallersh.top^
 ||lingeriebarren.com^
 ||lingovernmen.fun^
 ||linkeinvitable.site^
@@ -58289,6 +58290,7 @@ shtfplan.com##a[onclick^="_gaq.push(['_trackEvent', 'TextAd',"]
 checkpagerank.net##a[onclick^="_gaq.push(['_trackEvent', 'link', 'linkclick'"]
 aliexpress.com#?#.list-item:-abp-has(span.sponsored)
 amazon.ca,amazon.co.uk,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it#?#.s-result-item:-abp-has(h5.s-sponsored-header)
+amazon.ca,amazon.co.uk,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it#?#.s-result-item:-abp-has(span.sbv-ad-feedback)
 searchenginejournal.com##aside[id^="SEJ_300x250_"]
 just-dice.com##body > .wrapper > .container:first-child
 cesoirtv.com#?#a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
@@ -75412,7 +75414,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||joyk.com^$generichide
 @@||jrhot.com/data/attachment/*_300_250_
 @@||js.tudouui.com/bin/player2/$object
-@@||jsdelivr.net^$domain=bde4.com
 @@||jswenhui.com^*/ad/
 @@||jwpcdn.com/player/plugins/googima/*/googima.js$domain=viu.tv
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
@@ -76601,6 +76602,9 @@ bejson.com##a[href*="layui.com"]
 bejson.com#?#:-abp-has(> [data-href*="://t.cn/"])
 bejson.com#?#:-abp-has(> a[href*="://t.cn/"])
 ||bejson.com/static/ydxyt/
+!#bde4.com
+@@||jsdelivr.net/gh/bde4admin/*/prebid-ads.js$domain=bde4.com
+||jsdelivr.net/gh/bde4admin/*/js/common.$domain=bde4.com
 !#Bingfeng.tw
 @@/unadblock/adjs_$domain=bingfeng.tw
 @@||adsinstant.com/bingfeng/gm$domain=bingfeng.tw
