@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IeKfqK4xnH2w5U/PFaFB0A
+! Checksum: /7MnkoUGQeZLQP1yuwR/2w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202010212019
-! Last Modified: 2020年10月21日 20:19
+! Version: 202010220020
+! Last Modified: 2020年10月22日 00:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -12250,6 +12250,7 @@ _popunder+$popup
 ###ads-leader
 ###ads-leaderboard
 ###ads-leaderboard1
+###ads-left
 ###ads-left-sidebar
 ###ads-left-top
 ###ads-link
@@ -27553,6 +27554,7 @@ _popunder+$popup
 ##.queue_ad
 ##.quick-adsense-up
 ##.quick-tz-ad
+##.quickadsense
 ##.quicklinks-ad
 ##.quigo
 ##.quigo-ad
@@ -33246,6 +33248,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||choinsiden.club^
 ||choorgiw.net^
 ||chootsod.net^
+||chpfgx.com^
 ||christingera.site^
 ||christinglatvian.site^
 ||christingsugged.site^
@@ -33848,6 +33851,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dogwrite.com^
 ||dokauzob.top^
 ||dolgotok.pro^
+||dollsdeclare.com^
 ||dolohen.com^
 ||dolphincdn.xyz^
 ||dolsoste.com^
@@ -37299,6 +37303,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||newbornwilful.com^
 ||newerannews.com^
 ||news-headlines.co^
+||news07.biz^
 ||newsadst.com^
 ||newsm247.online^
 ||newspaperlove.com^
@@ -37773,6 +37778,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ophoahik.net^
 ||opisumqii.com^
 ||opoapibs.net^
+||opportedag.top^
 ||oppressiveinterdependenthumanity.com^
 ||opsoomet.net^
 ||optimizesrv.com^
@@ -47741,6 +47747,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||netliker.com^$popup,third-party
 ||never2date.com^$popup,third-party
 ||newjulads.com^$popup
+||news07.biz^$popup
 ||newstarads.com^$popup,third-party
 ||newsushe.info^$popup
 ||newtab-media.com^$popup,third-party
@@ -77012,6 +77019,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
 ||256k.xyz^
+||xdrzdh.cn^
+||zwhkug.cn^
 bxwx666.org###addiv3
 bxwx666.org###bdstatic
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
