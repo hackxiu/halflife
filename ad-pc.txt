@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GZUKDB7YQy+474EfJ0JEuw
+! Checksum: lZUY90ADI3ndIlEeQXPYOw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202010231618
-! Last Modified: 2020年10月23日 16:18
+! Version: 202010232027
+! Last Modified: 2020年10月23日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -8629,6 +8629,7 @@ _prx/ba_$script
 /ext/prebid
 /gpt_and_prebid/*
 /jppolPrebid.
+/js/prebid-
 /newPrebid.
 /pb.min.
 /pbjs-*.js
@@ -34587,6 +34588,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fgbmbyqmdgr.com^
 ||fgbmjogeurrqe.com^
 ||fgddl9szdof7.com^
+||fgfgnbmeieorr910.com^
 ||fggwavfjucnyw.com^
 ||fgjasshw.com^
 ||fgoocsqg.com^
@@ -36917,6 +36919,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mgpejafvxxn.com^
 ||mgpphjvd.com^
 ||mgrantzenint.fun^
+||mgsqbazssiq.com^
 ||mhfivsdhbpfgk.com^
 ||mhhjqfjujxwrfa.com^
 ||mhj765.xyz^
@@ -37350,6 +37353,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nignrecentry.club^
 ||nigypfppbo.com^
 ||niledestratherg.club^
+||nimelytranst.club^
 ||nimjdyknjzcp.com^
 ||nimmediu.info^
 ||nindonsenat.club^
@@ -37603,6 +37607,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||oatvyenmekc.com^
 ||oaxpcohp.com^
 ||oazbtactg.com^
+||obahet.com^
 ||obaukads.com^
 ||obefjbb4mykw.com^
 ||obfkwtiwavn.com^
@@ -39858,6 +39863,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tlgprhsl.com^
 ||tlgvoeeuhxsd.com^
 ||tlhiatdhw.com^
+||tljivh.com^
 ||tlkhzqmrg.com^
 ||tlkqzjvyujb.com^
 ||tlocatering.club^
@@ -40137,6 +40143,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||uinelypresse.info^
 ||uiqwtgcp.com^
 ||uisdjvwytl.com^
+||uisingreactic.top^
 ||uistspregna.club^
 ||uitabletublis.info^
 ||uixvbjknkqxfvj.com^
@@ -52914,7 +52921,7 @@ $popup,third-party,domain=loader.to|play.hydracdn.network|streamtape.com|vidclou
 ||zanox.com^$popup,domain=pregen.net
 ||zmovie.tv^$popup,domain=vidbox.net
 /about:blank#/$popup,domain=22pixx.xyz|9anime.to|disk.ly|dood.to|dood.watch|fmovies.to|gogoanime.pro|hydracdn.network|imagetwist.com|mixdrop.co|mstream.xyz|popads.net|powvideo.net|powvldeo.cc|putlocker.style|run-syndicate.com|spcdn.cc|steamplay.cc|streamtape.com|upstream.to|uptostream.com|vev.io|vev.red|vevo.io|vidcloud.co|videobin.co|videowood.tv|viditodo.com|vidoza.net|vidup.io|vortez.net|vshare.eu|watchserieshd.tv
-/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=5movies.fm|hulkstreams.com|jackstreams.com|live-golf.stream|olympicstreams.me|streamtape.net|strikeout.nu|telerium.net|vipleague.cc|watchserieshd.tv
+/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=5movies.fm|animepahe.com|hulkstreams.com|jackstreams.com|live-golf.stream|olympicstreams.me|streamtape.net|strikeout.nu|telerium.net|vipleague.cc|watchserieshd.tv
 /^https?:\/\/.*\.(info|pro|icu|app|xyz|pet|win|live|me|io|cc|pw|is|zone|bid|cf|ovh|site|review|ml)\.?(\/|:|$)/$popup,domain=dood.watch|fmovies.to|idup.io|powvideo.net|powvldeo.cc|putlocker.style|thepiratebay.org|uptostream.com|vev.io|vevo.io|vidcloud.co|videobin.co|videowood.tv|viditodo.com|vidoza.net|vortez.net|vshare.eu
 /^https?:\/\/.*[&%+=]/$popup,domain=mixdrop.co|powvideo.net|powvldeo.cc|prox4you.xyz|putlocker.fyi|putlocker.ninja|putlocker.style|putlockers.fm|putlockers.mn|putlockers.movie|rarbg.to|rarbgaccess.org|rarbgmirror.com|rarbgmirror.org|rarbgmirrored.org|rarbgproxy.org|rarbgprx.org|rarbgunblock.org|rarbgway.org|readcomiconline.to|repelis.net|seehd.pl|sendit.cloud|sendspace.com|sendvid.com|sportp2p.com|steamplay.cc|streamplay.life|streamplay.to|thepiratebay.org|thepiratebay10.org|torlock.com|torrentdownloads.me|torrentfunk2.com|uiz.io|ukpirate.org|unblockall.org|unblocker.cc|up-load.io|upload.ac|uploadproper.com|uploadproper.net|upstream.to|uptobox.com|userscloud.com|vev.io|vidbull.tv|videobin.co|vidlox.me|vidoza.co|vidoza.net|vidtomp3.com|vidup.io|vipbox.live|vipstand.se|vshare.eu|y2mate.com|yify-movies.net|youwatch.org|youzik.com|zippyshare.com
 |data^$popup,domain=1337x.to|zippyshare.com
@@ -96981,7 +96988,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||sealserver.trustwave.com/seal.js$domain=zoom.us
 @@||sears.com^*/analytics.sitecatalyst.js
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
-@@||ps.w.org/wp-slimstat/$$domain=wordpress.org
+@@||ps.w.org/wp-slimstat/$domain=wordpress.org
 @@||segment.com/v1/projects/$xmlhttprequest,domain=benchling.com
 @@||segment.io/analytics.js/*/analytics.min.js$script
 @@||segment.io/v1/$xmlhttprequest,domain=greentoe.com
