@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fplKDuuUtoAubEnWrph+XA
+! Checksum: YEPresL68LQO10AlRQhpIQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202010240418
-! Last Modified: 2020年10月24日 04:18
+! Version: 202010242019
+! Last Modified: 2020年10月24日 20:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -971,6 +971,8 @@ expres.cz,idnes.cz##a[href*="click?xai="]
 expres.cz,idnes.cz##videoplayer>video[data-io-video-title*="_idnestv_"]
 expres.cz,idnes.cz#$#hide-if-matches-xpath '//videoplayer[count(.//a[contains(@href,"area=preroll_")]) > 0]/video'
 idnes.cz#$#abort-on-property-write UBkoYloIbeBzkAaI; abort-on-property-read UBkoYloIbeBzkAaI;
+expres.cz,idnes.cz##videoplayer>video[src*="_krr.mp4"]
+expres.cz,idnes.cz##videoplayer>video[src*="_jaha.mp4"]
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
 clanky.seznam.cz,search.seznam.cz##.Result-ico:not([class="Result-ico"])
