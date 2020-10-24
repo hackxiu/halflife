@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: B9iHvmeYhugrxaWRMwpXmw
+! Checksum: LVv9Mzx7EC+hGG0/j9x+Rw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202010250021
-! Last Modified: 2020年10月25日 00:21
+! Version: 202010250415
+! Last Modified: 2020年10月25日 04:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -10512,6 +10512,7 @@ _popunder+$popup
 ###ad-leaderboard-spot
 ###ad-leaderboard-top
 ###ad-leaderboard-top-container
+###ad-leaderboard970x90home
 ###ad-leaderboard970x90int
 ###ad-leaderboard_bottom
 ###ad-leadertop
@@ -32249,6 +32250,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||adfrastingathles.info^
 ||adhits.cf^
 ||adhoc4.net^
+||adifficiente.top^
 ||aditingunfav.club^
 ||adjoiningfollowingaddiction.com^
 ||adlipacbrakmjp.com^
