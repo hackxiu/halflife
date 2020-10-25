@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nzRM+ZvpnGykQtEXifH5hQ
+! Checksum: R/SAnUBxZT99O1sVn2ejfA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010251617
-! Last Modified: 2020年10月25日 16:17
+! Version: 202010252019
+! Last Modified: 2020年10月25日 20:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -32209,6 +32209,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||agpiysffnuld.com^
 ||agqjjcwm.com^
 ||agrammemarg.info^
+||agrarianeruption.com^
 ||agreenikeru.site^
 ||agzfxovg.com^
 ||agzlxyylf.com^
@@ -33555,6 +33556,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||deadlinemurderapril.com^
 ||deadlingsfg.club^
 ||dealsnbuy.com^
+||dearbrotherinlaw.com^
 ||deatheriwevo.site^
 ||debadu.com^
 ||decademical.com^
@@ -34065,6 +34067,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||elongatedinscription.com^
 ||eloquencer.com^
 ||eloumbsyd.com^
+||elprogresse.top^
 ||elqsjecdav.com^
 ||elsupposit.club^
 ||elyconsisterj.club^
@@ -34964,6 +34967,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gqqsqbipuhlzb.com^
 ||gqrwjsjbnoayff.com^
 ||gqsgcdcxsmxw.com^
+||gqtffirr.com^
 ||gquqjrbgaghpfq.com^
 ||gqusxhuexmu.com^
 ||gqutnukt.com^
@@ -35793,6 +35797,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jeinvegpool.com^
 ||jejowkopsdiw.com^
 ||jeksffryglas.com^
+||jelllizard.com^
 ||jellyclick.com^
 ||jenaowzhtbi.com^
 ||jepmdqcn.com^
@@ -36301,6 +36306,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||latest-news.life^
 ||latheendsmoo.com^
 ||lationwordsi.club^
+||lativenayl.top^
 ||lattemptweh.club^
 ||lattitudecv.club^
 ||latviancedef.site^
@@ -36332,6 +36338,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ldevillaechildren.info^
 ||ldgjjycp.com^
 ||ldgozccnwgtuya.com^
+||ldgvxuhg.com^
 ||ldingchristing.site^
 ||ldipafssohosls.com^
 ||ldkjrqcqp.com^
@@ -36710,6 +36717,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mannequinent.site^
 ||mannequinent.website^
 ||mannernotchnewly.com^
+||manslaughteradministrationalarm.com^
 ||marchedcredulity.com^
 ||marchites.club^
 ||marerajahcopied.com^
@@ -37127,6 +37135,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nafgiaui.com^
 ||naganoadigei.com^
 ||naghocmu.com^
+||naginaldev.top^
 ||nah9v7mdppff.com^
 ||nahixtmnmpcz.com^
 ||nahpewniig.com^
@@ -37444,6 +37453,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ntvsw.com^
 ||ntymurmud.top^
 ||nucgjbkrixsyh.com^
+||nuclearpurposely.com^
 ||nudooapfildwbz.com^
 ||nuhwyavc.com^
 ||null-point.com^
@@ -38090,6 +38100,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pleatanxiety.com^
 ||pleatglossary.com^
 ||plehimselves.info^
+||plenituderingaccelerate.com^
 ||pletiondem.club^
 ||plgrrkpxnjrvac.com^
 ||plhielbsmvlm.com^
@@ -39411,6 +39422,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sowkhntq.com^
 ||sowlobptfzfh.com^
 ||soza6rsz3ezi.com^
+||spanhamweb.com^
 ||spankswindlewatchman.com^
 ||sparagken.com^
 ||sparedshabbylaugh.com^
@@ -39775,6 +39787,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tin-tin-win.com^
 ||tineprepair.club^
 ||tingenerall.club^
+||tionmodat.club^
 ||tionpronomyim.info^
 ||tiontablyvern.site^
 ||tirrevealsdi.fun^
@@ -40158,6 +40171,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||unificfancin.club^
 ||uniformer.club^
 ||uniformery.club^
+||unionsformalclearance.com^
 ||unjqjnzvzyrtw.com^
 ||unkingdiabeth.club^
 ||unknowlejir.club^
@@ -41317,6 +41331,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||yoomanies.com^
 ||yoqpnkhl.com^
 ||youearrid.com^
+||yourwebbars.com^
 ||yowlcapkegs.com^
 ||ypecfkbqgldzq.com^
 ||ypictqesjuib.com^
@@ -59555,6 +59570,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||notebookcheck.$image,~third-party
 @@||npr.org/sponsorship/targeting/$~third-party,xmlhttprequest
 @@||ntv.io/serve/load.js$domain=mcclatchydc.com
+@@||oauth.reddit.com/r/adblock.json$domain=reddit.com
 @@||objects.tremormedia.com/embed/js/$domain=videopoker.com|weeklyworldnews.com
 @@||online-banking.hsbc.com.au/gsp/saas/$~third-party
 @@||optimatic.com/iframe.html$subdocument,domain=pch.com
