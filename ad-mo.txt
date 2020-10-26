@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xGBFAt5G5vjx1Dv/UCe3sQ
+! Checksum: TWon+hKsbk2D7LCt9nZGlA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010270023
-! Last Modified: 2020年10月27日 00:23
+! Version: 202010270415
+! Last Modified: 2020年10月27日 04:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -9486,6 +9486,7 @@ _popunder+$popup
 ###AdBoxMoreGames
 ###AdButtons
 ###AdColumn
+###AdCommerce
 ###AdContainer
 ###AdContainerTop
 ###AdContentModule_F
@@ -9506,6 +9507,7 @@ _popunder+$popup
 ###AdFrame4
 ###AdHeader
 ###AdHouseRectangle
+###AdIbl
 ###AdImage
 ###AdIndexTower
 ###AdLayer1
@@ -11667,6 +11669,7 @@ _popunder+$popup
 ###ad_space_300_250
 ###ad_space_728
 ###ad_space_top
+###ad_sponsorBar
 ###ad_sponsored
 ###ad_sponsorship_2
 ###ad_spot300x250
@@ -19403,6 +19406,7 @@ _popunder+$popup
 ##.ad-tower
 ##.ad-tower-container
 ##.ad-towers
+##.ad-transition
 ##.ad-two
 ##.ad-txt
 ##.ad-type
@@ -30520,6 +30524,7 @@ _popunder+$popup
 ##div[data-ad-underplayer]
 ##div[data-adunit-path]
 ##div[data-adunit]
+##div[data-content="Advertisement"]
 ##div[data-id-advertdfpconf]
 ##div[data-mediatype="advertising"]
 ##div[data-native_ad]
@@ -58444,7 +58449,7 @@ yahoo.com##.gemini-ad
 yahoo.com##.gemini-ad-feedback
 yahoo.com##.item-beacon
 yahoo.com##.sys_shopleguide
-mail.yahoo.com##a[data-test-id^="pencil-ad-"]
+mail.yahoo.com##[data-test-id^="pencil-ad"]
 yahoo.com##div[class*="ads-"]
 yahoo.com##div[class*="gemini-ad"]
 yahoo.com##div[data-beacon] > div[class*="streamBoxShadow"]
