@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rfNCjYZWs+zaGg+1y/Tw3w
+! Checksum: pHZImTHfa36oa8XNFGQF+Q
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202010270415
-! Last Modified: 2020年10月27日 04:15
+! Version: 202010270844
+! Last Modified: 2020年10月27日 08:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -24213,7 +24213,6 @@ _popunder+$popup
 ##.cn_ad_placement
 ##.cnbcHeaderAd
 ##.cnbcRailAd
-##.cnbc_badge_banner_ad_area
 ##.cnbc_banner_ad_area
 ##.cnbc_leaderboard_ad
 ##.cnn160AdFooter
@@ -33141,6 +33140,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||catchinemuj.club^
 ||catiligh.ru^
 ||cationprepa.club^
+||cationsys.top^
 ||cattishfirearm.com^
 ||catwenbat.com^
 ||catwrite.com^
@@ -37819,6 +37819,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||onintensstud.club^
 ||onkftmmfiwxh.com^
 ||onmarshtompor.com^
+||onmystems.top^
 ||onolinclosesr.club^
 ||onrlaqhh.com^
 ||onsafelink.com^
@@ -38893,6 +38894,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||regqrfuvncqcm.com^
 ||regressure.club^
 ||reimpromot.fun^
+||reinformaln.top^
 ||reinspersian.com^
 ||reiqwxxd.com^
 ||relaxingovercomeexaggerate.com^
@@ -55937,6 +55939,7 @@ testcountry.com##.TC_advertisement
 narrative.ly##.TakeoverUnit
 adobe.com##.TextSmall[align="center"][style="font-size:9px;font-family:Arial"]
 algoafm.co.za##.TopBanner
+cnbc.com##.TopBanner-container
 audioz.download##.UsenetGreen
 vh1.com##.VMNThemeSidebarWidget
 zone.msn.com##.VerticalBannerTV_tag
@@ -57927,6 +57930,7 @@ treetorrent.com##.tdwb
 soccerway.com##.team-widget-wrapper-content-placement
 itproportal.com##.teaser
 mmegi.bw##.template_leaderboard_space
+gpucheck.com##.text-center[style]
 lastmenonearth.com##.text-muted
 jekoo.com##.textCollSpons
 sportschatplace.com##.textLink
@@ -58042,6 +58046,7 @@ pixhost.to##.under-image
 nv1.org##.underwriters
 wbgo.org##.underwriting
 wonderwall.com##.unicorn-wrap
+gpucheck.com##.unitBox
 wonderhowto.com##.unverVidAd
 hottipscentral.com##.unwrapped
 notebook-driver.com##.updrv
