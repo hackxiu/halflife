@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: k6H+RKIIcrsYB6mtPMljFg
+! Checksum: DxPbnnl08TmcPFaf/ZTSgA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202010300022
-! Last Modified: 2020年10月30日 00:22
+! Version: 202010300408
+! Last Modified: 2020年10月30日 04:08
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -18654,7 +18654,6 @@ fqsousou.com,kengso.com#@#.user-share
 ||hjfile.cn/analytics/site/TrackEvent.js
 !---------------------------------Temporary-----------------------------------!
 ! EasyList Lite
-!#include cjx-ublock.txt
 /adshow/*
 /new/ads/*
 ##.right-ad
@@ -37941,7 +37940,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||bookmate.com^*/impressions?$xmlhttprequest
 @@||bootcamp.mit.edu/js/angulartics-google-analytics.min.js
 @@||boxberry.ru/local/templates/site-boxberry/js/tracking_service.js$xmlhttprequest
-@@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|imperial.ac.uk|loveotv.com|theangryviking1776.com|washingtonpost.com|wix.com
+@@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|imperial.ac.uk|loveotv.com|theangryviking1776.com|thepittsburghoratory.org|washingtonpost.com|wix.com
 @@||bugzilla.mozilla.org^*/extensions/TrackingFlags/$script
 @@||c.paypal.com/da/r/fb.js$script
 @@||c212.net^$image,domain=prnewswire.com

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mvt4N1gxhjwkIiV9IoGyFQ
+! Checksum: SBEdWbyjOj746MPpCs5Ndw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010300022
-! Last Modified: 2020年10月30日 00:22
+! Version: 202010300408
+! Last Modified: 2020年10月30日 04:08
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -7926,7 +7926,6 @@ _ad_right.
 _ad_right_
 _ad_rolling.
 _ad_run.
-_ad_sense/
 _ad_server.
 _ad_service.
 _ad_serving.
@@ -31793,6 +31792,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||3wr110.xyz^
 ||3ye7lbhnlk.xyz^
 ||407433bfc441.com^
+||40a1eca447d.com^
 ||40ceexln7929.com^
 ||4141d006e4f4dd17ab9.com^
 ||41df76c67812005c.com^
@@ -32038,6 +32038,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||9a24a1b3dcd5f4.com^
 ||9ae7c9ffe8509b0.com^
 ||9b13c1c151f9664a73.com^
+||9bb6fa4987e.com^
 ||9c40a04e9732e6a6.com^
 ||9c690ac2bcb.com^
 ||9cd76b4462bb.com^
@@ -32375,6 +32376,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||anismane.club^
 ||anklandas.club^
 ||anlcld.com^
+||anncmq.com^
 ||announcedvillainvaluable.com^
 ||announcils.club^
 ||announcilsd.info^
@@ -34035,6 +34037,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||eetseemp.net^
 ||eeveniccoll.club^
 ||eevidespre.top^
+||ef5b6b02d2.com^
 ||ef867a1be4f83922.com^
 ||efashingsoccu.club^
 ||efbmfnzwsbnb.com^
@@ -35135,6 +35138,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gvwyxnyq.com^
 ||gvzphwswtv.com^
 ||gwigqsgv.com^
+||gwoyrhpjeloo.com^
 ||gwpjvfqeui.com^
 ||gwucenxvmkowap.com^
 ||gwwhheahisrtld.com^
@@ -38825,6 +38829,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||recomine.club^
 ||recommendedscenery.com^
 ||recommerdal.club^
+||recorderimplacablewhatever.com^
 ||recordingroadsidezoo.com^
 ||recoveryinformremorse.com^
 ||recruisefukiby.club^
@@ -39106,6 +39111,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rtpdn10.com^
 ||rtpdn11.com^
 ||rtrlseqbudrzfd.com^
+||rtymarvingp.top^
 ||ruamupr.com^
 ||rubfwmlm.com^
 ||rubicwithias.club^
@@ -40894,6 +40900,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||windows-remora-system.com^
 ||winsistakesme.site^
 ||wipowaxe.com^
+||wistfulinadmissible.com^
 ||withinknuko.club^
 ||withough.top^
 ||withougheves.site^
@@ -41377,6 +41384,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||yfibjzosrqrtmv.com^
 ||yfivoqeh.online^
 ||yfnvswrfjw.com^
+||yfomeimset.com^
 ||yformvcqgphol.com^
 ||yfrrzyphyk.com^
 ||yftuybem.com^
@@ -57972,6 +57980,7 @@ metro.co.uk##.trending-sponsored-byline
 sitepoint.com##.triggered-cta-box-wrapper-bg
 filediva.com,torrentfunk2.com,yourbittorrent2.com##.trtbl
 thestar.com##.ts-articlesidebar_wrapper
+fashionnetwork.com##.ts-point-carousel
 zimpapers.co.zw##.tsbanners
 winteriscoming.net##.tshirt-wrapper
 infoplease.com##.tutIP-infoarea
@@ -96684,7 +96693,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||bookmate.com^*/impressions?$xmlhttprequest
 @@||bootcamp.mit.edu/js/angulartics-google-analytics.min.js
 @@||boxberry.ru/local/templates/site-boxberry/js/tracking_service.js$xmlhttprequest
-@@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|imperial.ac.uk|loveotv.com|theangryviking1776.com|washingtonpost.com|wix.com
+@@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|imperial.ac.uk|loveotv.com|theangryviking1776.com|thepittsburghoratory.org|washingtonpost.com|wix.com
 @@||bugzilla.mozilla.org^*/extensions/TrackingFlags/$script
 @@||c.paypal.com/da/r/fb.js$script
 @@||c212.net^$image,domain=prnewswire.com
