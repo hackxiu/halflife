@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YOSOevWAPSIyipWtn26Abg
+! Checksum: EpozWewLG7BcF37KeNzoVw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202010291618
-! Last Modified: 2020年10月29日 16:18
+! Version: 202010292022
+! Last Modified: 2020年10月29日 20:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32912,6 +32912,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||bindmillionairenaturalists.com^
 ||binetsrealing.club^
 ||bingooverdosegroom.com^
+||bingtonwr.top^
 ||binsatbee.club^
 ||bipwrite.com^
 ||biroads.com^
@@ -37179,6 +37180,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||motherehoom.pro^
 ||motherhoodenhanced.com^
 ||motille.com^
+||moulieres.xyz^
 ||mouuhrprxixwrw.com^
 ||moveadrenaline.com^
 ||movie-pass.club^
@@ -40787,6 +40789,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||vujhqcemrpqj.com^
 ||vulbyhxsrxcdgo.com^
 ||vuqufeqv.com^
+||vutudm.com^
 ||vuvcwrxn.com^
 ||vuwcudzzyxn.com^
 ||vuwojxgklca.com^
@@ -56387,6 +56390,7 @@ ecommercetimes.com,ectnews.com,linuxinsider.com,macnewsworld.com,technewsworld.c
 h-online.com##.bcadv
 fakenamegenerator.com##.bcsw
 baidu.com##.bdvideo-adver-carousel
+beckershospitalreview.com##.becker_doubleclick
 wgbh.org##.becomeSponsor
 ssbcrack.com##.below-header
 vectorportal.com##.benner
@@ -57182,6 +57186,7 @@ komando.com##.interstitial-wrapper
 jango.com##.intro_block_module:last-child
 bridgemi.com##.investors-wrapper
 physicsworld.com##.iopp-sidebar
+zeenews.india.com##.iplheader
 twitter.com##.is-promoted
 drivearcade.com,freegamesinc.com##.isk180
 hbr.org,itwire.com##.island
@@ -64422,7 +64427,6 @@ ubmcmm.baidustatic.com
 ||wangdq.com^
 ||wangqipu.com^
 ||wangsufast.com^
-||wangzhanmeng.com^$third-party
 ||wantaico.com^
 ||wantfour.com^
 ||wapadv.com^
@@ -69849,6 +69853,7 @@ _yad_jsonp_
 ||6rrcc.com/style/jquery.
 ||baiten.cn/images/weInternation/
 ||toolfk.com/common/11/990-100.jpg
+||wangzhanmeng.com/link/link.html
 !------------------------Specific element hiding rules------------------------!
 baiten.cn##.JS_advertisement
 szxx.com.cn###A0
