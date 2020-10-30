@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tpUp7OKxyI/YYkqNPXkasw
+! Checksum: /g/L+bkYCrtWSkPkgu+z9g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202010302012
-! Last Modified: 2020年10月30日 20:12
+! Version: 202010310014
+! Last Modified: 2020年10月31日 00:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32401,6 +32401,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||aimaniape.club^
 ||aimrawwas.site^
 ||ainedprospe.club^
+||aintyjarde.top^
 ||ainupheader.club^
 ||aioemfxj.com^
 ||aionfavoura.club^
@@ -33658,6 +33659,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||d7e10fa2099.com^
 ||d869381a42af33b.com^
 ||d99sure.xyz^
+||d9a714dea2.com^
 ||da60995df247712.com^
 ||da6fda11b2b0ba.com^
 ||daamjzrlon.com^
@@ -38877,6 +38879,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||racticeretre.club^
 ||radiusinlandexhibit.com^
 ||raenfh9tkuka.com^
+||ragenessed.top^
 ||railroadheroicgold.com^
 ||raisingglisten.com^
 ||raivikod.net^
@@ -57172,7 +57175,6 @@ komando.com##.interstitial-wrapper
 jango.com##.intro_block_module:last-child
 bridgemi.com##.investors-wrapper
 physicsworld.com##.iopp-sidebar
-zeenews.india.com##.iplheader
 twitter.com##.is-promoted
 drivearcade.com,freegamesinc.com##.isk180
 hbr.org,itwire.com##.island
@@ -57487,6 +57489,7 @@ sensis.com.au##.panel
 afr.com##.panel--real_estate
 tpblist.us##.panel-danger
 panarmenian.net##.panner_2
+zeenews.india.com##.part-brdr
 cd1025.com,letour.fr,myfigurecollection.net,prolificnotion.co.uk##.partner
 hbr.org##.partner-center
 mail.com##.partner-container
@@ -62015,6 +62018,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||58taopinhui.com^
 ||sq85.press^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
@@ -66446,7 +66450,7 @@ _yad_jsonp_
 ||content.xilu.com^$object
 ||coolaler.com/index_ads/
 ||coolpc.com.tw/img/topweb.html
-||cosxcos.cc/uploads/my
+||cosxcos.cc/uploads/amybb/
 ||cp121.com/js2/
 ||cp2.eastmoney.com^
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
@@ -74953,9 +74957,12 @@ bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+gamer.com.tw#@#.afs_ads
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||googletagservices.com/tag/js/gpt.js$domain=www.gamer.com.tw
+@@||doubleclick.net/gpt/pubads_impl$domain=www.gamer.com.tw
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
@@ -78886,6 +78893,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||yscci.com^
 ||ysjweb.com^
 ||yssm.tv/sm/true.js
+||ysxs8.com/js/bd_top.js
 ||ysxs8.com/js/play_db.js
 ||ysyhljt.vip^
 ||ytbnm.cn^
@@ -86557,6 +86565,7 @@ _mongo_stats/
 ||nakanohito.jp^$third-party
 ||nalook.com^$third-party
 ||nanovisor.io^$third-party
+||narrativ.com^$third-party
 ||natero.com^$third-party
 ||native.ai^$third-party
 ||natpal.com^$third-party
@@ -91006,6 +91015,7 @@ _mongo_stats/
 ||stats.twistage.com^
 ||stats.varrando.com^
 ||stats.viddler.com^
+||stats.vliplatform.com^
 ||stats.webs.com^
 ||stats.webstarts.com^$third-party
 ||stats.wp.com^
