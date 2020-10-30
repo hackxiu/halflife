@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: olYT/v2HaaaQtA5Qs/axuA
+! Checksum: au1lDLYosUi1CYtpQwAjfQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202010301210
-! Last Modified: 2020年10月30日 12:10
+! Version: 202010301610
+! Last Modified: 2020年10月30日 16:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -8902,6 +8902,7 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -22048,6 +22049,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /clickstats.
 /clickstream.aspx?
 /clickstream.js
+/clickstream/visit?
 /clicktag.
 /ClickTail.
 /clicktale-
@@ -31304,6 +31306,7 @@ _mongo_stats/
 ||d3iouejux1os58.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
 ||d3l3lkinz3f56t.cloudfront.net^
+||d3m6sept6cnil5.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
 ||d3q7vxy7usqoub.cloudfront.net^
@@ -32145,6 +32148,7 @@ _mongo_stats/
 ||r.msn.com^
 ||r.ypcdn.com^*/rtd?ptid$image
 ||rackcdn.com/easie.js
+||rackcdn.com/gate.js
 ||rackcdn.com/icon2.gif?
 ||rackcdn.com/knotice.api.js
 ||rackcdn.com/stf.js
@@ -32792,6 +32796,7 @@ _mongo_stats/
 ||zengenti.com/tags/
 ||ziffdavisb2b.com^*/tracker.js
 ||ziffprod.com^*/zdcse.min.js?referrer=
+||zineone.com^*/event
 ||zmags.com/a/p/p.js
 ||zoover.co.uk/tracking/
 ||zope.net^*/ghs_wa.js
@@ -33967,6 +33972,7 @@ _mongo_stats/
 ||canoe.ca/generix/ga.js
 ||canstockphoto.com/monitor/
 ||capitalone.com/collector/
+||capture.crutchfield.com^
 ||cardomain.com/js/tibbylog.js?
 ||cardstore.com/affiliate.jsp?
 ||carmagazine.co.uk^*/tracking.js
@@ -34505,6 +34511,7 @@ _mongo_stats/
 ||groupon.*/tracky$xmlhttprequest
 ||groupon.com/analytic/
 ||groupon.com/tracking
+||groupondata.com/tracky
 ||guardianapps.co.uk/geolocation
 ||gumtree.com.au/?pc=
 ||h.cliphunter.com^
@@ -34701,8 +34708,7 @@ _mongo_stats/
 ||klout.com/ka.js
 ||knoxnews.com/metrics/
 ||kodakgallery.com^*/analytics_
-||kohls.com/_bm/_data
-||kohls.com/test_rum?
+||kohls.com/test_rum_nv?
 ||kosmix.com^*.txt?pvid=
 ||krakenlyrics.com/view?
 ||laas.americanexpress.com^
@@ -36650,7 +36656,7 @@ _mongo_stats/
 /^https?:\/\/.*\.corsair\.(fr|ci|ca|gp|mq|re)\/[a-z0-9]{19,}\?/$script,xmlhttprequest
 ||aerlingus.com/ahktqsewxjhguuxe.js
 ||aerlingus.com/ahktqsewxjhguuxexhr.js
-||bhphotovideo.com/YAEMJLYP/
+||bhphotovideo.com/otohphnbwww-
 ||greenmangaming.com/omnopfddrdlevbbh.js
 ||gumtree.com/ycxwzbcsxennhrkc.js
 ||gumtree.com/ycxwzbcsxennhrkcxhr.js
