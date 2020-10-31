@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LkA0PLdvmDv4SjUC0tvcHg
+! Checksum: WgTMDxieNuBUj7dxhJVYRA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202010310409
-! Last Modified: 2020年10月31日 04:09
+! Version: 202010310825
+! Last Modified: 2020年10月31日 08:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -37977,6 +37977,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||cdn.privacy-mgmt.com^$domain=telegraph.co.uk
 @@||certona.net^*/scripts/resonance.js$script,domain=canadiantire.ca
 @@||changenow.io/js/tracking.js$script
+@@||chasecdn.com^*/@ccb-blueanalytics/$script,domain=chase.com
 @@||check.ddos-guard.net/check.js$script
 @@||chessfriends.com/js/live/GoogleAnalytics.js?$~third-party
 @@||circuitv.com/assets/js/analytics.js$~third-party
