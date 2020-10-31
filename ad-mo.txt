@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZLjPzySQ8falnSnKmcLVbw
+! Checksum: 2R5uD2t7Nj32StGSGZK09Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202010311211
-! Last Modified: 2020年10月31日 12:11
+! Version: 202010311610
+! Last Modified: 2020年10月31日 16:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -50224,7 +50224,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||i.lsimg.net^*/sides_clickable.
 ||i.lsimg.net^*/takeover/
 ||iad-*.blaze.com^
-||ibsrv.net/ForumSponsor/
 ||ibsrv.net/sidetiles/125x125/
 ||ibsys.com/sh/sponsors/
 ||ibvpn.com/img/banners/
@@ -52037,10 +52036,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||i3investor.com/cm/img/offer_
 ||i3investor.com/cm/img/partner/
 ||iamcdn.net/players/adeet.min.js$script,domain=playhydrax.com
-||ibsrv.net/*214x30.
-||ibsrv.net/*_215x30.
-||ibsrv.net/*_215x30_
-||ibsrv.net/*forumsponsor$domain=audiforums.com
 ||iceinspace.com.au/iisads/
 ||idlebrain.com^*/footer-
 ||idlebrain.com^*/hor-
@@ -52178,10 +52173,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||phuketwan.com/img/b/
 ||pimpandhost.com/static/html/
 ||planetlotus.org/images/partners/
-||playgames2.com/ban300-
-||playgames2.com/default160x160.php
-||playgames2.com/mmoout.php
-||playgames2.com/rand100x100.php
 ||ports.co.za/banners/
 ||positivehealth.com^*/BannerAvatar/
 ||positivehealth.com^*/TopicbannerAvatar/
@@ -56011,6 +56002,7 @@ answers.com##.adhesion_dom
 africanreporter.co.za,albertonrecord.co.za,alexnews.co.za,barbertontimes.co.za,bedfordviewedenvalenews.co.za,benonicitytimes.co.za,bereamail.co.za,boksburgadvertiser.co.za,brakpanherald.co.za,capricornreview.co.za,citybuzz.co.za,comarochronicle.co.za,corridorgazette.co.za,estcourtnews.co.za,eyethunews.co.za,fourwaysreview.co.za,germistoncitynews.co.za,hazyviewherald.co.za,heidelbergnigelheraut.co.za,highvelder.co.za,highwaymail.co.za,joburgeastexpress.co.za,kathorusmail.co.za,kemptonexpress.co.za,kormorant.co.za,krugersdorpnews.co.za,ladysmithgazette.co.za,letabaherald.co.za,maritzburgsun.co.za,midrandreporter.co.za,newcastleadvertiser.co.za,northcliffmelvilletimes.co.za,northcoastcourier.co.za,northeasterntribune.co.za,northernnatalcourier.co.za,northglennews.co.za,phoenixsun.co.za,publiceyemaritzburg.co.za,randburgsun.co.za,randfonteinherald.co.za,rekordcenturion.co.za,rekordeast.co.za,rekordmoot.co.za,rekordnorth.co.za,reviewonline.co.za,risingsunchatsworth.co.za,risingsunlenasia.co.za,risingsunoverport.co.za,roodepoortnorthsider.co.za,roodepoortrecord.co.za,rosebankkillarneygazette.co.za,sandtonchronicle.co.za,southcoastherald.co.za,southcoastsun.co.za,southerncourier.co.za,southlandssun.co.za,sowetourban.co.za,springsadvertiser.co.za,standertonadvertiser.co.za,tembisan.co.za,vryheidherald.co.za,westside-eldos.co.za,witbanknews.co.za,zululandobserver.co.za##.adhesive_holder
 animalfactguide.com,ask.com,bigislandnow.com,dnainfo.com,portlandmonthlymag.com##.adlabel
 ebookbrowse.com##.adleft
+corona.help##.adlg
 prokerala.com##.adm-unit
 vietnamnet.vn##.adm_c1
 ncaa.com##.adman-label
@@ -89637,7 +89629,6 @@ _mongo_stats/
 ||collector.mazeberry.com^
 ||collector.roistat.com^
 ||collector.sspinc.io^
-||comet.ibsrv.net^
 ||comic-rocket.com/metrics.js
 ||comms.thewhiskyexchange.com^$image
 ||communicatorcorp.com^*/conversiontracking.js
