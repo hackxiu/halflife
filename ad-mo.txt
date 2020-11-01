@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SDJW8X/zmhGOFjh38RLUew
+! Checksum: rs9jJpFr5KAvaSXcuGbE9g
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011012012
-! Last Modified: 2020年11月01日 20:12
+! Version: 202011020016
+! Last Modified: 2020年11月02日 00:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -32389,6 +32389,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||anatomicele.site^
 ||anbalxkcpwa.com^
 ||anbiarfehxyz.com^
+||ancesethod.top^
 ||andbaybay.club^
 ||andvqrqaeu.com^
 ||anelexpres.club^
@@ -38911,6 +38912,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||redirect2719.ws^
 ||redolymerse.top^
 ||redresseducatedage.com^
+||reducatedc.top^
 ||reductingds.club^
 ||reembrasserait.website^
 ||reenrageasse.xyz^
@@ -39773,6 +39775,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||suzanne.pro^
 ||svclqyctlijue.com^
 ||svevbvsjeicl.com^
+||svolution.top^
 ||svrybecqxgdq.com^
 ||svsatrerbxh.com^
 ||svsub.com^
@@ -69459,8 +69462,11 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||sangwu8.com/xin/
+||9kp.cc/js/bbk/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+mydrivers.com##A[style][href*=".jd.com/"]
 xhaiwai.com##.baoru
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -70801,7 +70807,6 @@ zqzq.com###wAdTop1
 zqzq.com###wAdTop2
 weishangshijie.com###wad_left
 weishangshijie.com###wad_right
-hboav.com##.cc5278_banner_ad:not([style])
 21ic.com###warp_con
 chineseinla.com###weixin_ads2
 fububu.com###wendibu
