@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QEPPmn+a7HI99BvxE+kaWg
+! Checksum: 4LINy/gKfv6LkQF4JGDbiA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011021213
-! Last Modified: 2020年11月02日 12:13
+! Version: 202011021611
+! Last Modified: 2020年11月02日 16:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -52571,11 +52571,6 @@ $image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidtodo.c
 @@||platform.twitter.com^$script,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
 |http://$script,third-party,xmlhttprequest,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
 |https://$script,third-party,xmlhttprequest,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
-||gamerant.com/porpoiseant/
-@@||s.gravatar.com^$script,third-party,domain=s0ft4pc.com
-@@||wp.com/wp-content/js/$script,domain=s0ft4pc.com
-|http://$script,third-party,xmlhttprequest,domain=s0ft4pc.com
-|https://$script,third-party,xmlhttprequest,domain=s0ft4pc.com
 @@||ajax.googleapis.com^$script,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
 @@||apis.google.com^$script,subdocument,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
 @@||cdnjs.cloudflare.com^$script,stylesheet,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
@@ -61816,6 +61811,7 @@ _xiuno_com_ad/
 ##.propa_bottom
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||climbcoder.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -70410,7 +70406,7 @@ pianhd.com###myCarousel
 pianyuan.net###myModal
 qqjia.com###myadsL
 xiaoz.me###mygg
-psdhtml.cn###myggnx
+psdhtml.cn##DIV[role^="structure_"]
 28188.com,28188.net,yxad.com###nav
 ccav1.com###nav-menu > ul > .menu-item > a[href^="http"]:not([href*="yigujin."])
 apiref.com###navbarRightAd
