@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Eo+an6tHcwbU7HYQ1H6gWA
+! Checksum: XPdY7WWAKq7tFSl4LJiF6g
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011032013
-! Last Modified: 2020年11月03日 20:13
+! Version: 202011040020
+! Last Modified: 2020年11月04日 00:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -70288,8 +70288,8 @@ windows7en.com###index_long_first
 baidu.com###index_right_float
 baidu.com###index_right_top
 chinabidding.cn###info_adv_1
+520call.me,yocoolnet.in###inplayer
 58.com###infolist > .recycleInfo
-520call.me,520cc.cc,jav777.cc,yocoolnet.in###inplayer
 pchome.net###intel-bar
 mm-cg.com###ioshowAD
 zmz2020.com###iqiyi
@@ -76721,6 +76721,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
 ||dirbfm.cn^
+||kgfnhf.cn^
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
 ###downdiv > .downcode
 ##.box_con[style="border-radius:10px;background-color:#ff0000;padding:15px;"]
