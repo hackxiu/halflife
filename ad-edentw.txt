@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5gmjticTzYGR8d+SUKw6yQ
+! Checksum: AHtW1jNhcNCFROfRj/fmQw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011042013
-! Last Modified: 2020年11月04日 20:13
+! Version: 202011050020
+! Last Modified: 2020年11月05日 00:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -716,7 +716,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 /auto.cz-hb-settings-sas.js$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 _WPGvW.min.js$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 /refresh-ads-init.js$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
-/r:*Standard|$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
+/r:*Standard|$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 =js&*=no&*=0|$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 -3ec48de3e3aa4a591bed4da40d172dad01e1032f.js$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 _c7.stBan-$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
@@ -820,7 +820,7 @@ azdab|$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepeni
 &jaden$subdocument,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 /satelliteLib-$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 &ubl=$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
-?wimvu=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
+?wimvr=$subdocument,script,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 /static/html^$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 /imp^$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 cat_*dog$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
@@ -836,6 +836,7 @@ _goes_through_the_woods=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz
 ?k=$subdocument,domain=novinky.cz|televizeseznam.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 =?$subdocument,domain=horoskopy.cz
 /fallbacks^$subdocument,domain=novinky.cz|televizeseznam.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+/dynamic^$image,domain=kupi.cz
 novinky.cz,super.cz,sport.cz,kupi.cz,aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 novinky.cz#$#abort-on-property-read ZsLssVpsEssJpS
 kupi.cz#$#abort-on-property-read AdsHelper; abort-on-property-read XvRabsaftHfter
@@ -901,6 +902,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="outstream_container_"]
 novinky.cz##iframe[frofro="no"][scrascra="no"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz###sznad-video-takeover
 novinky.cz##a[href*="&partId="]
+novinky.cz##div[style*="background-image: url"]
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##a[href*="verdsi="][href*="&ip="]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##[href*="&token="][target="_blank"]
