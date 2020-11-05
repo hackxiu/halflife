@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZybCJXlQYdE0r6XQ5BmGCg
+! Checksum: 4v4HyLmMgZ3/ycrCWkEyjg
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011050409
-! Last Modified: 2020年11月05日 04:09
+! Version: 202011051612
+! Last Modified: 2020年11月05日 16:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1580,7 +1580,7 @@ volynpost.com#$#abort-on-property-read trek_shownow
 ati.su#$#abort-on-property-read Object.prototype.advApiClient
 app2top.ru#$#abort-on-property-read tingle
 allboxing.ru#$#abort-current-inline-script document.querySelector open
-isport.ua,football.ua#$#abort-current-inline-script decodeURIComponent getAdBlockStatus; abort-current-inline-script document.querySelector /banner/
+www.i.ua,isport.ua,football.ua#$#abort-current-inline-script decodeURIComponent getAdBlockStatus; abort-current-inline-script document.querySelector /banner/
 kurs.com.ua#$#abort-on-property-read matchMedia
 ! Popup/popunder/clickunder
 oxax.tv,prostoporno.help,vmusi.ru,zloekino.su,ontivi.net,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
