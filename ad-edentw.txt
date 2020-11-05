@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4IUS0p1ARcJnXiPM7ra/eQ
+! Checksum: CFpiHeYL64YdlqwGqrLTkg
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011052016
-! Last Modified: 2020年11月05日 20:16
+! Version: 202011060023
+! Last Modified: 2020年11月06日 00:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -753,8 +753,8 @@ _c7.scptBan-$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e1
 &ifr=0|$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz
 =js&lst=$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 _cz?format=js&async=1|$domain=idnes.cz
-expres.cz#$#abort-on-property-read WBkoAloJbeRzkNaC; abort-on-property-write XkWolMobLezQkaI.loadSAS;
-idnes.cz#$#abort-on-property-write ZkZolMobLezBkaQ.loadSAS; abort-on-property-write PkAolFobVezXkaB.loadSAS
+/kyblik^$image,domain=idnes.cz|expres.cz
+?fl=res,$image,domain=idnes.cz|expres.cz
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
@@ -1429,8 +1429,8 @@ pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
 ! #CV-741
 yad2.co.il#$#abort-current-inline-script TextDecoder
 walla.co.il#$#abort-on-property-read jorLoad20a
-! MISC
-walla.co.il##iframe:not([src]):not([class])[scrolling="no"][frameborder="0"]:not(#rufous-sandbox)
+! #CV-890
+walla.co.il##iframe[class][id]:not([src])[frameborder="0"][scrolling="no"]:not(#rufous-sandbox)
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/hungarian.txt ***
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/indian.txt ***
 ! #CV-741
@@ -1473,6 +1473,7 @@ turystyka.wp.pl#$#abort-on-property-read pbjsChunk
 dom.wp.pl,facet.wp.pl#?#.view-first:-abp-has(a[onclick*="var img = document.createElement('img');"])
 parenting.pl#$#abort-on-property-read slot
 wiadomosci.wp.pl,wawalove.wp.pl,turystyka.wp.pl,teleshow.wp.pl,opinie.wp.pl,gwiazdy.wp.pl,ksiazki.wp.pl,film.wp.pl,facet.wp.pl,kobieta.wp.pl,kuchnia.wp.pl,moto.wp.pl,tech.wp.pl,gry.wp.pl,finanse.wp.pl#$#abort-on-property-write window.INITIAL_STATE
+wp.pl#$#override-property-read rekid 0
 wp.pl,pudelek.pl,dobreprogramy.pl,abczdrowie.pl,parenting.pl,nerwica.com,autokult.pl,fotoblogia.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl,gadzetomania.pl#$#hide-if-contains-image-hash 01fbaba1e1e124f6,0f0f0f0f0f0f8f0e,01df646e662e74f0,06cf03f57c0ecf0c,c4d65c1edc1342e7,7a58585e5e1c465e,80dfccccc0becee0,676866473734f464,0bf170f404efc539,f870303c3c3000ff,0f0f8f070f0fcf06,5a5a7a5878783a3a,10f7e703385e2f23,1f38f838f0f0e8f0,e343e3a223e3cb07,ff001a1f1d36fc03,0f1b1f191f38381f,f8e003e77f80073b,3c3c7e180c7e3c3c,781e8f83e10f8f83,f98180fb8fc18f85,08dfdc1c1e5cfe10,3f090f87870f0c9f,c783eec00cee8357,60bd7e18107f3c3c,f8f8c1d3c3c3d385,7f0183677781db81,7e7e0f0f1cf4ff00,1cbc81f3c3c3db81,713c1f074f073707,01df646e662e74f0
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
@@ -1609,9 +1610,7 @@ tverigrad.ru,novynarnia.com,apnews.com.ua,cn.ua,podpricelom.com.ua,begemot.media
 ! #CV-667
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 ! #CV-747
-rambler.ru,autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//*[not(self::node()[@class])][contains(normalize-space(),".ru") or contains(normalize-space(),".com") or contains(normalize-space(),".net") or contains(normalize-space(),"Реклама") or contains(normalize-space(),".соm") or contains(normalize-space(),".bz") or contains(normalize-space(),".сom") or contains(normalize-space(),".сom") or contains(normalize-space(),".cоm") or contains(normalize-space(),".net") or contains(normalize-space(),".рф") or contains(normalize-space(),".by") or contains(normalize-space(),".nеt") or contains(normalize-space(),".cоm") or contains(normalize-space(),".ru") or contains(normalize-space(),".info") or contains(normalize-space(),".ru") or contains(normalize-space(),".bz") or contains(normalize-space(),".nеt") or contains(normalize-space(),".cоm") or contains(normalize-space(),".pф") or contains(normalize-space(),".me") or contains(normalize-space(),".mе")]/ancestor::*[2][not(div)][not(p)][not(article)][not(head)][not(font)][not(li)][not(ul)]'
-autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//div//a[contains(@href,".rambler.ru") and @target="_blank" and not(@rel="nofollow")]'
-kino.rambler.ru,sport.rambler.ru,auto.rambler.ru,horoscopes.rambler.ru,finance.rambler.ru,woman.rambler.ru,doctor.rambler.ru,travel.rambler.ru,weekend.rambler.ru,games.rambler.ru,news.rambler.ru#$#hide-if-matches-xpath '//div//*[not(div[@class])]//a[contains(@href,".rambler.ru") and (@target="_blank") and not(@rel="nofollow") and not(@rel="noopener noreferrer") and not(@data-cerber-topline) and not(@class)]'
+~mail.rambler.ru,rambler.ru,autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//*[not(self::node()[@class])][contains(normalize-space(),".ru") or contains(normalize-space(),".com") or contains(normalize-space(),".net") or contains(normalize-space(),"Реклама") or contains(normalize-space(),".соm") or contains(normalize-space(),".bz") or contains(normalize-space(),".сom") or contains(normalize-space(),".сom") or contains(normalize-space(),".cоm") or contains(normalize-space(),".net") or contains(normalize-space(),".рф") or contains(normalize-space(),".by") or contains(normalize-space(),".nеt") or contains(normalize-space(),".cоm") or contains(normalize-space(),".ru") or contains(normalize-space(),".info") or contains(normalize-space(),".ru") or contains(normalize-space(),".bz") or contains(normalize-space(),".nеt") or contains(normalize-space(),".cоm") or contains(normalize-space(),".pф") or contains(normalize-space(),".me") or contains(normalize-space(),".mе")]/ancestor::*[2][not(div)][not(p)][not(article)][not(head)][not(font)][not(li)][not(ul)]'
 autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru##div a[href="/"]:not([class])
 rambler.ru##div a[href="/"]:not([class])
 rambler.ru##.top-topic__coins
@@ -1619,13 +1618,9 @@ rambler.ru##.top-main__banner--context
 rambler.ru##.article__right-middle
 rambler.ru##.banner--container
 rambler.ru##div[data-ad-marker]
-motor.ru##[style^="float: none; left: 0px; margin: 0px; right: 0px; width:"]
-passion.ru,motor.ru,letidor.ru##[style^="float: none; left: 0px; margin: 0px; right: 0px; width:"]
-autorambler.ru,quto.ru##[style^="padding-bottom: 30px; transform: translateZ(0px);"]
 rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com#?#:-abp-has(>a[style*="//zoomdecorate.rambler.ru/"])
 wmj.ru,letidor.ru,passion.ru,motor.ru,quto.ru,autorambler.ru##div[id^="block-id-"][style^="min-width"]
 rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com,gazeta.ru##span a[href*=".rambler.ru"][target="_blank"]
-eda.ru,rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com,gazeta.ru##a[href^="https://a78a49119dfdf13e."], a[href^="https://8a85ce94838a."], a[href^="https://61371e59322."], a[href^="https://2b877604b22dfae2."], a[href^="https://a60a6a49bbfddd."], a[href^="https://303a45e4bf."], a[href^="https://892e275511."], a[href^="https://823261c9."], a[href^="https://16c819f96181b5."], a[href^="https://e8688e393bc5f87."], a[href^="https://9498d1a2843a3."], a[href^="https://3be04dc9."], a[href^="https://3c199c3a2."], a[href^="https://e8a8758419f434."], a[href^="https://36aa326700d."]
 ! #CV-694
 www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/spanish.txt ***

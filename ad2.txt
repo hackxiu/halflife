@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Sd1s1+9TkMgzU59MixpGng
+! Checksum: CkiqJdSB7TkIOYiFF5S6HQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202011052016
-! Last Modified: 2020年11月05日 20:16
+! Version: 202011060023
+! Last Modified: 2020年11月06日 00:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -8927,6 +8927,8 @@ _yad_jsonp_
 ||ax1x.com^$domain=hktvyb.com
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+1090ys1.com##.col-lg-wide-8 > P[style="text-align:center;"]
+ltn.com.tw##.NC1.boxTitle
 bilibili.com##A[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"])
 szxx.com.cn###A1
 szxx.com.cn###A2
