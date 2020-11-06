@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UmvYffJW9S5ou9n2Y0M8pg
+! Checksum: /uAbFqE29nSue2XJHIinBw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011062014
-! Last Modified: 2020年11月06日 20:14
+! Version: 202011070022
+! Last Modified: 2020年11月07日 00:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1590,7 +1590,7 @@ oxax.tv,prostoporno.help,vmusi.ru,zloekino.su,ontivi.net,zloekino.ru,xittv.net,p
 porn720.biz,huyamba.tv,xxxtor.com#$#abort-current-inline-script document.querySelectorAll popMagic
 hdkinoteatr.com#$#abort-on-property-read cuec
 fapreactor.com,pornreactor.cc#$#abort-current-inline-script Math decodeURIComponent
-budport.com.ua#$#abort-current-inline-script $ open
+budport.com.ua#$#abort-current-inline-script $ append
 agronews.ua#$#abort-on-property-read wpsite_clickable_data
 aces.gg#$#abort-current-inline-script $ window.open
 penzainform.ru#$#abort-current-inline-script $ divWrapper
