@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GXu/jW6cbCvsky9+D4k4TQ
+! Checksum: cVrT1JOJPuwGKyFOiH7x4g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011070022
-! Last Modified: 2020年11月07日 00:22
+! Version: 202011070409
+! Last Modified: 2020年11月07日 04:09
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32382,6 +32382,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||afxvaqbbd.com^
 ||afzcqqdhkn.com^
 ||afzfzhbk.com^
+||agacelebir.com^
 ||agedissance.club^
 ||agenoming.club^
 ||aggravedgaree.info^
@@ -33966,6 +33967,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dlpyumfmg.com^
 ||dlsear.com^
 ||dlycritishmalco.club^
+||dlyzcopkko.com^
 ||dmastescaugh.info^
 ||dmfadb.xyz^
 ||dmiqfxlnf.com^
@@ -34594,6 +34596,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||exvrvcnlfc.com^
 ||exwcadanpfc.com^
 ||eyebinvex.com^
+||eyebrowransom.com^
 ||eyecurred.com^
 ||eyefuneve.com^
 ||eyesightsomebodydiscussion.com^
@@ -40923,6 +40926,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||voqdswwgrheo.com^
 ||vospendence.club^
 ||voterialijikol.site^
+||vouhecem.net^
 ||vouzgwau.com^
 ||vownixsofa.cam^
 ||vowqesvqjwxc.com^
@@ -47685,6 +47689,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||affrh2022.com^$popup,third-party
 ||aflrm.com^$popup,third-party
 ||afriflatry.co^$popup,third-party
+||agacelebir.com^$popup
 ||aidaigry.com^$popup
 ||aj1574.online^$popup
 ||ajkrls.com^$popup,third-party
@@ -47802,6 +47807,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||clkmon.com^$popup,third-party
 ||clkpback3.com^$popup,third-party
 ||clkrev.com^$popup,third-party
+||clksecure.com^$popup
 ||cloudplane.xyz^$popup
 ||cloudsrvtrk.com^$popup,third-party
 ||cloudtracked.com^$popup,third-party
@@ -47835,6 +47841,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||d0p21g2fep.com^$popup
 ||dagnar.com^$popup
 ||datsgirl.com^$popup
+||dblmove.com^$popup
 ||dddomainccc.com^$popup
 ||debrium-surbara.com^$popup
 ||deliverydom.com^$popup,third-party
@@ -48995,6 +49002,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||newnudecash.com^$third-party
 ||newpush.support^$third-party
 ||newsexbook.com^$third-party
+||nexxxt.biz^$third-party
 ||ngbn.net^$third-party
 ||nikkiscash.com^$third-party
 ||ningme.ru^$third-party
@@ -52829,7 +52837,7 @@ $script,third-party,xmlhttprequest,domain=abcvideo.cc
 ||streamp1ay.*/jquery-
 ||streamplay.*/jquery-
 $websocket,domain=povvideo.net|powv1deo.net|powvideo.net|powvldeo.co|powvldeo.net
-/^https?:\/\/.*(powvideo|powvldeo|povvideo).*\.*[?&$=!]/$script,subdocument
+/^https?:\/\/.*(powvideo|powvldeo|povvideo).*\.*[?&$=!]/$script,subdocument,domain=~duckduckgo.com
 @@||ajax.googleapis.com^$script,third-party,domain=povvideo.net|powv1deo.net|powvideo.net|powvldeo.co|powvldeo.net
 @@||code.jquery.com^$script,domain=povvideo.net|powv1deo.net|powvideo.net|powvldeo.co|powvldeo.net
 @@||codeorigin.jquery.com^$domain=povvideo.net|powv1deo.net|powvideo.net|powvldeo.co|powvldeo.net
@@ -53313,6 +53321,7 @@ $popup,third-party,domain=loader.to|play.hydracdn.network|streamtape.com|vidclou
 ||b.xcafe.com^
 ||babblesex.com/js/misc.js
 ||babedrop.com/babelogger_images/
+||babepedia.com/img/vr-conk-
 ||babepedia.com/istrip/
 ||babepedia.com/strp-popmod/
 ||babepicture.co.uk^*banner
@@ -53497,6 +53506,7 @@ $popup,third-party,domain=loader.to|play.hydracdn.network|streamtape.com|vidclou
 ||freeporn.to/wpbanner/
 ||freepornvs.com/im.js
 ||fritchy.com^*&zoneid=
+||ftopx.com/345.js
 ||fuckandcdn.com/sun/sunstatic/frms/$subdocument,domain=sunporno.com
 ||fuckuh.com/pr_ad.swf
 ||funny-games.biz/banners/
@@ -58818,6 +58828,7 @@ paradisehill.cc##.banners4
 sexoncube.com##.bannerspot-index
 thehun.net##.bannervertical
 ratemymelons.com##.bannus
+fuck55.net,tube.bz##.bb_desktop
 redtube.com##.belowVideo
 eskimotube.com,tjoob.com##.bg_banner_l
 eskimotube.com,tjoob.com##.bg_banner_r
@@ -59248,6 +59259,7 @@ xxxgames.biz##a[href^="https://detour.click/"]
 smutr.com##a[href^="https://smutr.com/?action=trace"]
 ddlporn.org##a[href^="https://uploadgig.com/premium/"]
 gotporn.com##a[href^="https://www.gotporn.com/click.php?id="]
+picsporner.com##a[href^="https://www.legalporno.com/?track="]
 imagebam.com,vipergirls.to##a[href^="https://www.mrporngeek.com/"]
 avn.com##a[href^="https://www.myfreecams.com/"][href*="&track="]
 barelist.com##a[onclick="CallServer('ad', '')"]
