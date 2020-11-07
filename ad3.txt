@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: C/+bJmgr90SZ7WBfjaUuxg
+! Checksum: y5XnxVINl3dBhNLl16qq3Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202011071215
-! Last Modified: 2020年11月07日 12:15
+! Version: 202011071612
+! Last Modified: 2020年11月07日 16:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1244,6 +1244,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||kyqcfj.com^
 ||kuxinqi.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
@@ -37999,7 +38000,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||ad.crwdcntrl.net^$script,domain=investopedia.com
 @@||adblockanalytics.com/ads.js|
 @@||addgene.org/headers/blat/js/analyze.js
-@@||adobedtm.com/*-source.min.js$script,domain=kroger.com
+@@||adobedtm.com/*-source.min.js$script,domain=dollargeneral.com|kroger.com
 @@||adobedtm.com/*_source.min.js$script,domain=kroger.com
 @@||adobedtm.com/extensions/$script,domain=atresplayer.com
 @@||adobedtm.com/launch-$script
@@ -38057,6 +38058,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||bootcamp.mit.edu/js/angulartics-google-analytics.min.js
 @@||boxberry.ru/local/templates/site-boxberry/js/tracking_service.js$xmlhttprequest
 @@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|crrowd.com|gracevanberkum.com|imperial.ac.uk|loveotv.com|onginnovations.com|theangryviking1776.com|thepittsburghoratory.org|washingtonpost.com|wix.com
+@@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||bugzilla.mozilla.org^*/extensions/TrackingFlags/$script
 @@||c.paypal.com/da/r/fb.js$script
 @@||c212.net^$image,domain=prnewswire.com
