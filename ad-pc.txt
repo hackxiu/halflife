@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sVmO4u4mi3BMj8DCRxo6gA
+! Checksum: 9/WUUyQj6BlOv4WmRo2Msg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011081612
-! Last Modified: 2020年11月08日 16:12
+! Version: 202011082014
+! Last Modified: 2020年11月08日 20:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -33933,6 +33933,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||displayvertising.com^
 ||disposalfourth.com^
 ||disposecompere.com^
+||dissimilarambient.com^
 ||disticked.club^
 ||distinctionlatent.com^
 ||distinesseqe.site^
@@ -36307,6 +36308,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jyagyffnbysg.com^
 ||jyahmckzsbh.com^
 ||jybtpabickzf.com^
+||jyebqhel.com^
 ||jyfthtacsxkbp.com^
 ||jygdjiocmt.com^
 ||jyijwgsqj.com^
@@ -39093,6 +39095,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||realsrv.com^
 ||realtime-bid.com^
 ||reasonalattracke.info^
+||reasonzoodeport.com^
 ||rebrancardera.site^
 ||rebritingcyclo.fun^
 ||recallysugg.club^
@@ -41744,6 +41747,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ylnmzwwc.com^
 ||yloidlvfhpkq.com^
 ||ylqbiljjlyq.com^
+||yltcgyud.com^
 ||ylvessovi.pro^
 ||ylwu7xm3a1wv.com^
 ||ymbpndswe.com^
@@ -86277,6 +86281,7 @@ _mongo_stats/
 ||hitslog.com^$third-party
 ||hitsniffer.com^$third-party
 ||hitsprocessor.com^$third-party
+||hitstatus.com^$third-party
 ||hitsteps.com^$third-party
 ||hittail.com^$third-party
 ||hittracker.com^$third-party
@@ -95995,6 +96000,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||lem.nouvelobs.com^
 ||lemde.fr^*/metrics/
 ||lemde.fr^*/tracking/
+||leparking-moto.fr/*/tracker.js
 ||leparking.fr/jsV038/tracker.js
 ||logs-qos.tf1.fr^
 ||ma-petite-recette.fr/visites
