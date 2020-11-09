@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8UF0ArUJ5WifYr3yKlKcVA
+! Checksum: J6cMrsP5HnALxn7CxdrO/A
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011070409
-! Last Modified: 2020年11月07日 04:09
+! Version: 202011091613
+! Last Modified: 2020年11月09日 16:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -276,6 +276,7 @@ _adblock_killer.
 ##adblocker
 wamiz.com###adblocker
 jaitoutcompris.com###antiBlock
+wikihow.com###contribute_footer
 iphonesoft.fr,iphonetweak.fr###msgUser
 retinaboys.com###screen_block
 lagrosseradio.com###warn
