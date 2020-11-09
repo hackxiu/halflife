@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pO8e8YhvBkTp4k1Hy2M+8w
+! Checksum: 7GJj8tpqYXthwPoXXDLDaQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011092015
-! Last Modified: 2020年11月09日 20:15
+! Version: 202011100026
+! Last Modified: 2020年11月10日 00:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -11645,6 +11645,8 @@ _popunder+$popup
 ###ad_sky1
 ###ad_sky2
 ###ad_sky3
+###ad_sky_lhs
+###ad_sky_rhs
 ###ad_skyscraper
 ###ad_skyscraper1
 ###ad_skyscraper120
@@ -12295,6 +12297,7 @@ _popunder+$popup
 ###ads_320_260_2
 ###ads_728
 ###ads_728x90
+###ads_728x90_top
 ###ads_absolute_left
 ###ads_absolute_right
 ###ads_back
@@ -20621,6 +20624,8 @@ _popunder+$popup
 ##.ad_size_160x600
 ##.ad_skin
 ##.ad_sky
+##.ad_sky_lhs
+##.ad_sky_rhs
 ##.ad_skyscpr
 ##.ad_skyscraper
 ##.ad_skyscrapper
@@ -29676,6 +29681,7 @@ _popunder+$popup
 ##.widget_plugrush_widget
 ##.widget_po_ads_widget
 ##.widget_postmedia_layouts_ad
+##.widget_quads_ads_widget
 ##.widget_sdac_bottom_ad_widget
 ##.widget_sdac_companion_video_ad_widget
 ##.widget_sdac_footer_ads_widget
@@ -67144,7 +67150,7 @@ _yad_jsonp_
 ||haosf.com/kan.htm
 ||haoxxoo.com/player/ad.html
 ||happyhongkong.com/images/client/
-||hboav.com/guga/
+||hboav.com/guga/$~subdocument
 ||hbzhan.com/images/index/*.swf
 ||hc360.com/images/14826/289x90.jpg
 ||hc360.com/js/*hezuo.js
@@ -76632,6 +76638,9 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||zuowen.hydcd.com^
 ||zxw51.com^$third-party
 !#bejson.com
+bejson.com#?#body>:not(ul):not(div):-abp-has(>:-abp-contains(香港))
+bejson.com##img[src^="data"]
+bejson.com#?#body>:-abp-contains(新人会场)
 bejson.com##.alert-dismissable
 bejson.com##.modal-backdrop
 bejson.com##.t-small-margin > ul:first-child

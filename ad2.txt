@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: S/HW84J11vLZyo5Q8W87LA
+! Checksum: lsXkmOy6sGfjsP5fXdT/TQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202011092015
-! Last Modified: 2020年11月09日 20:15
+! Version: 202011100026
+! Last Modified: 2020年11月10日 00:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -6353,7 +6353,7 @@ _yad_jsonp_
 ||haosf.com/kan.htm
 ||haoxxoo.com/player/ad.html
 ||happyhongkong.com/images/client/
-||hboav.com/guga/
+||hboav.com/guga/$~subdocument
 ||hbzhan.com/images/index/*.swf
 ||hc360.com/images/14826/289x90.jpg
 ||hc360.com/js/*hezuo.js
@@ -15841,6 +15841,9 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||zuowen.hydcd.com^
 ||zxw51.com^$third-party
 !#bejson.com
+bejson.com#?#body>:not(ul):not(div):-abp-has(>:-abp-contains(香港))
+bejson.com##img[src^="data"]
+bejson.com#?#body>:-abp-contains(新人会场)
 bejson.com##.alert-dismissable
 bejson.com##.modal-backdrop
 bejson.com##.t-small-margin > ul:first-child
