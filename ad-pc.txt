@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NOTW5Q5bjK+hiH7MhBXV3Q
+! Checksum: s9wrO8THqRWaIF06ePFoHg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011100831
-! Last Modified: 2020年11月10日 08:31
+! Version: 202011101210
+! Last Modified: 2020年11月10日 12:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -36039,6 +36039,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||iuowwbrqblweoa.com^
 ||iupot.com^
 ||iupqelechcmj.com^
+||iutkryvnixptlg.com^
 ||iutqdjtajrhpi.com^
 ||ivastoor.com^
 ||ivbifyia.com^
@@ -39837,6 +39838,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||snbybgwiyfug.com^
 ||snckdjuymeopsc.com^
 ||sndgydifipxuui.com^
+||snezynrzsz.com^
 ||snfzmkyzad.com^
 ||snhsoclobbos.com^
 ||snifferent.club^
@@ -62157,6 +62159,7 @@ _xiuno_com_ad/
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #coupletBox
 ##script + #rbbox
+##A[href*=".tea123.me"]
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##span[title="neteasefooter"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
