@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QBDQp3ZLlhzUviLYinD0cQ
+! Checksum: OxGVzEEFdRAIJAl7eD4V0w
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011102012
-! Last Modified: 2020年11月10日 20:12
+! Version: 202011110015
+! Last Modified: 2020年11月11日 00:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -30324,6 +30324,7 @@ _popunder+$popup
 ##a[href^="https://adswick.com/"]
 ##a[href^="https://adultfriendfinder.com/go/page/landing"]
 ##a[href^="https://aff-ads.stickywilds.com/"]
+##a[href^="https://affiliate.geekbuying.com/gkbaffiliate.php?"]
 ##a[href^="https://affiliate.rusvpn.com/click.php?"]
 ##a[href^="https://affiliates.bet-at-home.com/processing/"]
 ##a[href^="https://albionsoftwares.com/"]
@@ -41713,6 +41714,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||yltcgyud.com^
 ||ylvessovi.pro^
 ||ylwu7xm3a1wv.com^
+||ym-a.cc^
 ||ymbpndswe.com^
 ||ymerjqsynqoxdm.com^
 ||ymkymasmvsuosd.com^
@@ -48492,6 +48494,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||yeesshh.com^$popup,third-party
 ||yieldmanager.com^$popup,third-party
 ||yieldtraffic.com^$popup,third-party
+||ym-a.cc^$popup
 ||youradexchange.com^$popup,third-party
 ||z5x.net^$popup,third-party
 ||zanyx.club^$popup,third-party
@@ -62056,12 +62059,14 @@ _xiuno_com_ad/
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #coupletBox
 ##script + #rbbox
+##A[href*="/md0c.oss-cn-beijing.aliyuncs.com/"]
 ##A[href*=".tea123.me"]
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##span[title="neteasefooter"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||just-machinery.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -69756,6 +69761,7 @@ _yad_jsonp_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||duboku.net/static/images/20201111
+||loli.net/2020/10/26/cSHbJifFgNoyaz8.png
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -74079,6 +74085,7 @@ cableabc.com##a[href*="/img1/"]
 tucao.one##a[href*="/index.php?m=poster&"]
 ithome.com##a[href*="/lapin."]
 6park.com##a[href*="/link.php?key="]
+mydrivers.com##A[href*="/a.ashx?go="]
 mydrivers.com##a[href*="/my.ashx?go="]
 doubibackup.com##a[href*="/rightad"]
 e0575.cn##a[href*="/showad.php?"]
@@ -97960,6 +97967,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||yiihuu.com/assets/common/yh/js/yh.ad.
 ||guokr.com/apis/flowingboard/item/guokrapp_
 ||csdnimg.cn/common/redpack/redpack.js
+||w3cschool.cn/index/*Advert
 !------------------------Specific element hiding rules------------------------!
 3dmgame.com##.modAD
 csdn.net###passportbox
