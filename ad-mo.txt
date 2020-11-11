@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VYCoeTT1NiWIoXYjo0s01Q
+! Checksum: +gAW7HXYUIZ5SlyxF0/GTw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011120016
-! Last Modified: 2020年11月12日 00:16
+! Version: 202011120409
+! Last Modified: 2020年11月12日 04:09
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -18167,6 +18167,7 @@ _popunder+$popup
 ##.G_ads_m
 ##.GalleryViewerAdSuppress
 ##.GeminiAdItem
+##.GeminiNativeAd
 ##.GetRightAds
 ##.Google-Ad-728x90
 ##.GoogleAd
@@ -25191,6 +25192,7 @@ _popunder+$popup
 ##.google-ad-widget
 ##.google-ad-wrapper-ui
 ##.google-ads
+##.google-ads-bottom
 ##.google-ads-boxout
 ##.google-ads-container
 ##.google-ads-footer-01
@@ -88848,6 +88850,7 @@ _mongo_stats/
 ||topstat.com^$third-party
 ||tracdelight.com^$third-party
 ||tracdelight.io^$third-party
+||trackboxx.info^$third-party
 ||trafficmaxx.de^$third-party
 ||trbo.com^$third-party
 ||trendcounter.de^$third-party
