@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: h/spCvNmrX9MHdIGjAgQDA
+! Checksum: VYCoeTT1NiWIoXYjo0s01Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011112013
-! Last Modified: 2020年11月11日 20:13
+! Version: 202011120016
+! Last Modified: 2020年11月12日 00:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -33047,6 +33047,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||buriatelyn.club^
 ||bursagarc.com^
 ||busfarmum.com^
+||busguyspec.com^
 ||busingleni.club^
 ||bussaidbag.casa^
 ||butalksuw9dj10.com^
@@ -33957,6 +33958,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||drbwugautcgh.com^
 ||dredkcyex.com^
 ||dregardianfl.site^
+||driverwinggranulated.com^
 ||dropsymooant.com^
 ||dropzenad.com^
 ||drotcporkutvz.com^
@@ -34271,6 +34273,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||emlifok.info^
 ||emmettperson.pro^
 ||emolapnay.com^
+||emotificc.top^
 ||emotionalballotneedlework.com^
 ||emphante.club^
 ||empowerclemencyjoggle.com^
@@ -38434,6 +38437,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||plightmoanshock.com^
 ||pllblrapagrvn.com^
 ||plqakqvku.com^
+||pluralbreakpractice7.live^
 ||plxtejszb.com^
 ||plyinsidere.club^
 ||plyvitablesagree.info^
@@ -40066,6 +40070,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tdfamwrbdwkosn.com^
 ||tdrhecmigtrm.com^
 ||tdsjsext1.life^
+||tdsjsext3.life^
 ||tdugvspdnq.com^
 ||tdxipgdorydvzo.com^
 ||teachcoexist.com^
@@ -40392,6 +40397,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tumultrecast.com^
 ||tuopabyjje.com^
 ||tur-tur-key.com^
+||tureabstra.fun^
 ||turmoilexcessivetranslating.com^
 ||turngrind.com^
 ||tutorinforget.site^
@@ -48231,6 +48237,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||playboymethod.com^$popup,third-party
 ||plexop.net^$popup,third-party
 ||plsdrct2.me^$popup,third-party
+||pluralbreakpractice7.live^$popup
 ||pocofh.com^$popup
 ||podhopfit.site^$popup
 ||pointclicktrack.com^$popup,third-party
@@ -51405,6 +51412,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||d31mxuhvwrofft.cloudfront.net^
 ||d347nuc6bd1dvs.cloudfront.net^
 ||d36zfztxfflmqo.cloudfront.net^
+||d37abonb6ucrhx.cloudfront.net^
 ||d3a49eam5ump99.cloudfront.net^
 ||d3b2hhehkqd158.cloudfront.net^
 ||d3c3uihon9kmp.cloudfront.net^
@@ -77148,7 +77156,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||256k.xyz^
 ||258580w.cn^
 ||258zw.com^$third-party
-||266ks.com/xtws/true.js
+||266ks.com^*/true.js
 ||27f35.cn^
 ||282l1.cn^
 ||2byuf.cn^
