@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gTRZVCGpvw7TJQdpCv57sQ
+! Checksum: 8N5eo9x0ExgOFDozBEi91A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011121211
-! Last Modified: 2020年11月12日 12:11
+! Version: 202011122013
+! Last Modified: 2020年11月12日 20:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -8501,6 +8501,7 @@ _prx/ba_$script
 -prebid-
 -prebid.$script
 -prebid/
+.prebid&
 .prebid-bundle.
 .prebid.$domain=~prebid.org
 /adn-hb/*
@@ -12146,6 +12147,7 @@ _popunder+$popup
 ###ads-mn
 ###ads-mpu
 ###ads-outer
+###ads-pagetop
 ###ads-panel
 ###ads-panorama-A1
 ###ads-position-header-desktop
@@ -21263,6 +21265,7 @@ _popunder+$popup
 ##.ads-interlinks
 ##.ads-item
 ##.ads-label
+##.ads-label-inverse
 ##.ads-large
 ##.ads-leaderboard
 ##.ads-leaderboard-border
@@ -21359,6 +21362,9 @@ _popunder+$popup
 ##.ads-x1
 ##.ads-x1-super
 ##.ads-zone
+##.ads.rectangle160
+##.ads.rectangle300
+##.ads.skyscraper160
 ##.ads.widget
 ##.ads01
 ##.ads02
@@ -30403,6 +30409,7 @@ _popunder+$popup
 ##a[href^="https://incisivetrk.cvtr.io/click?"]
 ##a[href^="https://intrev.co/"]
 ##a[href^="https://iqoption.com/lp/mobile-partner/"][href*="?aff="]
+##a[href^="https://ismlks.com/"]
 ##a[href^="https://jmp.awempire.com/"]
 ##a[href^="https://join.dreamsexworld.com/"]
 ##a[href^="https://join.sexworld3d.com/track/"]
@@ -31423,7 +31430,7 @@ thestudentroom.co.uk#@#.fixed_ad
 webphunu.net#@#.flash-advertisement
 songlyrics.com#@#.footer-ad
 employmentguide.com#@#.footer-ads
-selectparkhomes.com#@#.footer_ad
+gotoeat.maff.go.jp,selectparkhomes.com#@#.footer_ad
 koopik.com#@#.footerad
 ebayclassifieds.com,guloggratis.dk#@#.gallery-ad
 time.com#@#.google-sponsored
@@ -32864,6 +32871,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||bglnzzsgigbto.com^
 ||bgn2zqlce1eiya.icu^
 ||bgqddlvq.com^
+||bgrndi.com^
 ||bgvexbybxxbcao.com^
 ||bgvfceqpqzx.com^
 ||bgwbqsmj.com^
@@ -32999,6 +33007,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||brandnewapp.pro^
 ||brapoiorc.com^
 ||brassstacker.com^
+||brdmin.com^
 ||breadstringscrashed.com^
 ||breakinginfo.pro^
 ||breastfeedingfabricadorable.com^
@@ -54410,6 +54419,7 @@ $script,domain=porno333.com
 /^http*.:\/\/.*[?=&%#+].*/$popup,domain=femefun.com
 /\:\/\/([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=bitporno.com|pornxs.com
 !------------------------Specific element hiding rules------------------------!
+magnet.so###AD
 carsdir.com###AddCarBanner
 igcd.net,webcarstory.com###Ads
 search.snap.do,search.snapdo.com###AfloatingD
@@ -58446,6 +58456,7 @@ scotch.io#?#div.card:-abp-has(a > span:-abp-contains(Sponsor))
 monova.org##script + [class] > [class]:first-child
 tempostorm.com##side-banners
 smallseotools.com#?#.col-sm-12 > :-abp-has(p:-abp-contains(Advertisement))
+amazon.com##span[class*="template=VIDEO_SINGLE_PRODUCT"]
 realitytvworld.com##table[border="0"][align="left"]
 roadtester.com.au##table[cellpadding="9"][border="0"]
 windycitymediagroup.com##table[height="250"]
@@ -59233,12 +59244,13 @@ youporn.com##.watchTextBox
 imagearn.com##.wide_banner
 cumlouder.com##.widget_bnrs
 gifsauce.com##.widget_live
+xhamster.com,xhamster.one,xhamster2.com##.wiz-spb
 de-sexy-tube.ru##.wrap-head-banner-mob
 xjapanese.com##.xcam
 mrskin.com##.yui3-u-1-3:last-child
 porn.com,pornhd.com,xvideos-free.com##.zone
 pornhd.com##.zone-area
-xhamster.com,xhamster.one##[class^="xplayer-banner"]
+xhamster.com,xhamster.one,xhamster2.com##[class^="xplayer-banner"]
 sxyprn.com##[href*="/re/"]
 extremetube.com,pornhub.com,pornhubthbh7ap3u.onion,redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com##[href*="base64"]
 extremetube.com,pornhub.com,pornhubthbh7ap3u.onion,redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com##[href*="data:"]
@@ -59346,7 +59358,7 @@ xxxstreams.eu##a[style]
 pornhub.com,pornhubthbh7ap3u.onion##ads
 pornhub.com,pornhubthbh7ap3u.onion##aside > [style="display: block;"] > table
 pornhub.com,pornhubthbh7ap3u.onion##aside > span:first-child
-alrincon.com,thenipslip.com##canvas
+alrincon.com,thenipslip.com,wetpussygames.com##canvas
 pornhub.com,pornhubthbh7ap3u.onion##div > aside > aside
 porngames.com##div > canvas
 txxx.com##div > div[style*="z-index:"]
@@ -88011,6 +88023,7 @@ _mongo_stats/
 ||urbanairship.com^$third-party
 ||viapush.com^$third-party
 ||webpu.sh^$third-party
+||whiteclick.biz^$third-party
 ||wnpbdan.bid^$third-party
 ||wonderpush.com^$third-party
 ||wwclickserv.club^$third-party
@@ -96586,6 +96599,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||dna.uol.com.br^
 ||g.bit.pt^
 ||g.bitmag.com.br^
+||geoip.ativo.com^
 ||globo.com/geo?
 ||jsuol.com.br/aud/$script
 ||lancenet.com.br/pw.js
