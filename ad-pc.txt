@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: u9AeRg9eplpkZKmaBlgVFg
+! Checksum: 0rt3f7C+X9FYWzGxsCVzRw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011140016
-! Last Modified: 2020年11月14日 00:16
+! Version: 202011140410
+! Last Modified: 2020年11月14日 04:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -8269,6 +8269,7 @@ _adwrap.
 _adwriter.
 _afd_ads.
 _affiliate/banners/
+_affiliate/hubtraffic/
 _affiliate_ad.
 _afs_ads.
 _alt/ads/
@@ -13659,6 +13660,11 @@ _popunder+$popup
 ###bingadcontainer2
 ###bl11adv
 ###blancco-ad
+###blkAds1
+###blkAds2
+###blkAds3
+###blkAds4
+###blkAds5
 ###block--ex_dart-ex_dart_adblade_article
 ###block-ad_blocks-0
 ###block-ad_cube-0
@@ -19669,6 +19675,7 @@ _popunder+$popup
 ##.ad160x160
 ##.ad160x600
 ##.ad160x600GrayBorder
+##.ad160x600_1
 ##.ad160x600box
 ##.ad170x30
 ##.ad18
@@ -32677,6 +32684,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||asacdn.com^
 ||asccdn.com^
 ||asdasdad.net^
+||asdpoi.com^
 ||aseabnyw.com^
 ||asenytuhlhwrwz.com^
 ||asewlfjqwlflkew.com^
@@ -32866,6 +32874,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||balanderramed.site^
 ||balcekonspn.com^
 ||balebunsob.com^
+||baleiambwee.com^
 ||baletingo.com^
 ||balvalur.com^
 ||bandelcot.com^
@@ -35665,6 +35674,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||horiticalagen.club^
 ||horizonattendant.com^
 ||horjhksl.com^
+||hornsbundlebetter.com^
 ||hornsgrid.com^
 ||hortestoz.com^
 ||hosieryelevate.com^
@@ -37034,6 +37044,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||lutsoops.net^
 ||luven.xyz^
 ||luvnrybocrcgl.com^
+||luxins.net^
 ||luxlnk.com^
 ||luysvlnrb.com^
 ||lvbdvlnbht.com^
@@ -38570,6 +38581,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||plightmoanshock.com^
 ||pllblrapagrvn.com^
 ||plqakqvku.com^
+||plufdsb.com^
 ||pluralbreakpractice7.live^
 ||plxtejszb.com^
 ||plyinsidere.club^
@@ -48150,6 +48162,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hitcpm.com^$popup,third-party
 ||hitopadxdz.xyz^$popup
 ||hlpnowp-c.com^$popup,third-party
+||hornsbundlebetter.com^$popup
 ||hornsgrid.com^$popup
 ||hotchatdate.com^$popup,third-party
 ||hotchatdirect.com^$popup,third-party
@@ -58380,6 +58393,7 @@ tundraheadquarters.com##a[href^="http://www.tkqlhce.com/"]
 thisismoney.co.uk##a[href^="https://clk.omgt1.com/"]
 thisismoney.co.uk##a[href^="https://clk.tradedoubler.com/"]
 japantoday.com##a[href^="https://go.injapan.com/"]
+disasterscans.com##a[href^="https://go.onelink.me/"]
 mmos.com##a[href^="https://mmos.com/play/"]
 pdevice.com##a[href^="https://t.cfjump.com/"] > img
 scaredstiffreviews.com##a[href^="https://www.amazon."][href*="ref="]
@@ -58572,7 +58586,7 @@ scotch.io#?#div.card:-abp-has(a > span:-abp-contains(Sponsor))
 monova.org##script + [class] > [class]:first-child
 tempostorm.com##side-banners
 smallseotools.com#?#.col-sm-12 > :-abp-has(p:-abp-contains(Advertisement))
-amazon.com##span[class*="template=VIDEO_SINGLE_PRODUCT"]
+amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr##span[class*="template=VIDEO_SINGLE_PRODUCT"]
 realitytvworld.com##table[border="0"][align="left"]
 roadtester.com.au##table[cellpadding="9"][border="0"]
 windycitymediagroup.com##table[height="250"]
