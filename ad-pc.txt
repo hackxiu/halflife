@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8y8ynM0Dc5lNdrhKnVOryQ
+! Checksum: ruDtYN5KVeQWq/wz4qEJpw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011140828
-! Last Modified: 2020年11月14日 08:28
+! Version: 202011141212
+! Last Modified: 2020年11月14日 12:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -52803,6 +52803,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 @@||cdncv.net^$script,xmlhttprequest,domain=cloudvideo.tv
 |http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=cloudvideo.tv
 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=cloudvideo.tv
+@@||code.jquery.com^$script,domain=upstream.to
 @@||gstatic.com^$script,domain=upstream.to
 |http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=upstream.to
 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=upstream.to
@@ -59584,7 +59585,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||airplaydirect.com/openx/www/images/$image
 @@||akamaized.net^*.stream/$domain=naver.com
 @@||akamaized.net^*/playlist.m3u8?$domain=naver.com
-@@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|blastingnews.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|foxnews.com|go.cnn.com|history.com|keloland.com|radio.com|rd.com|thehealthy.com|webmd.com|wkrn.com|wlns.com|wvnstv.com
+@@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|blastingnews.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|foxnews.com|go.cnn.com|history.com|keloland.com|radio.com|rd.com|thehealthy.com|wboy.com|webmd.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/widgets/q?$image,third-party
 @@||amazonaws.com/bt-dashboard-logos/$domain=signal.co
 @@||amazonaws.com^*/sponsorbanners/$image,domain=members.portalbuzz.com
@@ -59763,6 +59764,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||infoworld.com/www/js/ads/gpt_includes.js
 @@||innovid.com^$object,domain=hulu.com
 @@||island.lk/userfiles/image/danweem/island.gif
+@@||itechtics.com/detroitchicago/dayton.js$script,~third-party
 @@||itv.com/itv/hserver/*/site=itv/$xmlhttprequest
 @@||itv.com/itv/jserver/$script,domain=itv.com
 @@||japan-guide.com/ad/$image,~third-party
@@ -62257,6 +62259,7 @@ _xiuno_com_ad/
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #coupletBox
 ##script + #rbbox
+##a[href*=".yabo414.com"]
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##span[title="neteasefooter"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
@@ -69969,6 +69972,7 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||bde4.cc/js/aes.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -74865,7 +74869,7 @@ baidu.com##div[style="padding: 20px 9px 20px 10px;widget:250px;height:250px;"]
 zuanke8.com##div[style="padding:0px 0 10px 0;background-color:#F1F1F1;"]
 win007.com##div[style="padding:6px 0; width:950px; height:45px"]
 7junshi.com##div[style="position: fixed; right: 0px; bottom: 0;z-index:999;width: 300px;height: 250px;"]
-bde4.cc##div[style="position: fixed;bottom: -5px;z-index:999;width:100%"]
+bde4.cc##div[style^="position: fixed;bottom:"]
 jijidown.com##div[style="position: fixed;right: 0;bottom: 0;"]
 ys168.com##div[style="position:fixed; width:200px; top: 330px;right:10px;font-size:9pt;text-align:left;"]
 1ting.com##div[style="position:fixed;bottom:0;z-index:999"]
@@ -88092,6 +88096,7 @@ _mongo_stats/
 ||zedwhyex.com^$third-party
 ||zeerat.com^$third-party
 ||zeotap.com^$third-party
+||zeronaught.com^$third-party
 ||zesep.com^$third-party
 ||zeustechnology.com^$third-party
 ||zoomanalytics.co^$third-party
@@ -88703,6 +88708,7 @@ _mongo_stats/
 ||roofrelation.com^$third-party
 ||rusticprice.com^$third-party
 ||ruthlessdegree.com^$third-party
+||satisfycork.com^$third-party
 ||savoryorange.com^$third-party
 ||scientificshirt.com^$third-party
 ||scintillatingscissors.com^$third-party
@@ -91172,6 +91178,7 @@ _mongo_stats/
 ||print2webcorp.com/mkt3/_js/p2w_tracker.js
 ||prism.app-us1.com^$script,third-party
 ||privacytool.org/AnonymityChecker/js/fontdetect.js$third-party
+||processor.asccommunications.com^
 ||production-mcs.lvp.llnw.net^
 ||production.mcs.delve.cust.lldns.net^
 ||project-syndicate.org/fwat.js
@@ -97228,7 +97235,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com|greentoe.com
 @@||mxpnl.com^$domain=mixpanel.com
 @@||mywebar.com/js/tracking_worker.js$~third-party
-@@||ncbi.nlm.nih.gov/stat?
 @@||newrelic.com/nr-*.min.js$domain=surveymonkey.co.uk|surveymonkey.com|surveymonkey.de|surveymonkey.ru
 @@||newrelic.com/public/charts/$subdocument,xmlhttprequest
 @@||nfltags.com/omniture/$script,domain=nfl.com
