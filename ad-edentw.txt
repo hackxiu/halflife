@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n4oNi4fZQmQgcHlZlzyZOg
+! Checksum: ZL6xzs40alNXsR/1zIuxyQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011160829
-! Last Modified: 2020年11月16日 08:29
+! Version: 202011162014
+! Last Modified: 2020年11月16日 20:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -487,7 +487,7 @@ in-trend.biz##body > [id][style^="z-index"]
 fightnews.info##body > blockquote
 torrnado.win##body > div > .a-overlay
 olegon.ru##body > div:not([id]):not([class])[style^="color"][style*="position: fixed; width: 99%"]
-budport.com.ua,finget.ru,katalog-aktsii.ru,rp5.by,rp5.kz,rp5.ru,rp5.ua,vikings-warofclans.ru##body > div:not([id]):not([class])[style^="position"][style*="background"][style*="z-index"]
+finget.ru,katalog-aktsii.ru,rp5.by,rp5.kz,rp5.ru,rp5.ua,vikings-warofclans.ru##body > div:not([id]):not([class])[style^="position"][style*="background"][style*="z-index"]
 factorio.su##body > div[class][style*="background"][style*="display: block"]
 gdekluet.ru##body > div[class^="stop-block"]
 just-for-fun.ru##body > div[class*="-container"][class*="-hide"]
@@ -504,6 +504,7 @@ tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 1snau.ru,bychico.net,dyrik.ru,ecosounds.net,in-drive.ru,inforpost.com,musecube.org,obozrevatel.com,oknotivi.ru,pogodnik.com,sandero.ru,turbominer.ru##body > div[style*="z-index"][style*="9999"]
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##body > div[style^="min-height"] > .notify
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##body > div[style^="min-height"] > .notify *
+budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 sdamgia.ru##center[style="color:red; font-size:16px"]
 www.qrz.ru#?#div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
 drive2.ru#?#div[class]:-abp-has(> div[id][class] > a[href] > img[src^="https://avatars.mds.yandex.net/get-adfox-content/"])
@@ -1310,7 +1311,7 @@ doodstream.com,dood.to,dood.watch#$#abort-on-property-read DoodPop; abort-on-pro
 youdbox.com,vudeo.net#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
 txxx.com,hclips.com#$#abort-on-property-read adver
-letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
+downloadgameps3.com,letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
 ebay.de#$#hide-if-contains-visible-text ANZEIGE 'li.s-item' 'li.s-item span[role="text"]'
@@ -1456,6 +1457,8 @@ citpekalongan.com,designmyhomee.com,mangacanblog.com,marthamatika.com,tokusatsui
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/italian.txt ***
 ! #CV-667
 mp3-gratis.it#$#abort-current-inline-script Math zfgloaded
+! Popup/Popunder
+streamingcommunity.net#$#abort-current-inline-script String.fromCharCode btoa
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/latvian.txt ***
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/lithuanian.txt ***
 ! #CV-766
