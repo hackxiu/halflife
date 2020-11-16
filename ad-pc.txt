@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0mv838e6g7h2gssYer59VQ
+! Checksum: DkdSu4qeMYMRbLdtObmAlg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011162014
-! Last Modified: 2020年11月16日 20:14
+! Version: 202011170018
+! Last Modified: 2020年11月17日 00:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -15989,6 +15989,7 @@ _popunder+$popup
 ###microAdDiv
 ###microsoft_ad
 ###mid-ad300x250
+###mid-ads
 ###mid-table-ad
 ###midAD
 ###midRightAds
@@ -21447,6 +21448,7 @@ _popunder+$popup
 ##.ads-stripe
 ##.ads-styled
 ##.ads-superbanner
+##.ads-system
 ##.ads-text
 ##.ads-title
 ##.ads-tittle
@@ -30053,6 +30055,7 @@ _popunder+$popup
 ##a[href*=".adsrv.eacdn.com/"] > img
 ##a[href*=".allsports4you.club"]
 ##a[href*=".approvallamp.club/"]
+##a[href*=".axdsz.pro/"]
 ##a[href*=".bang.com/"][href*="&aff="]
 ##a[href*=".cfm?fp="][href*="&prvtof="]
 ##a[href*=".clkcln.com/"]
@@ -30624,6 +30627,7 @@ _popunder+$popup
 ##a[href^="https://www.brazzersnetwork.com/landing/"]
 ##a[href^="https://www.camsoda.com/enter.php?id="]
 ##a[href^="https://www.camyou.com/?cam="][href*="&track="]
+##a[href^="https://www.chngtrack.com/"]
 ##a[href^="https://www.clicktraceclick.com/"]
 ##a[href^="https://www.financeads.net/tc.php?"]
 ##a[href^="https://www.firstload.com/affiliate/"]
@@ -58236,6 +58240,7 @@ treetorrent.com##.tdwb
 soccerway.com##.team-widget-wrapper-content-placement
 itproportal.com##.teaser
 mmegi.bw##.template_leaderboard_space
+macrumors.com##.tertiary
 lastmenonearth.com##.text-muted
 jekoo.com##.textCollSpons
 sportschatplace.com##.textLink
@@ -58487,6 +58492,7 @@ howtogeek.com,sciencealert.com##div[id^="purch_"]
 reddit.com##div[id^="sidebar-atf-"]
 reddit.com##div[id^="sidebar-btf-"]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr##div[id^="sp_detail"]
+9gag.com##div[style*="width: 500px; height: 281px;"]
 fansshare.com,iconarchive.com,unexplained-mysteries.com,yuku.com##div[style*="width:300px"]
 rlslog.net##div[style*="z-index:"]:first-child
 filesharingtalk.com##div[style="background-color: white; border-width: 2px; border-style: dashed; border-color: white;"]
@@ -70001,6 +70007,7 @@ _yad_jsonp_
 ||zzzyk.com/js/
 ||c1km4.com/mobile/app.js
 ||hefeng-group.net/attach/20200605/Fl05PJWEPUSuVt1x6PeHbHiaQ59J.png
+||wnacg.*/1605524662754.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -75310,6 +75317,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||litv.tv/ads/ads.js
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
