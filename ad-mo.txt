@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2rV157XpCOW4cGyy4+HJIA
+! Checksum: OUYgboeGQTHkUOmBu7akNw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011172014
-! Last Modified: 2020年11月17日 20:14
+! Version: 202011180018
+! Last Modified: 2020年11月18日 00:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -2405,7 +2405,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adleftsidebar.
 /adlens-
 /adlesse.
-/adlib.$domain=~adlib.info|~adlib.mu|~catharijneconvent.nl
+/adlib.$domain=~adlib.info|~adlib.mu|~catharijneconvent.nl|~rws.nl
 /adlift4.
 /adlift4_
 /adline.$domain=~adline.co.il
@@ -32300,6 +32300,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||afeuvqrsswz.com^
 ||aff1xstavka.com^
 ||affairswaved.com^
+||affectiondifferentlysway.com^
 ||affiliates.systems^
 ||affiliclk.org^
 ||affodilyrecruis.fun^
@@ -32369,6 +32370,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||aioemfxj.com^
 ||aionfavoura.club^
 ||aiphotogram.club^
+||aipofeem.net^
 ||airporates.club^
 ||airportedede.club^
 ||airsanguages.info^
@@ -33073,6 +33075,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||btrdlsehltu.com^
 ||btttmgxtziztqq.com^
 ||bttvrqazwnjfl.com^
+||bucogrzbgyysen.com^
 ||buglethemfouls.casa^
 ||buildhoodpip.club^
 ||bullads.net^
@@ -34387,6 +34390,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||enzagnshqtmhg.com^
 ||enzodpxuons.com^
 ||eondunpea.com^
+||eonsmedia.com^
 ||eonwayaha.com^
 ||eooslfyhziubo.com^
 ||eopazyxdkppnz.com^
@@ -35108,6 +35112,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||genuinealiaspuzzled.com^
 ||geodestricy.site^
 ||geographiser.website^
+||geras-con.com^
 ||gerskatimi.club^
 ||gesymphone.site^
 ||getbonusnow3.com^
@@ -35266,6 +35271,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||grampouz.net^
 ||gramsoakton.casa^
 ||grandparen.club^
+||granevahu.pro^
 ||graniteacquitcharacteristic.com^
 ||granticaffodily.club^
 ||grapefruitlifestyle.com^
@@ -35461,6 +35467,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||heawzlvivkakly.com^
 ||heckagny.com^
 ||hedressive.info^
+||heedlessdessertchips.com^
 ||heeevykjhujfy.com^
 ||hehraybryciyls.com^
 ||hehyqqqxzndwia.com^
@@ -37055,6 +37062,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||marwinhitted.site^
 ||mascqybw.com^
 ||mashtourgaunt.com^
+||masklink.org^
 ||massessede.top^
 ||mastedyel.club^
 ||matagrabolisez.website^
@@ -40687,6 +40695,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||unreshiramor.com^
 ||unrestchat.com^
 ||unrzhgdly.com^
+||unseen2020.com^
 ||unskilledsqueakjunk.com^
 ||untabilityde.site^
 ||untpresearch.club^
@@ -41264,6 +41273,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wi3brxwr2b3v.com^
 ||wicanwfobqiz.com^
 ||wichnqeikfdp.com^
+||widvffyokrmlkk.com^
 ||wiewsulznyncf.com^
 ||wiffqhum.com^
 ||wigglecrisis.com^
@@ -47983,6 +47993,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||edchargina.pro^$popup
 ||elephant-ads.com^$popup
 ||enlarget.com^$popup,third-party
+||eonsmedia.com^$popup
 ||epicgameads.com^$popup,third-party
 ||erdecisesgeorg.info^$popup
 ||ethfw0370q.com^$popup
@@ -48034,6 +48045,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gamesrotator.com^$popup
 ||ganja.com^$popup,third-party
 ||gdmconvtrck.com^$popup
+||geras-con.com^$popup
 ||getalinkandshare.com^$popup
 ||getmyads.com^$popup,third-party
 ||gfdfhdh5t5453.com^$popup
@@ -48048,6 +48060,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gotoplaymillion.com^$popup,third-party
 ||gpxtxzzxoph.com^$popup
 ||grand-ads.com^$popup,third-party
+||granevahu.pro^$popup
 ||greatdexchange.com^$popup
 ||greetingscompassbough.com^$popup
 ||groorgex.net^$popup
@@ -48172,6 +48185,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||maomaotang.com^$popup,third-party
 ||marketresearchglobal.com^$popup,third-party
 ||mashionalkov.info^$popup
+||masklink.org^$popup
 ||mattoadbayed.icu^$popup
 ||mb01.com^$popup
 ||mb102.com^$popup
@@ -48527,6 +48541,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ufpcdn.com^$popup
 ||uhpdsplo.com^$popup
 ||unqpun.pro^$popup
+||unseen2020.com^$popup
 ||uptopopunder.com^$popup
 ||usenetnl.download^$popup,third-party
 ||utarget.ru^$popup,third-party
@@ -75213,6 +75228,7 @@ perfectmatch.tw#@#.right_ad
 zdface.com#@#.top-ad
 andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 i-cable.com#@#.video_ad
+bfmusic.com.tw#@#.ad_content
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 brandsales.58.com#@#div[id^="ad_"]
@@ -79568,6 +79584,7 @@ zol.com.cn##span[class^="jisu-down"]
 coolpc.com.tw#@##mycookie
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 dota2.com.cn#@##bdshare
+@@||soufunimg.com/??*/fshare.
 eastday.com#@##leftShare
 gfan.com,gfan.net.cn#@##shareBox
 sogou.com#@##shareContent
