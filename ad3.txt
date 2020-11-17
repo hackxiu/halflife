@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KsUkCIx40CMHyszz568xTQ
+! Checksum: 9g3qkd31MMI6tyZz94G4rQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202011180018
-! Last Modified: 2020年11月18日 00:18
+! Version: 202011180410
+! Last Modified: 2020年11月18日 04:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -95,13 +95,13 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||91p20.space^
 ||waust.at^
 ||www.dililitv.com/*.php?ad=$script
-www.dililitv.com,www.hmtv.me,imeiju.io,www.mkvdo.com,www.zxfun.net##+js(acis,Object.defineProperty,location.href)
+dililitv.com,hmtv.me,imeiju.io,mkvdo.com,zxfun.net##+js(acis,Object.defineProperty,location.href)
 www.dyjihe.com##.tempWrap
 haitur.com,www.haicaoys.com,www.cdfdy.com,www.labays.com,www.meiyuktv.cn##.dplayer-web-fullscreen-fix .float-box
 haitur.com##.container:style(max-width:90%!important;width:90%!important)
 haitur.com##.left-content:style(width:77%!important)
-www.imomoe.ai,hehua.net,kakadm.com##+js(ra, target, a[href^="/"])
-!www.imomoe.ai###adl,#adr
+imomoe.*,hehua.net,kakadm.com,milimili.tv##+js(ra, target, a[href^="/"])
+!imomoe.*###adl,#adr
 ||alicdn.com/$image,domain=api.xiaomingming.org
 yatu.tv###loadtop,[id^=myas],#myds1,#daohang
 3z9e.cn
@@ -38385,6 +38385,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com|greentoe.com
 @@||mxpnl.com^$domain=mixpanel.com
 @@||mywebar.com/js/tracking_worker.js$~third-party
+@@||nintendo.com/apps/noa/scripts/analytics.js
 @@||newrelic.com/nr-*.min.js$domain=surveymonkey.co.uk|surveymonkey.com|surveymonkey.de|surveymonkey.ru
 @@||newrelic.com/public/charts/$subdocument,xmlhttprequest
 @@||nfltags.com/omniture/$script,domain=nfl.com
