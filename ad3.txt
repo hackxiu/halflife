@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Yxb1p7XCYxJBeKjdePmVsw
+! Checksum: wW3ZarIijhG7agc7lt7p6g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202011171212
-! Last Modified: 2020年11月17日 12:12
+! Version: 202011172014
+! Last Modified: 2020年11月17日 20:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -26937,6 +26937,7 @@ _mongo_stats/
 ||bridgevine.com^$third-party
 ||brightfunnel.com^$third-party
 ||brilig.com^$third-party
+||brilliantcollector.com^$third-party
 ||britepool.com^$third-party
 ||bronto.com^$third-party
 ||browser-statistik.de^$third-party
@@ -27819,6 +27820,7 @@ _mongo_stats/
 ||kameleoon.eu^$third-party
 ||kampyle.com^$third-party
 ||kantartns.lt^$third-party
+||kaptcha.com^$third-party
 ||kaxsdc.com^$third-party
 ||keen.io^$third-party,domain=~keen.github.io|~keen.io
 ||keet1liod.com^$third-party
@@ -31044,6 +31046,7 @@ _mongo_stats/
 ||analytics.strangeloopnetworks.com^
 ||analytics.supplyframe.com^
 ||analytics.themarketiq.com^
+||analytics.threedeepmarketing.com^
 ||analytics.tiktok.com^
 ||analytics.tooso.ai^
 ||analytics.tout.com^
@@ -34739,6 +34742,7 @@ _mongo_stats/
 ||gumtree.com.au/?pc=
 ||h.cliphunter.com^
 ||hanksgalleries.com/stxt/counter.php?
+||harryrosen.com/analytics/
 ||harvester.eu.square-enix.com^
 ||harvester.hbpl.co.uk^
 ||hclips.com/js/0818.js
@@ -38699,6 +38703,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 !---------- Finnish ----------
 @@||adobedtm.com^*/satelliteLib-$script,domain=gigantti.fi
 @@||api.cxense.com/public/widget/data?json=$script,domain=ksml.fi|savonsanomat.fi
+@@||api.etherscan.io/api$domain=sushiswap.fi
 @@||certona.net^*/resonance.js$domain=zooplus.fi
 @@||cnetcontent.com/jsc/h.js$domain=atea.fi
 @@||d2wzl9lnvjz3bh.cloudfront.net/frosmo.easy.js$domain=lippu.fi

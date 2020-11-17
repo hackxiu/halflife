@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EtqC/4GSBXbReGCb21GvLg
+! Checksum: WJ5++06cSnfuTQtlb9hUKA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011170410
-! Last Modified: 2020年11月17日 04:10
+! Version: 202011172014
+! Last Modified: 2020年11月17日 20:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1316,7 +1316,7 @@ doodstream.com,dood.to,dood.watch#$#abort-on-property-read DoodPop; abort-on-pro
 youdbox.com,vudeo.net#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
 txxx.com,hclips.com#$#abort-on-property-read adver
-downloadgameps3.com,letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
+animepahe.com,downloadgameps3.com,letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
 frprn.com#$#abort-current-inline-script document.querySelectorAll popMagic
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
@@ -1602,7 +1602,7 @@ erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
 mediasat.info,housechief.ru,fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
 gdz-putina.fun,gdz.ninja,gdz.ru,gdzotputina.club,gdzputina.net,gdzputina.ru,megaresheba.com,megaresheba.ru,resheba.me,spishi.fun,zoobrilka.net#$#abort-on-property-write app.book.external
 dfiles.ru#$#abort-on-property-read ads_script
-sports.ru,tribuna.com#$#abort-on-property-read Element.prototype.shadowRoot
+sports.ru,tribuna.com#$#override-property-read Object.prototype.getRandomArrayElement noopFunc
 volynpost.com#$#abort-on-property-read trek_shownow
 ati.su#$#abort-on-property-read Object.prototype.advApiClient
 app2top.ru,fssp.gov.ru#$#abort-on-property-read tingle

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IWY3qyd4K3r4xUO8Tvnxww
+! Checksum: RRNfVGVcb8odq3ZhBOMQ2g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011171212
-! Last Modified: 2020年11月17日 12:12
+! Version: 202011172014
+! Last Modified: 2020年11月17日 20:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -8529,6 +8529,7 @@ takeover_banner_
 ||online.*/promoredirect?key=
 ||ox-d.*^auid=
 ||serve.*/promoload?
+://rs-stripe.wsj.com/stripe/image?
 /?wmi=*lp=$document
 /full-page-script.js$script,~third-party
 /earn.php?z=$popup,subdocument
@@ -30301,6 +30302,7 @@ _popunder+$popup
 ##a[href^="http://refer.webhostingbuzz.com/"]
 ##a[href^="http://refpa.top/"]
 ##a[href^="http://refpaano.host/"]
+##a[href^="http://rs-stripe.wsj.com/stripe/redirect"]
 ##a[href^="http://s5prou7ulr.com/"]
 ##a[href^="http://s9kkremkr0.com/"]
 ##a[href^="http://searchtabnew.com/"]
@@ -36688,6 +36690,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||l2wisd9g5d9u.com^
 ||l5fvoqimjfug.com^
 ||l8ea1nesmb0e.com^
+||l99l.org^
 ||la-la-moon.com^
 ||la-la-sf.com^
 ||la1dwne9cn5c.com^
@@ -38599,6 +38602,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pllblrapagrvn.com^
 ||plqakqvku.com^
 ||plufdsb.com^
+||pluggednow.com^
 ||pluralbreakpractice7.live^
 ||plxtejszb.com^
 ||plyinsidere.club^
@@ -39842,6 +39846,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sibatnsryjpcq.com^
 ||sibilantcliffrecommendation.com^
 ||sicteppojdwr.com^
+||sidewaybeings.com^
 ||siegemeg.com^
 ||sierraclumsy.com^
 ||sightcoloniansy.site^
@@ -48405,6 +48410,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||playboymethod.com^$popup,third-party
 ||plexop.net^$popup,third-party
 ||plsdrct2.me^$popup,third-party
+||pluggednow.com^$popup
 ||pluralbreakpractice7.live^$popup
 ||pocofh.com^$popup
 ||podhopfit.site^$popup
@@ -55708,6 +55714,7 @@ crawler.com###s
 classifieds.co.uk###s123results
 crawler.com###s2
 ask.com###saResult
+noypigeeks.com###sab_wrap
 salary.com###sal_pg_abv
 codefuture.co.uk###sb_left
 hwhills.com###sb_left_tower
@@ -58367,16 +58374,19 @@ audiobookbay.net##[href="/dl-14-days-trial"]
 2pass.co.uk##[href="bicycle-insurance.htm"]
 sqlfiddle.com##[href="https://entityframework-extensions.net/"]
 mhktricks.org##[href="https://www.deepbrid.com/"]
+noypigeeks.com##[href] > .litespeed-loaded
 nzbindex.com##[href^="/i/c/"]
 steroid.com##[href^="/out.php"]
 longfiles.com##[href^="/read/vip.php"]
 ancient-origins.net,ssbcrack.com##[href^="https://amzn.to/"]
 wccftech.com##[href^="https://cutt.ly/"]
 thehackernews.com##[href^="https://go.thn.li/"]
+noypigeeks.com##[href^="https://nypgks.com/"]
 wccftech.com##[href^="https://tidd.ly/"]
 unknowncheats.me##[href^="https://www.iwantcheats.net/"]
 gamecopyworld.com##[href^="https://www.kinguin.net/"]
 nwanime.tv##[href^="https://www.nutaku.net/signup/landing/"]
+noypigeeks.com##[href^="https://www.vivo.com/"]
 monova.org##[onclick] > [target="_blank"]
 monova.org##[onclick] > a[class]
 filecrypt.cc,filecrypt.co##[onclick^="location.href"]
@@ -85852,6 +85862,7 @@ _mongo_stats/
 ||bridgevine.com^$third-party
 ||brightfunnel.com^$third-party
 ||brilig.com^$third-party
+||brilliantcollector.com^$third-party
 ||britepool.com^$third-party
 ||bronto.com^$third-party
 ||browser-statistik.de^$third-party
@@ -86734,6 +86745,7 @@ _mongo_stats/
 ||kameleoon.eu^$third-party
 ||kampyle.com^$third-party
 ||kantartns.lt^$third-party
+||kaptcha.com^$third-party
 ||kaxsdc.com^$third-party
 ||keen.io^$third-party,domain=~keen.github.io|~keen.io
 ||keet1liod.com^$third-party
@@ -89959,6 +89971,7 @@ _mongo_stats/
 ||analytics.strangeloopnetworks.com^
 ||analytics.supplyframe.com^
 ||analytics.themarketiq.com^
+||analytics.threedeepmarketing.com^
 ||analytics.tiktok.com^
 ||analytics.tooso.ai^
 ||analytics.tout.com^
@@ -93654,6 +93667,7 @@ _mongo_stats/
 ||gumtree.com.au/?pc=
 ||h.cliphunter.com^
 ||hanksgalleries.com/stxt/counter.php?
+||harryrosen.com/analytics/
 ||harvester.eu.square-enix.com^
 ||harvester.hbpl.co.uk^
 ||hclips.com/js/0818.js
@@ -97614,6 +97628,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 !---------- Finnish ----------
 @@||adobedtm.com^*/satelliteLib-$script,domain=gigantti.fi
 @@||api.cxense.com/public/widget/data?json=$script,domain=ksml.fi|savonsanomat.fi
+@@||api.etherscan.io/api$domain=sushiswap.fi
 @@||certona.net^*/resonance.js$domain=zooplus.fi
 @@||cnetcontent.com/jsc/h.js$domain=atea.fi
 @@||d2wzl9lnvjz3bh.cloudfront.net/frosmo.easy.js$domain=lippu.fi
