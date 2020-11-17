@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zZ3GD6ZjBoKmfWJaOYlzYg
+! Checksum: IWY3qyd4K3r4xUO8Tvnxww
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011170829
-! Last Modified: 2020年11月17日 08:29
+! Version: 202011171212
+! Last Modified: 2020年11月17日 12:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -27454,6 +27454,7 @@ _popunder+$popup
 ##.portal_searchresultssponsoredlist
 ##.portalcontentad
 ##.pos_advert
+##.position-ads
 ##.post-ad
 ##.post-ads
 ##.post-adsense-bottom
@@ -52506,6 +52507,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||idlebrain.com^*/sky-
 ||idlebrain.com^*/square-
 ||igorslab.de/wp-content/uploads/205/$script
+||iheart.com^*/getLiveRadioAdConfig
 ||imagetwist.com/imgs/hims.jpg
 ||imagetwist.com/raa/
 ||imgking.co/frler.js
@@ -86129,6 +86131,7 @@ _mongo_stats/
 ||devatics.io^$third-party
 ||device9.com^$third-party
 ||dgmsearchlab.com^$third-party
+||di-capt.com^$third-party
 ||dialogtech.com^$third-party
 ||did-it.com^$third-party
 ||didit.com^$third-party
@@ -91753,6 +91756,7 @@ _mongo_stats/
 ||tru.webelapp.com^
 ||trumba.com/et.aspx?$third-party
 ||trustarc.com/bannermsg?
+||trustcommander.net/iab-tcfapi/
 ||trustcommander.net/privacy/
 ||trustedform.com/trustedform.js?provide_referrer
 ||trustpilot.com/stats/
@@ -92012,6 +92016,7 @@ _mongo_stats/
 ||seal.verisign.com^$third-party
 ||sealserver.trustwave.com^$third-party
 ||secure.trust-guard.com^$third-party
+||siteintercept.allegiancetech.com^
 ||siteintercept.qualtrics.com^$third-party
 ||trustev.com/trustev.min.js$third-party
 ||websecurity.norton.com^$third-party
@@ -93022,6 +93027,7 @@ _mongo_stats/
 ||beacon.nuskin.com^
 ||beacon.shazam.com^
 ||beacon.toyota.co.jp^
+||beacon.walmart.com^
 ||beacon.wikia-services.com^
 ||beacon.www.theguardian.com^
 ||beap-bc.yahoo.com^
@@ -93733,6 +93739,7 @@ _mongo_stats/
 ||iedc.fitbit.com^
 ||ig.active.com/ig.track.js$script
 ||ign.com/global/analytics/drones.js
+||iheart.com/api/v3/playback/reporting
 ||iheart.com/tracking/
 ||image.providesupport.com/cmd/
 ||imagefap.com/images/yes.gif?
@@ -96287,6 +96294,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||lemde.fr^*/tracking/
 ||leparking-moto.fr/*/tracker.js
 ||leparking.fr/jsV038/tracker.js
+||liberation.fr/newsite/js/cmp/
 ||logs-qos.tf1.fr^
 ||ma-petite-recette.fr/visites
 ||marmiton.org/logpix.php
