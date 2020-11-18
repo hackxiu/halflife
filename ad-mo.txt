@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: b5+dbkdpV4ta05fCNqgs4Q
+! Checksum: YDsqvYT/ARnx0Q2ta1LSBw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011190017
-! Last Modified: 2020年11月19日 00:17
+! Version: 202011190411
+! Last Modified: 2020年11月19日 04:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -23045,6 +23045,7 @@ _popunder+$popup
 ##.app-advertisements
 ##.app_ad_unit
 ##.app_advertising_skyscraper
+##.app_nexus_banners_common
 ##.apxContentAd
 ##.arcAdsBox
 ##.arcAdsContainer
@@ -69964,6 +69965,7 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+kukuw.com###gg_rl
 mzh.ren##A[href*=".jd.com"]
 mzh.ren##A[href*=".taobao.com"]
 mzh.ren##A[href*=".aliyun.com"]
@@ -89785,7 +89787,8 @@ _mongo_stats/
 ||afrigator.com/track/
 ||agendize.com^*/counts.jsp?
 ||aiya.com.cn/stat.js
-||akamaized.net/sc/$domain=msn.com
+||akamaized.net/sc/*.gif$domain=msn.com
+||akamaized.net/sc/*.js$domain=msn.com
 ||akanoo.com/tracker/
 ||akatracking.esearchvision.com^
 ||aklamio.com/ovlbtntrk?
@@ -97519,10 +97522,14 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||ksta.de^*/tracking/tracking.js$domain=ksta.de
 @@||orginio.de/api/analytics/$~third-party,xmlhttprequest
 @@||rtl.de^*/videotracking.min.js$domain=rtl.de
+@@||showheroes.com/playlist/vast3?$xmlhttprequest,domain=rtl.de
+@@||showheroes.com/publishertag.js$domain=rtl.de
+@@||showheroes.com/pubtag.js$domain=rtl.de
+@@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=rtl.de
 @@||spatialbuzz.com/piwik/piwik.js$domain=spatialbuzz.com
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||sunday.de/skin/*/googleanalytics.js$script
-@@||taboola.com/libtrc/impl.$script,domain=bild.de|bz-berlin.de|computerbild.de|fitbook.de|jetzt.de|metal-hammer.de|musikexpress.de|noizz.de|rollingstone.de|stylebook.de|techbook.de|travelbook.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de
+@@||taboola.com/libtrc/impl.$script,domain=bild.de|bz-berlin.de|computerbild.de|fitbook.de|jetzt.de|metal-hammer.de|musikexpress.de|noizz.de|rollingstone.de|stylebook.de|techbook.de|travelbook.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de
 @@||tipico.de/js/modules/fingerprintjs2/fingerprint2.min.js$script,~third-party
 @@||uim.tifbs.net/js/$script,domain=web.de
 @@||widgets.trustedshops.com/reviews/tsSticker/$domain=koziol-shop.de

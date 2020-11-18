@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AHB5P4v4pxliTFXYgKEgZA
+! Checksum: mCqEg7oGmf1wAfXS9eV4Kw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011190017
-! Last Modified: 2020年11月19日 00:17
+! Version: 202011190411
+! Last Modified: 2020年11月19日 04:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -770,7 +770,7 @@ orcie178nohy$image,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz
 =js&lst=$script,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 _cz?format=js&async=1|$domain=www.idnes.cz
 /kyblik^$image,domain=www.idnes.cz|expres.cz
-?fl=res,$image,domain=www.idnes.cz|expres.cz
+?fl=res,$image,domain=www.idnes.cz|expres.cz|novinky.cz|televizeseznam.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 www.idnes.cz,expres.cz#$#abort-on-property-write document.currentScript
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
@@ -822,6 +822,7 @@ tiscali.cz##[class*="-ld-top"]
 nasepenize.cz#?#:-abp-has(>[class$="selfpromo"])
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id*="tmAdVideo"], [class=" pe-banner"]
 fights.cz,spisovatele.cz##body>a[target="_blank"]
+AKp$script,image,match-case,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 /?typ*kodu=js*=pop_$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 &ibbid=BBID$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 &bbtarget=$subdocument,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
@@ -923,6 +924,7 @@ novinky.cz##iframe[frofro="no"][scrascra="no"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz###sznad-video-takeover
 novinky.cz##a[href*="&partId="]
 novinky.cz##div[style*="background-image: url"]
+novinky.cz##a[title][target="_blank"][href^="//www.novinky.cz/"]
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##a[href*="verdsi="][href*="&ip="]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##[href*="&token="][target="_blank"]
@@ -1055,31 +1057,31 @@ newser.com#$#freeze-element #divVote; freeze-element #divRightRail '' #divRightR
 foreverymom.com#$#freeze-element .post abort .facebook_comment_post #fb-root
 grammarist.com#$#freeze-element #content-sidebar-wrap abort
 canadafreepress.com#$#freeze-element .col-md-8 '' [data-spotim-default-areas] [data-post-url]; freeze-element .col-md-4 '' .row
+independentminute.com#$#freeze-element #content-main '' .twitter-tweet twitter-tweet-rendered; freeze-element .side-widget subtree
+conservativefiringline.com#$#freeze-element #revere-report-widget abort; freeze-element .post
+dcdirtylaundry.com#$#freeze-element .textwidget abort+subtree
+designbump.com#$#freeze-element .cb-entry-content; freeze-element .cb-sidebar '' .banner
+ipatriot.com#$#freeze-element .article-content abort; freeze-element .revere-report-logo abort
+breakingfirst.com#$#freeze-element .evo-right-sidebar abort .theiaStickySidebar; freeze-element .evo-post abort
 deneenborelli.com#$#freeze-element .wpb_wrapper subtree
 naturalblaze.com#$#freeze-element .content-sidebar-wrap abort; freeze-element article abort
 beforeitsnews.com#$#freeze-element .widget-area abort; freeze-element #story_column abort
 videogamesblogger.com#$#freeze-element .listedArticle abort; freeze-element #sideBarContent abort+subtree
 gamersheroes.com#$#freeze-element .sc_section abort .sc_blogger
 rightwingtribune.com#$#freeze-element .mh-sidebar abort; freeze-element .entry-content abort
-dcdirtylaundry.com#$#freeze-element .fb-page abort+subtree
 dcclothesline.com#$#freeze-element #td_social_sharing_article_bottom abort
-independentminute.com#$#freeze-element #archive-list-wrap abort; freeze-element .post-cont-in abort
 madworldnews.com#$#freeze-element .post abort
 clashdaily.com#$#freeze-element .td-post-content abort .twitter-tweet .essb_links
-conservativefiringline.com#$#freeze-element .td-post-content abort .twitter-tweet .essb_links
 tosavealife.com#$#freeze-element .post abort
 allthingsvegas.com#$#freeze-element .vw-page-navigation abort
 bestfunnyjokes4u.com#$#freeze-element .post-bodycopy abort
-designbump.com#$#freeze-element .cb-entry-content abort
 dailylol.com#$#freeze-element .post abort
 patriotnationpress.com#$#freeze-element .widget_recent_entries abort .cb-sidebar-widget-title
 thedesigninspiration.com#$#freeze-element .article-body abort
 wakingtimes.com#$#freeze-element .widget-area abort
 threepercenternation.com#$#freeze-element .widget_text abort
 survivalnation.com#$#freeze-element .vw-post-tabed-content abort; freeze-element .post abort
-ipatriot.com#$#freeze-element .article-content abort
 greatamericanpolitics.com#$#freeze-element .td-ss-main-content abort'; freeze-element .post abort
-breakingfirst.com#$#freeze-element .evo-right-sidebar abort; freeze-element .evo-post abort
 vitamiiin.com#$#freeze-element .prev-next-nav abort
 americasfreedomfighters.com#$#freeze-element #sidebar abort; freeze-element .entry abort
 steadfastherald.com#$#freeze-element .page-content abort; freeze-element .nav-wrapper abort
@@ -1646,7 +1648,7 @@ empireg.ru#$#abort-current-inline-script Math zfgloaded
 ~mail.rambler.ru,rambler.ru,autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//*[not(self::node()[@class])][contains(normalize-space(),".ru") or contains(normalize-space(),".com") or contains(normalize-space(),".net") or contains(normalize-space(),"Реклама") or contains(normalize-space(),".соm") or contains(normalize-space(),".bz") or contains(normalize-space(),".сom") or contains(normalize-space(),".сom") or contains(normalize-space(),".cоm") or contains(normalize-space(),".net") or contains(normalize-space(),".рф") or contains(normalize-space(),".by") or contains(normalize-space(),".nеt") or contains(normalize-space(),".cоm") or contains(normalize-space(),".ru") or contains(normalize-space(),".info") or contains(normalize-space(),".ru") or contains(normalize-space(),".bz") or contains(normalize-space(),".nеt") or contains(normalize-space(),".cоm") or contains(normalize-space(),".pф") or contains(normalize-space(),".me") or contains(normalize-space(),".mе")]/ancestor::*[2][not(div)][not(p)][not(article)][not(head)][not(font)][not(li)][not(ul)]'
 ~mail.rambler.ru,rambler.ru,autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//*[not(self::node()[@class])][contains(normalize-space(),".tv") or contains(normalize-space(),".ru") or contains(normalize-space(),".ru") or contains(normalize-space(),".СОM") or contains(normalize-space(),".СOM") or contains(normalize-space(),".CОM") or contains(normalize-space(),".cоm") or contains(normalize-space(),".сom") or contains(normalize-space(),".nеt") or contains(normalize-space(),".run") or contains(normalize-space(),".online") or contains(normalize-space(),".net") or contains(normalize-space(),".рф") or contains(normalize-space(),".aе") or contains(normalize-space(),".stоrе") or contains(normalize-space(),".COM") or contains(normalize-space(),".рet") or contains(normalize-space(),".su") or contains(normalize-space(),".сom") or contains(normalize-space(),".сlub") or contains(normalize-space(),".site") or contains(normalize-space(),".оnline") or contains(normalize-space(),".оrg")]/ancestor::*[2][not(div)][not(p)][not(article)][not(head)][not(font)][not(li)][not(ul)]'
 ~mail.rambler.ru,rambler.ru,autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//*[not(self::node()[@class])][contains(normalize-space(),"Узнать больше")]/ancestor::*[2][not(div)][not(p)][not(article)][not(head)][not(font)][not(li)][not(ul)]'
-~mail.rambler.ru,rambler.ru,autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//*[not(self::node()[@class])][contains(normalize-space(),".onlinе")or contains(normalize-space(),".net") or contains(normalize-space(),".nеt") or contains(normalize-space(),".ru") or contains(normalize-space(),".org") or contains(normalize-space(),".sраce") or contains(normalize-space(),".spасe") or contains(normalize-space(),".moscоw") or contains(normalize-space(),".nеt") or contains(normalize-space(),".com") or contains(normalize-space(),".соm") or contains(normalize-space(),".cоm") or contains(normalize-space(),".de") or contains(normalize-space(),".dе")]/ancestor::*[2][not(div)][not(p)][not(article)][not(head)][not(font)][not(li)][not(ul)]'
+~mail.rambler.ru,rambler.ru,autorambler.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//*[not(self::node()[@class])][contains(normalize-space(),".onlinе")or contains(normalize-space(),".net") or contains(normalize-space(),".nеt") or contains(normalize-space(),".ru") or contains(normalize-space(),".org") or contains(normalize-space(),".sраce") or contains(normalize-space(),".spасe") or contains(normalize-space(),".moscоw") or contains(normalize-space(),".nеt") or contains(normalize-space(),".com") or contains(normalize-space(),".соm") or contains(normalize-space(),".cоm") or contains(normalize-space(),".de") or contains(normalize-space(),".dе")]/ancestor::*[2][not(div)][not(p)][not(article)][not(head)][not(font)][not(li)][not(ul)]'
 autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru##div a[href="/"]:not([class])
 rambler.ru##div a[href="/"]:not([class])
 rambler.ru##.top-topic__coins
