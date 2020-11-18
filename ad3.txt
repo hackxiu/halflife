@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gUsoar32UVaRFsoeJQ/C9g
+! Checksum: 21t7ucySqquS7dUWPCxnrQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202011180829
-! Last Modified: 2020年11月18日 08:29
+! Version: 202011181213
+! Last Modified: 2020年11月18日 12:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -6507,7 +6507,6 @@ _yad_jsonp_
 ||i-gamer.net^$domain=cartomad.com|cartonmad.com|cartoomad.com|cartoonad.com|cartoonmad.com
 ||i-part.com.tw/js2/newShineStar
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
-||i.syasn.com^
 ||i322.com/ad_avshow/
 ||i8.com.cn/images/a.swf
 ||i8.com.cn/images/tiandijie.jpg
@@ -8469,7 +8468,7 @@ _yad_jsonp_
 ||wmzhe.com/static/wmzhe/images/cjzg/
 ||wmzhe.com/static/wmzhe/images/suishenbao/
 ||wn789.com/wp-content/uploads/*/SugarHosts
-||wnacg.*/1605524662754.
+||wnacg.*/themes/mo/images/*.gif
 ||wnacg.*/1sdfdc1/
 ||wnacg.*/58s/
 ||wnacg.*/5eg/
@@ -38293,8 +38292,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||flippingbook.com^*/static/analytics.js$script,~third-party
 @@||flsenate.gov/Scripts/GoogleAnalytics.js$~third-party
 @@||fmz.com/pkg/fingerprint2.min.js$~third-party,xmlhttprequest
-@@||fncstatic.com^*/visitorapi.js$script,domain=foxbusiness.com|foxnews.com
-@@||foxnews.com^*/visitorapi.js$script,domain=foxnews.com
+@@||foxnews.com^*/VisitorAPI.js$script,domain=foxbusiness.com|foxnews.com
 @@||friendbuy.com^$domain=butcherbox.com
 @@||gannettdigital.com/universal-web-client/master/latest/elements/$xmlhttprequest
 @@||gatsbyjs.org/packages/$xmlhttprequest
@@ -38810,7 +38808,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
 @@||yu.xyz.mn/images/event.gif?$image,~third-party
 !---------- Korean ----------
-@@||daumcdn.net/tiara/js/v1/tiara.min.js$domain=map.kakao.com|tv.kakao.com
+@@||daumcdn.net/tiara/js/v1/tiara.min.js$domain=kakao.com
 @@||naver.net/wcslog.js$domain=m.tv.naver.com
 @@||vod.midas-i.com^$media,domain=pandora.tv
 @@||wcs.naver.com/m$image,domain=sooldamhwa.com

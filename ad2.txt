@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: shBtEYpDDPGlbqcfa9fQRA
+! Checksum: KcTVo9+r0N5Ebtn+kt4eNQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202011180829
-! Last Modified: 2020年11月18日 08:29
+! Version: 202011181213
+! Last Modified: 2020年11月18日 12:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -6507,7 +6507,6 @@ _yad_jsonp_
 ||i-gamer.net^$domain=cartomad.com|cartonmad.com|cartoomad.com|cartoonad.com|cartoonmad.com
 ||i-part.com.tw/js2/newShineStar
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
-||i.syasn.com^
 ||i322.com/ad_avshow/
 ||i8.com.cn/images/a.swf
 ||i8.com.cn/images/tiandijie.jpg
@@ -8469,7 +8468,7 @@ _yad_jsonp_
 ||wmzhe.com/static/wmzhe/images/cjzg/
 ||wmzhe.com/static/wmzhe/images/suishenbao/
 ||wn789.com/wp-content/uploads/*/SugarHosts
-||wnacg.*/1605524662754.
+||wnacg.*/themes/mo/images/*.gif
 ||wnacg.*/1sdfdc1/
 ||wnacg.*/58s/
 ||wnacg.*/5eg/
