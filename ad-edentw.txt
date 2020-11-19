@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mCqEg7oGmf1wAfXS9eV4Kw
+! Checksum: uXF2tkGDL+bmLPu8J4Me+w
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011190411
-! Last Modified: 2020年11月19日 04:11
+! Version: 202011192014
+! Last Modified: 2020年11月19日 20:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -772,6 +772,8 @@ _cz?format=js&async=1|$domain=www.idnes.cz
 /kyblik^$image,domain=www.idnes.cz|expres.cz
 ?fl=res,$image,domain=www.idnes.cz|expres.cz|novinky.cz|televizeseznam.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 www.idnes.cz,expres.cz#$#abort-on-property-write document.currentScript
+||www.expres.cz/*mafra/*$image,domain=www.expres.cz
+||www.idnes.cz/*mafra/*$image,domain=www.idnes.cz
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
@@ -792,8 +794,6 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id$
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id$=".1.1.1"]
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"]
-tiscali.cz##a.tracked-event[href*="tiscali.cz"][target^="_"]:not([target="_blank"])
-tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##a[href*="bbelements.com"]
 kinobox.cz##.box.banner_300, #b300_fixbox
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##.btitle-right
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##a[href*="IdBnrP="][href*="IdCamp="]
@@ -1441,10 +1441,10 @@ pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
 ||1ytyc67.ytwkco.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 ! Temporary filters
 ! #CV-895
-@@||cdn.privacy-mgmt.com^$domain=11freunde.de|autobild.de|bike-bild.de|bild.de|boerse-online.de|businessinsider.de|bz-berlin.de|caramia.de|clever-tanken.de|computerbild.de|edelblech.de|faz.net|finanzen.at|finanzen.ch|finanzen.net|fitbook.de|gofeminin.de|idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it|immonet.de|insider.com|kombi.de|meinestadt.de|metal-hammer.de|musikexpress.de|myhomebook.de|n24.de|noizz.de|onmeda.de|politico.eu|rollingstone.de|sportbild.de|stylebook.de|techbook.de|testbild.de|transfermarkt.at|transfermarkt.ch|transfermarkt.co.uk|transfermarkt.com|transfermarkt.com.tr|transfermarkt.de|transfermarkt.fr|transfermarkt.it|transfermarkt.nl|transfermarkt.pl|transfermarkt.pt|transfermarkt.us|travelbook.de|tvspielfilm.de|vip.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de|gruenderszene.de|emarketer.com|insider-inc.com|insiderintelligence.com|seloger.com
-@@||sp-prod.net^$domain=11freunde.de|autobild.de|bike-bild.de|bild.de|boerse-online.de|businessinsider.de|bz-berlin.de|caramia.de|clever-tanken.de|computerbild.de|edelblech.de|faz.net|finanzen.at|finanzen.ch|finanzen.net|fitbook.de|gofeminin.de|idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it|immonet.de|insider.com|kombi.de|meinestadt.de|metal-hammer.de|musikexpress.de|myhomebook.de|n24.de|noizz.de|onmeda.de|politico.eu|rollingstone.de|sportbild.de|stylebook.de|techbook.de|testbild.de|transfermarkt.at|transfermarkt.ch|transfermarkt.co.uk|transfermarkt.com|transfermarkt.com.tr|transfermarkt.de|transfermarkt.fr|transfermarkt.it|transfermarkt.nl|transfermarkt.pl|transfermarkt.pt|transfermarkt.us|travelbook.de|tvspielfilm.de|vip.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de|gruenderszene.de|emarketer.com|insider-inc.com|insiderintelligence.com|seloger.com
-@@/wrapperMessagingWithoutDetection.js|$script,domain=11freunde.de|autobild.de|bike-bild.de|bild.de|boerse-online.de|businessinsider.de|bz-berlin.de|caramia.de|clever-tanken.de|computerbild.de|edelblech.de|faz.net|finanzen.at|finanzen.ch|finanzen.net|fitbook.de|gofeminin.de|idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it|immonet.de|insider.com|kombi.de|meinestadt.de|metal-hammer.de|musikexpress.de|myhomebook.de|n24.de|noizz.de|onmeda.de|politico.eu|rollingstone.de|sportbild.de|stylebook.de|techbook.de|testbild.de|transfermarkt.at|transfermarkt.ch|transfermarkt.co.uk|transfermarkt.com|transfermarkt.com.tr|transfermarkt.de|transfermarkt.fr|transfermarkt.it|transfermarkt.nl|transfermarkt.pl|transfermarkt.pt|transfermarkt.us|travelbook.de|tvspielfilm.de|vip.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de|gruenderszene.de|emarketer.com|insider-inc.com|insiderintelligence.com|seloger.com
-@@/gdpr/native-message?requestUUID=$xmlhttprequest,domain=11freunde.de|autobild.de|bike-bild.de|bild.de|boerse-online.de|businessinsider.de|bz-berlin.de|caramia.de|clever-tanken.de|computerbild.de|edelblech.de|faz.net|finanzen.at|finanzen.ch|finanzen.net|fitbook.de|gofeminin.de|idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it|immonet.de|insider.com|kombi.de|meinestadt.de|metal-hammer.de|musikexpress.de|myhomebook.de|n24.de|noizz.de|onmeda.de|politico.eu|rollingstone.de|sportbild.de|stylebook.de|techbook.de|testbild.de|transfermarkt.at|transfermarkt.ch|transfermarkt.co.uk|transfermarkt.com|transfermarkt.com.tr|transfermarkt.de|transfermarkt.fr|transfermarkt.it|transfermarkt.nl|transfermarkt.pl|transfermarkt.pt|transfermarkt.us|travelbook.de|tvspielfilm.de|vip.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de|gruenderszene.de|emarketer.com|insider-inc.com|insiderintelligence.com|seloger.com
+@@||cdn.privacy-mgmt.com^$domain=11freunde.de|autobild.de|bike-bild.de|bild.de|boerse-online.de|businessinsider.de|bz-berlin.de|caramia.de|clever-tanken.de|computerbild.de|edelblech.de|faz.net|finanzen.at|finanzen.ch|finanzen.net|fitbook.de|gofeminin.de|idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it|immonet.de|insider.com|kombi.de|meinestadt.de|metal-hammer.de|musikexpress.de|myhomebook.de|n24.de|noizz.de|onmeda.de|politico.eu|rollingstone.de|sportbild.de|stylebook.de|techbook.de|testbild.de|transfermarkt.at|transfermarkt.ch|transfermarkt.co.uk|transfermarkt.com|transfermarkt.com.tr|transfermarkt.de|transfermarkt.fr|transfermarkt.it|transfermarkt.nl|transfermarkt.pl|transfermarkt.pt|transfermarkt.us|travelbook.de|tvspielfilm.de|vip.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de|gruenderszene.de|emarketer.com|insider-inc.com|insiderintelligence.com|seloger.com|express.de
+@@||sp-prod.net^$domain=11freunde.de|autobild.de|bike-bild.de|bild.de|boerse-online.de|businessinsider.de|bz-berlin.de|caramia.de|clever-tanken.de|computerbild.de|edelblech.de|faz.net|finanzen.at|finanzen.ch|finanzen.net|fitbook.de|gofeminin.de|idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it|immonet.de|insider.com|kombi.de|meinestadt.de|metal-hammer.de|musikexpress.de|myhomebook.de|n24.de|noizz.de|onmeda.de|politico.eu|rollingstone.de|sportbild.de|stylebook.de|techbook.de|testbild.de|transfermarkt.at|transfermarkt.ch|transfermarkt.co.uk|transfermarkt.com|transfermarkt.com.tr|transfermarkt.de|transfermarkt.fr|transfermarkt.it|transfermarkt.nl|transfermarkt.pl|transfermarkt.pt|transfermarkt.us|travelbook.de|tvspielfilm.de|vip.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de|gruenderszene.de|emarketer.com|insider-inc.com|insiderintelligence.com|seloger.com|express.de
+@@/wrapperMessagingWithoutDetection.js|$script,domain=11freunde.de|autobild.de|bike-bild.de|bild.de|boerse-online.de|businessinsider.de|bz-berlin.de|caramia.de|clever-tanken.de|computerbild.de|edelblech.de|faz.net|finanzen.at|finanzen.ch|finanzen.net|fitbook.de|gofeminin.de|idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it|immonet.de|insider.com|kombi.de|meinestadt.de|metal-hammer.de|musikexpress.de|myhomebook.de|n24.de|noizz.de|onmeda.de|politico.eu|rollingstone.de|sportbild.de|stylebook.de|techbook.de|testbild.de|transfermarkt.at|transfermarkt.ch|transfermarkt.co.uk|transfermarkt.com|transfermarkt.com.tr|transfermarkt.de|transfermarkt.fr|transfermarkt.it|transfermarkt.nl|transfermarkt.pl|transfermarkt.pt|transfermarkt.us|travelbook.de|tvspielfilm.de|vip.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de|gruenderszene.de|emarketer.com|insider-inc.com|insiderintelligence.com|seloger.com|express.de
+@@/gdpr/native-message?requestUUID=$xmlhttprequest,domain=11freunde.de|autobild.de|bike-bild.de|bild.de|boerse-online.de|businessinsider.de|bz-berlin.de|caramia.de|clever-tanken.de|computerbild.de|edelblech.de|faz.net|finanzen.at|finanzen.ch|finanzen.net|fitbook.de|gofeminin.de|idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it|immonet.de|insider.com|kombi.de|meinestadt.de|metal-hammer.de|musikexpress.de|myhomebook.de|n24.de|noizz.de|onmeda.de|politico.eu|rollingstone.de|sportbild.de|stylebook.de|techbook.de|testbild.de|transfermarkt.at|transfermarkt.ch|transfermarkt.co.uk|transfermarkt.com|transfermarkt.com.tr|transfermarkt.de|transfermarkt.fr|transfermarkt.it|transfermarkt.nl|transfermarkt.pl|transfermarkt.pt|transfermarkt.us|travelbook.de|tvspielfilm.de|vip.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de|gruenderszene.de|emarketer.com|insider-inc.com|insiderintelligence.com|seloger.com|express.de
 @@||cdn.idealo.com/storage/cmp/cmp-idealo.js|$script,domain=idealo.de
 @@||script.finanzen.ch/Content/Scripts/cookie.js$domain=finanzen.ch
 @@||cmp-proxy.idealo.de/Notice.$script,stylesheet,domain=idealo.de
@@ -1465,6 +1465,7 @@ walla.co.il,sheee.co.il##a[href^="https://kvdhzjfrudaxrleb."]
 walla.co.il,sheee.co.il##[data-google-av-flags]
 walla.co.il,sheee.co.il##[href^="https://ozraxrpwpwzpdprw."]
 walla.co.il,sheee.co.il##a[href^="https://cdn.behindyou.cf/"]
+walla.co.il,sheee.co.il##a[href^="https://zydckjqyxturvsse."]
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/hungarian.txt ***
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/indian.txt ***
 ! #CV-741
