@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uXF2tkGDL+bmLPu8J4Me+w
+! Checksum: Td60mx97PDT+c4PNRnS5Yw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011192014
-! Last Modified: 2020年11月19日 20:14
+! Version: 202011200021
+! Last Modified: 2020年11月20日 00:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -770,10 +770,11 @@ orcie178nohy$image,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz
 =js&lst=$script,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 _cz?format=js&async=1|$domain=www.idnes.cz
 /kyblik^$image,domain=www.idnes.cz|expres.cz
-?fl=res,$image,domain=www.idnes.cz|expres.cz|novinky.cz|televizeseznam.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+?fl=res,$image,domain=www.idnes.cz|expres.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 www.idnes.cz,expres.cz#$#abort-on-property-write document.currentScript
 ||www.expres.cz/*mafra/*$image,domain=www.expres.cz
 ||www.idnes.cz/*mafra/*$image,domain=www.idnes.cz
+www.idnes.cz,expres.cz##a[href*="mor_sto874ileti"]
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
@@ -994,7 +995,7 @@ preroll$xmlhttprequest,domain=televizeseznam.cz
 midroll$xmlhttprequest,domain=televizeseznam.cz
 bubak$xmlhttprequest,domain=televizeseznam.cz
 &source=tvseznam*&zoneId-$xmlhttprequest,domain=televizeseznam.cz
-/?bn=*&ord=$xmlhttprequest,domain=expres.cz|idnes.cz
+/?bn=*&ord=$xmlhttprequest,script,domain=expres.cz|idnes.cz
 ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
 /doubleclick_dmm^*/file.mp4$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
@@ -1324,6 +1325,7 @@ filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
 txxx.com,hclips.com#$#abort-on-property-read adver
 animepahe.com,downloadgameps3.com,letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
 frprn.com#$#abort-current-inline-script document.querySelectorAll popMagic
+xhamster2.com,xhamster.one#$#abort-current-inline-script document.createElement initTabUnder
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
 ebay.de#$#hide-if-contains-visible-text ANZEIGE 'li.s-item' 'li.s-item span[role="text"]'
