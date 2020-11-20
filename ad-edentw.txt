@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Wk2Nob/EvJOYnCDxvxITEQ
+! Checksum: RppxK1iTyRUINqqw3tTfAQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011200411
-! Last Modified: 2020年11月20日 04:11
+! Version: 202011200830
+! Last Modified: 2020年11月20日 08:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -415,6 +415,7 @@ kinoafisha.info,tvcook.ru##.cat
 rusopen.com##.classblsi.addshr
 ppc.world##.detected-block-modal
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
+ixbt.com##.fc-ab-root
 goha.ru#@#.goha_ads
 goha.ru#@#.goha_ads_acceptable
 the-village.com.ua##.infoA
