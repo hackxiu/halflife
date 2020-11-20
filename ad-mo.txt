@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Zd1SYdKTboFfcOuR9Rk15g
+! Checksum: XXNqJnpa8WH+QUBVy70m4g
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011202014
-! Last Modified: 2020年11月20日 20:14
+! Version: 202011210017
+! Last Modified: 2020年11月21日 00:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -67370,7 +67370,7 @@ _yad_jsonp_
 ||haiwaiyy.com/B970X90.gif
 ||hangzhou.com.cn/extra/flash/hzwarticle300.swf
 ||hanjutv.com/index.php?c=dudu_
-||hanjutv.com/statics/skin/hjtv-pc/js/push.js
+||hanjutv.com/statics/skin/*/js/plus.js
 ||hanjutvn.com/template/alifun/js/Tmall/
 ||hanzify.*/Main/Template/Images/chinabank.gif
 ||hao.rising.cn/catalog/bottom.html
@@ -75303,6 +75303,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@$image,domain=hboav.com
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
