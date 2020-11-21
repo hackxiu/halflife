@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EUoi5+hjC6tg3WSB46IE7w
+! Checksum: /Ik4hkrnfgC8qXTy/ziUSQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011211213
-! Last Modified: 2020年11月21日 12:13
+! Version: 202011211612
+! Last Modified: 2020年11月21日 16:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -70147,6 +70147,7 @@ _yad_jsonp_
 ||baidu.com/forum/pic/item/aec379310a55b319b1963d3754a98226cffc1700.jpg
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+mcbbs.net###lsform + .y
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
 szxx.com.cn###A1
