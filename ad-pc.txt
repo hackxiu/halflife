@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yLimJbOAzMBBejUhJRh5iQ
+! Checksum: e1uwO5zQT6veoN4ozvkqUg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011221612
-! Last Modified: 2020年11月22日 16:12
+! Version: 202011222014
+! Last Modified: 2020年11月22日 20:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -18831,6 +18831,7 @@ _popunder+$popup
 ##.ad-auction-header
 ##.ad-auction-header-container
 ##.ad-b
+##.ad-b1
 ##.ad-background
 ##.ad-background-intra-body
 ##.ad-banner
@@ -34128,6 +34129,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dolsoste.com^
 ||dombnrs.com^
 ||domisesvivin.info^
+||domnlk.com^
 ||domparce.pro^
 ||donconferen.site^
 ||dontaxoaf.com^
@@ -34195,6 +34197,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dsufferent.top^
 ||dt0ok92rg7r8.com^
 ||dtcpdvnojquf.com^
+||dtjvwspznqgtwf.com^
 ||dtprhsosiqckd.com^
 ||dtscout.com^
 ||dtsedge.com^
@@ -38533,6 +38536,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||peedtzaregg.casa^
 ||peekscrane.com^
 ||peethobo.com^
+||peeticadd.com^
 ||pendaccomot.club^
 ||pendingvillashells.com^
 ||penetrateinstalmentfacial.com^
@@ -39635,6 +39639,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rubfwmlm.com^
 ||rubicwithias.club^
 ||ruebmqxqlqwqq.com^
+||ruefulspanishresolute.com^
 ||rukoval.com^
 ||rukwbbwcil.com^
 ||run-syndicate.com^
@@ -39849,6 +39854,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||seriencern.club^
 ||seriendly.club^
 ||seriodilov.club^
+||seriy2sviter11o9.com^
 ||sersproposal.club^
 ||servantpantomimematch.com^
 ||servehub.info^
@@ -41450,6 +41456,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wgwguxqij.com^
 ||wgxuexjrvo.com^
 ||whadaupo.net^
+||whaidruk.com^
 ||whaiweel.com^
 ||whamukoji.pro^
 ||whaudsur.net^
@@ -51953,6 +51960,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||banners.webcams.com^$third-party
 ||bannershotlink.perfectgonzo.com^
 ||bans.bride.ru^$third-party
+||bate.cum-shows.net^
 ||bigmovies.com/images/banners/
 ||blackbrazilianshemales.com/bbs/banners/
 ||blogspot.com^*/ad.jpg
@@ -52297,7 +52305,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wt.adtrue24.com^
 ||xcabin.net/b/$third-party
 ||xlgirls.com/banner/$third-party
-||xnxx.com^$third-party
 ||xtrasize.pl/banner/
 ||xxtu.be^$subdocument,third-party
 ||yamvideo.com/pop1/
@@ -53750,6 +53757,7 @@ $popup,third-party,domain=loader.to|play.hydracdn.network|streamtape.com|vidclou
 ||cfgr3.com/popin/$script,domain=camwhores.tv
 ||chanweb.info/en/adult/hc/local_include/
 ||chatrandom.com/js/slider.js
+||cherrynudes.com/t33638ba5008.js
 ||clips-and-pics.org/clipsandpics.js
 ||cloudfront.net^$domain=extremetube.com|niceporn.xxx
 ||comdotgame.com/vgirl/
@@ -53974,6 +53982,7 @@ $popup,third-party,domain=loader.to|play.hydracdn.network|streamtape.com|vidclou
 ||hotshame.com/iframes/
 ||hotshame.com/js/adphotshame
 ||hottubeclips.com/stxt/banners/
+||hottystop.com/t33638ba5008.js
 ||hotxxxpussy.com/func.js
 ||house.porn/files/preview/
 ||hungangels.com/vboard/friends/
@@ -56111,7 +56120,7 @@ toonix.com###toonix-adleaderboard
 accuweather.com,iconeye.com,phonescoop.com,politics.co.uk,topcultured.com,tvnz.co.nz###top
 jillianmichaels.com###top-300
 xxlmag.com###top-728x90
-cheese.com,chip.eu,coingecko.com,corkindependent.com,ebuddy.com,foodlovers.co.nz,foodnetwork.ca,galwayindependent.com,honesttopaws.com,infrastructurene.ws,inthenews.co.uk,investorplace.com,lyrics19.com,maclife.com,scoop.co.nz,skift.com,thedailymash.co.uk,thedailywtf.com,thespiritsbusiness.com###top-banner
+cheese.com,chip.eu,coingecko.com,corkindependent.com,ebuddy.com,foodlovers.co.nz,foodnetwork.ca,galwayindependent.com,honesttopaws.com,infrastructurene.ws,inthenews.co.uk,investorplace.com,kurocore.com,lyrics19.com,maclife.com,scoop.co.nz,skift.com,thedailymash.co.uk,thedailywtf.com,thespiritsbusiness.com###top-banner
 scoop.co.nz###top-banner-base
 theberrics.com###top-banner-container
 krebsonsecurity.com###top-banner-image
@@ -58972,6 +58981,7 @@ deviantclip.com###cams_ajax
 tube8.com,tube8.es,tube8.fr###catFishBanner
 ultrahorny.com###desktop
 blackandrose.net###disclaimer
+hentai-img.com###display_image_detail > span
 dojki.com###dosug
 dominationtube.com###download-bar
 3movs.com###el-ab-a
@@ -85931,6 +85941,7 @@ _mongo_stats/
 ||audiencepixel.com^$third-party
 ||audiencerate.com^$third-party
 ||audiens.com^$third-party
+||audio.sex^$third-party
 ||audrte.com^$third-party
 ||aufp.io^$third-party
 ||authorinsights.com^$third-party
@@ -93975,6 +93986,7 @@ _mongo_stats/
 ||indiatimes.com/stats?
 ||indiatimes.com/trackjs10.
 ||indiatimes.com^*/notify.htm
+||info.com/pingback
 ||infogr.am/js/metrics.js
 ||infomine.com/imcounter.js
 ||infoq.com/metrics/
