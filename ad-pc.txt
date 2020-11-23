@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: geSAlFPT/KR15MUnyH6/Kg
+! Checksum: BIEUIb7HhfABYWS4LB/xhQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011230017
-! Last Modified: 2020年11月23日 00:17
+! Version: 202011230832
+! Last Modified: 2020年11月23日 08:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -52642,6 +52642,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||idlebrain.com^*/square-
 ||igorslab.de/wp-content/uploads/205/$script
 ||iheart.com^*/getLiveRadioAdConfig
+||imagetwist.com/imgs/720x90.png
 ||imagetwist.com/imgs/hims.jpg
 ||imagetwist.com/raa/
 ||imgking.co/frler.js
@@ -58548,6 +58549,7 @@ whatismyreferer.com##a[href*="/?offer_id="]
 itweb.co.za##a[href*="/adclick.php?"]
 igorslab.de,landline.media,sundayworld.co.za,theroanokestar.com,thevoicebw.com,visualcapitalist.com##a[href*="/linkout/"]
 movie-censorship.com##a[href*="/out.php?"]
+imagetwist.com##a[href*="/rad/"]
 civilserviceindia.com##a[href*="/red.php?bu="]
 sundayworld.co.za,universityaffairs.ca##a[href*="/sponsored-content/"]
 biznews.com,businessdailyafrica.com,financialexpress.com,irishtimes.com,komonews.com,seattletimes.com,spokesman.com##a[href*="/sponsored/"]
