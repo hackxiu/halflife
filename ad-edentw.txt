@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Rpbo8sVKoGPxrsPLOWxz8g
+! Checksum: nglUslm6TJRqREI4fccRxQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011240019
-! Last Modified: 2020年11月24日 00:19
+! Version: 202011240411
+! Last Modified: 2020年11月24日 04:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -774,6 +774,8 @@ Skyscraper$image,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|b
 _ok_bf.$image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 _cnc_$image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 _bf_$image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
+_bfr_$image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
+/cnc-bf-$image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 ||domnovrek.com^$third-party
 /partnerJsApi/v3?previousZHashes=&hash=*&clbk=sklik$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 &uid=ssp-$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
@@ -793,7 +795,7 @@ branding$image,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|ref
 _cz?format=js&async=1|$domain=www.idnes.cz
 /kyblik^$image,domain=www.idnes.cz|expres.cz
 ?fl=res,$image,domain=www.idnes.cz|expres.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
-www.idnes.cz,expres.cz#$#abort-on-property-write document.currentScript
+www.idnes.cz,expres.cz#?#div:-abp-has(>a[href$="/personalizovana-reklama/"])
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
@@ -1581,6 +1583,7 @@ yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"
 auto.ru#$#hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling::*[1]/self::*/*//*[starts-with(@class,"Index__block")]'; hide-if-matches-xpath '//*[contains(concat(" ",normalize-space(@class)," ")," LazyComponent LazyComponent_empty ")]/following-sibling::*[1]/self::*'; hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling::*[1]/self::div[starts-with(@class,"Index__block")]'
 razlozhi.ru##[class="_an_"]
 razlozhi.ru#$#hide-if-matches-xpath '//div[not(@data-id)]/span/following-sibling::div'
+razlozhi.ru#$#abort-on-property-write Object.prototype.prepareAds
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
 sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read document.documentElement.createShadowRoot
