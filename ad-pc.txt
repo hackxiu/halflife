@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3mzDDEhW/FDRaAQ3qCAwlA
+! Checksum: fptf9zC673AtkQMKqVRhqg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011232015
-! Last Modified: 2020年11月23日 20:15
+! Version: 202011240019
+! Last Modified: 2020年11月24日 00:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -29756,6 +29756,7 @@ _popunder+$popup
 ##.widget-pane-section-ad-content
 ##.widget-sponsor
 ##.widget-text-ad
+##.widget.ad-box
 ##.widget1-ad
 ##.widget10-ad
 ##.widget4-ad
@@ -31178,6 +31179,7 @@ mercurynews.com,siliconvalley.com#@##adposition3
 gamecopyworld.com,gamecopyworld.eu,morningstar.com#@##adright
 lifeinvader.com#@##ads-col
 herstage.com#@##ads-wrapper
+mafagames.com#@##adsContainer
 skelbiu.lt#@##adsHeader
 loganair.co.uk#@##adsIframe
 mexx.ca#@##ads_bottom
@@ -33236,6 +33238,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||bullads.net^
 ||bulldogdemocracy.com^
 ||bulletindualpartial.com^
+||bulovuni.pro^
 ||bungalowfollowbestowed.com^
 ||bunlxlhmsoizsa.com^
 ||bupserge.com^
@@ -37138,6 +37141,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ludovwmhazsx.com^
 ||lulrtvfcy.com^
 ||lupoot.com^
+||lustmanicureput.com^
 ||lustresoonerrecalled.com^
 ||lutachechu.pro^
 ||lutcdiimmeze.com^
@@ -39408,6 +39412,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||reojou.com^
 ||reorganizewallet.com^
 ||reounzbqylugud.com^
+||repairedtightslavishness.com^
 ||repetaradiez.xyz^
 ||repimenterais.site^
 ||replentcautiful.info^
@@ -40696,6 +40701,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ttgikcpmkpul.com^
 ||ttgmjfgldgv9ed10.com^
 ||ttheathereco.site^
+||ttoc8ok.com^
 ||ttsipyxgpihy.com^
 ||ttspikbeglki.com^
 ||ttuhmbor.com^
@@ -41504,6 +41510,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||whitective.club^
 ||whitetrcklnk.click^
 ||whittlecdn.xyz^
+||whixekica.pro^
 ||whixochyxy.pro^
 ||whjwcghg.com^
 ||whlvjuprdpkg.com^
@@ -48781,6 +48788,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||trklnks.com^$popup,third-party
 ||trw12.com^$popup,third-party
 ||tsyndicate.com^$popup
+||ttoc8ok.com^$popup
 ||tubeadvertising.eu^$popup
 ||tulip18.com^$popup
 ||tutotrack.com^$popup
