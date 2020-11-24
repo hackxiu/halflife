@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: a8OFIxg/ovoykEB2Pnx2Og
+! Checksum: J4Jbwc1bQQAMM7DLF2C0+g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202011242014
-! Last Modified: 2020年11月24日 20:14
+! Version: 202011250019
+! Last Modified: 2020年11月25日 00:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -34149,6 +34149,7 @@ _mongo_stats/
 ||autocar.co.uk/file?
 ||autopartswarehouse.com/thirdparty/tracker?
 ||autosite.com/scripts/markerfile.bin?
+||autotrack.ebay.$ping
 ||autotrader.co.uk/page-tracking/
 ||autotrader.co.za/log/
 ||autozone.com^*/analytics.js

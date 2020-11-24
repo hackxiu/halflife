@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hQDvBGTzDR31QpLTQUy6jw
+! Checksum: RHBorSL2m1MIxuZ864ffmQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011242014
-! Last Modified: 2020年11月24日 20:14
+! Version: 202011250019
+! Last Modified: 2020年11月25日 00:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1492,6 +1492,8 @@ walla.co.il##iframe[class][id]:not([src])[frameborder="0"][scrolling="no"]:not(#
 walla.co.il,sheee.co.il##div[data-slot-name]
 walla.co.il,sheee.co.il##[data-google-av-flags]
 walla.co.il,sheee.co.il##a[href*=".php?doc=aHR0"]
+walla.co.il,sheee.co.il##a[href*=".php?tromb=aHR0"]
+walla.co.il,sheee.co.il##amp-img
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/hungarian.txt ***
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/indian.txt ***
 ! #CV-741
@@ -1586,8 +1588,9 @@ yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"
 auto.ru#$#hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling::*[1]/self::*/*//*[starts-with(@class,"Index__block")]'; hide-if-matches-xpath '//*[contains(concat(" ",normalize-space(@class)," ")," LazyComponent LazyComponent_empty ")]/following-sibling::*[1]/self::*'; hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling::*[1]/self::div[starts-with(@class,"Index__block")]'
 razlozhi.ru##[class="_an_"]
 razlozhi.ru#$#hide-if-matches-xpath '//div[not(@data-id)]/span/following-sibling::div'
-razlozhi.ru#$#abort-on-property-write Object.prototype.getFreeAds
-auto.ru,drive2.ru#$#abort-on-property-write Object.prototype.prepareAds
+razlozhi.ru#$#abort-on-property-write Object.prototype.unconfirmAds
+auto.ru,drive2.ru#$#abort-on-property-write Object.prototype.abuseAd
+gorodrabot.ru#$#abort-on-property-write Object.prototype.getFreeAds
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
 sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read document.documentElement.createShadowRoot
