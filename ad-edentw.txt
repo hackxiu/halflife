@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KTb8UNkh4n5ozbQnemk53w
+! Checksum: J9z7s8RbyKZD1yabcNTqxA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011260019
-! Last Modified: 2020年11月26日 00:19
+! Version: 202011260411
+! Last Modified: 2020年11月26日 04:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -402,7 +402,6 @@ stroi-help.ru##.alert_warn
 ria.ru##.antiblock
 rufilmtv.org##.attention
 mel.fm##.b-ad-space__placeholder
-ixbt.com##.b-blockadblock
 d3.ru##.b-promo__placeholder
 cs-amba.ru##.banka
 hitline.org.ua##.bantop
@@ -461,7 +460,7 @@ forum.bestflowers.ru##.xenOverlay
 /cookie_check.min.js$domain=acetv.me
 /forum/docs/requests.js$script,domain=nnm-club.lib|nnm-club.me|nnm-club.ws|nnmclub.ro|nnmclub.to|nontorclub.in.net
 /fuckadblock.js$domain=ace-stream.tv
-/gogl_detector$script,domain=newsru.com|meddaily.ru
+/gogl_detector$script,domain=meddaily.ru|newsru.com
 /js/1.js|$script,~third-party,domain=3dsmaxvideo.ru|archicadvideo.ru|autocadvideo.ru|coreldrawvideo.ru|excelvideo.ru|kompasvideo.ru|photoshopvideo.ru|solidworksvideo.ru|wordvideo.ru
 /js/helpus.js$domain=coop-land.ru|online-fix.me
 /js/include_name.js|$script,~third-party,domain=3dsmaxvideo.ru|archicadvideo.ru|autocadvideo.ru|coreldrawvideo.ru|excelvideo.ru|kompasvideo.ru|photoshopvideo.ru|solidworksvideo.ru|wordvideo.ru
@@ -490,9 +489,10 @@ fightnews.info##body > blockquote
 torrnado.win##body > div > .a-overlay
 olegon.ru##body > div:not([id]):not([class])[style^="color"][style*="position: fixed; width: 99%"]
 finget.ru,katalog-aktsii.ru,rp5.by,rp5.kz,rp5.ru,rp5.ua,vikings-warofclans.ru##body > div:not([id]):not([class])[style^="position"][style*="background"][style*="z-index"]
+just-for-fun.ru##body > div[class*="-container"][class*="-hide"]
+www.ixbt.com##body > div[class]:not([id])[style*="position"][style*="fixed"][style*="z-index:"][style*="background-color"]
 factorio.su##body > div[class][style*="background"][style*="display: block"]
 gdekluet.ru##body > div[class^="stop-block"]
-just-for-fun.ru##body > div[class*="-container"][class*="-hide"]
 admin.rainbow-online.ru,fastpic.ru,gitjournal.tech,logist.uxxo.ru,maxpark.com,meteoservice.ru,newdeaf-online.net,newsland.com,pawno-info.ru,scrin.org,smolensk-auto.ru##body > div[id]:not([class])[style="display: block;"]
 factorio.su##body > div[id][class][style*="background"][style*="visible"]
 gaming.co.ua,pingvin.pro##body > div[id][class][style*="z-index"][style*="9999"],body > div[id][class][style*="z-index"][style*="9999"] + div[class][style*="z-index"][style*="9999"]
@@ -543,6 +543,7 @@ bigpuzzle.ru##td[valign="top"][width="240px"][height="600"]
 ||buhgalter911.com^*/blocker.
 ||fainaidea.com/wp-content/uploads/*/*?ver=$script,stylesheet,domain=fainaidea.com
 ||fairtop.in/template/js/fdetect.js
+||fundingchoicesmessages.google.com^$domain=www.ixbt.com
 ||gamemag.ru/assets/*/js.cookie.js
 ||helpsetup.ru/home/solnisko.php
 ||i140.ru/js/etxm*.js|$script
@@ -720,10 +721,10 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[class$="-h"]>a[target="_blank"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,www.idnes.cz,expres.cz##a[href*="_sto874ileti"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,www.idnes.cz,expres.cz##a[href*="?action=ppc&cid"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a[href*="brandingkancitesak"]
 ?user=ps4&$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
-?jezci1padlo=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
+?repka1olejka$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 ?friend=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
-/?jezci6padla=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 /doled58nicky=$domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 /area=Ostatni$domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 /poho4rozec=$domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
@@ -1006,7 +1007,7 @@ miniplayer/safety=^$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex
 =Paretol-$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 =Qa-retoll$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /koni12klec=$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
-/poho4zenec=$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
+/poho2zence=$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /past.js|$script,domain=expres.cz|www.idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /pasta.js|$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 &ADFAssetID=$media,domain=expres.cz|www.idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
@@ -1505,8 +1506,7 @@ walla.co.il,sheee.co.il##div[data-slot-name]
 walla.co.il,sheee.co.il##[data-google-av-flags]
 walla.co.il,sheee.co.il##[src^="https://tpc.googlesyndication.com/simgad/"]
 walla.co.il,sheee.co.il##a[on^="tap:exit-api.exit(target='landingPage',_googClickLocation="]
-walla.co.il,sheee.co.il##a[href^="https://zydckjqyxturvsse.walla.co.il/"]
-walla.co.il,sheee.co.il##a[href*="=aHR0c"]
+walla.co.il,sheee.co.il##a[href^="https://umhknsxfggfqhvqk."]
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/hungarian.txt ***
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/indian.txt ***
 ! #CV-741
@@ -1601,7 +1601,7 @@ yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"
 auto.ru#$#hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling::*[1]/self::*/*//*[starts-with(@class,"Index__block")]'; hide-if-matches-xpath '//*[contains(concat(" ",normalize-space(@class)," ")," LazyComponent LazyComponent_empty ")]/following-sibling::*[1]/self::*'; hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling::*[1]/self::div[starts-with(@class,"Index__block")]'
 razlozhi.ru##[class="_an_"]
 razlozhi.ru#$#hide-if-matches-xpath '//div[not(@data-id)]/span/following-sibling::div'
-razlozhi.ru,auto.ru,drive2.ru,gorodrabot.ru#$#abort-on-property-write Object.prototype.getNearbyAds
+razlozhi.ru,auto.ru,drive2.ru,gorodrabot.ru#$#abort-on-property-write Object.prototype.getUsedAdvs
 auto.ru,drive2.ru#$#abort-on-property-write Object.prototype.abuseAd
 gorodrabot.ru#$#abort-on-property-write Object.prototype.getFreeAds
 ! #CV-659
@@ -1687,10 +1687,11 @@ vsetut.su,animedia.tv#$#abort-on-property-read zfgformats
 ! CV-715
 volynpost.com,uanews.org.ua,newsone.ua,dialogs.org.ua,technoportal.com.ua,pingvin.pro,112.ua,fakty.ua,zik.ua,cikavosti.com,versii.if.ua#$#abort-on-property-read weekCallbacks
 ! #CV-716
-golosinfo.com.ua,wworld.com.ua,tverigrad.ru,novynarnia.com,apnews.com.ua,cn.ua,podpricelom.com.ua,begemot.media,beauty.ua,tvoymalysh.com.ua,superdom.ua,viva.ua,edinstvennaya.ua,ratel.kz,ekovolga.com,mind.ua,itechua.com,argumentiru.com,forpost.media,gov.ua,ternopillive.com.ua,te.ua,uanews.org.ua,fraza.com,uainfo.org,economistua.com,odessa-life.od.ua,autotheme.info,volnorez.com.ua,newsone.ua,expert.in.ua,pg11.ru,tverisport.ru,novavlada.info,zik.ua,rusjev.net,uatv.ua,dyvys.info,cheline.com.ua,sud.ua,asiaplustj.info,wpristav.ru,poltava365.com,unn.com.ua,1news.com.ua,365news.biz,4mama.ua,7days-ua.com,cikavosti.com,comments.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,fedpress.ru,glavnoe.ua,glavnoe24.ru,inforpost.com,kurskcity.ru,liga.net,narodna-pravda.ua,pingvin.pro,pl.com.ua,real-vin.com,russianshowbiz.info,semobile.com.ua,vchaspik.ua,versii.if.ua,volyninfo.com,womo.ua,volynpost.com#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
+politnavigator.net,golosinfo.com.ua,wworld.com.ua,tverigrad.ru,novynarnia.com,apnews.com.ua,cn.ua,podpricelom.com.ua,begemot.media,beauty.ua,tvoymalysh.com.ua,superdom.ua,viva.ua,edinstvennaya.ua,ratel.kz,ekovolga.com,mind.ua,itechua.com,argumentiru.com,forpost.media,gov.ua,ternopillive.com.ua,te.ua,uanews.org.ua,fraza.com,uainfo.org,economistua.com,odessa-life.od.ua,autotheme.info,volnorez.com.ua,newsone.ua,expert.in.ua,pg11.ru,tverisport.ru,novavlada.info,zik.ua,rusjev.net,uatv.ua,dyvys.info,cheline.com.ua,sud.ua,asiaplustj.info,wpristav.ru,poltava365.com,unn.com.ua,1news.com.ua,365news.biz,4mama.ua,7days-ua.com,cikavosti.com,comments.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,fedpress.ru,glavnoe.ua,glavnoe24.ru,inforpost.com,kurskcity.ru,liga.net,narodna-pravda.ua,pingvin.pro,pl.com.ua,real-vin.com,russianshowbiz.info,semobile.com.ua,vchaspik.ua,versii.if.ua,volyninfo.com,womo.ua,volynpost.com#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
 ! #CV-667
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 ! #CV-747
+~mail.rambler.ru,rambler.ru,autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#abort-on-property-write Object.prototype.checkPlaceHack
 ~mail.rambler.ru,rambler.ru##div>*:not(base):not(feOffset):not(ym-measure):not(defs):not(head):not(circle):not(clippath):not(g):not(svg):not(path):not(noscript):not(link):not(title):not(script):not(meta):not(style):not(a):not(abbr):not(address):not(area):not(article):not(aside):not(audio):not(b):not(bdi):not(bdo):not(blockquote):not(body):not(br):not(button):not(canvas):not(caption):not(cite):not(code):not(col):not(colgroup):not(command):not(datalist):not(dd):not(del):not(details):not(dfn):not(div):not(dl):not(dt):not(em):not(embed):not(fieldset):not(figcaption):not(figure):not(footer):not(form):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(hr):not(html):not(i):not(iframe):not(img):not(input):not(ins):not(kbd):not(keygen):not(label):not(legend):not(li):not(main):not(map):not(mark):not(menu):not(meter):not(nav):not(object):not(ol):not(optgroup):not(option):not(output):not(p):not(param):not(pre):not(progress):not(q):not(rp):not(rt):not(ruby):not(s):not(samp):not(section):not(select):not(small):not(source):not(span):not(strong):not(sub):not(summary):not(sup):not(table):not(tbody):not(td):not(textarea):not(tfoot):not(th):not(thead):not(time):not(tr):not(track):not(u):not(ul):not(var):not(video):not(wbr):not(font):not(line):not(text):not(filter):not(image):not(noindex)
 autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru##div>*:not(base):not(feOffset):not(ym-measure):not(defs):not(head):not(circle):not(clippath):not(g):not(svg):not(path):not(noscript):not(link):not(title):not(script):not(meta):not(style):not(a):not(abbr):not(address):not(area):not(article):not(aside):not(audio):not(b):not(bdi):not(bdo):not(blockquote):not(body):not(br):not(button):not(canvas):not(caption):not(cite):not(code):not(col):not(colgroup):not(command):not(datalist):not(dd):not(del):not(details):not(dfn):not(div):not(dl):not(dt):not(em):not(embed):not(fieldset):not(figcaption):not(figure):not(footer):not(form):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(hr):not(html):not(i):not(iframe):not(img):not(input):not(ins):not(kbd):not(keygen):not(label):not(legend):not(li):not(main):not(map):not(mark):not(menu):not(meter):not(nav):not(object):not(ol):not(optgroup):not(option):not(output):not(p):not(param):not(pre):not(progress):not(q):not(rp):not(rt):not(ruby):not(s):not(samp):not(section):not(select):not(small):not(source):not(span):not(strong):not(sub):not(summary):not(sup):not(table):not(tbody):not(td):not(textarea):not(tfoot):not(th):not(thead):not(time):not(tr):not(track):not(u):not(ul):not(var):not(video):not(wbr):not(font):not(line):not(text):not(filter):not(image):not(noindex)
 ~mail.rambler.ru,rambler.ru,autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//*[not(self::node()[@class])][contains(normalize-space(),".ru") or contains(normalize-space(),".com") or contains(normalize-space(),".net") or contains(normalize-space(),"Реклама") or contains(normalize-space(),".соm") or contains(normalize-space(),".bz") or contains(normalize-space(),".сom") or contains(normalize-space(),".сom") or contains(normalize-space(),".cоm") or contains(normalize-space(),".net") or contains(normalize-space(),".рф") or contains(normalize-space(),".by") or contains(normalize-space(),".nеt") or contains(normalize-space(),".cоm") or contains(normalize-space(),".ru") or contains(normalize-space(),".info") or contains(normalize-space(),".ru") or contains(normalize-space(),".bz") or contains(normalize-space(),".nеt") or contains(normalize-space(),".cоm") or contains(normalize-space(),".pф") or contains(normalize-space(),".me") or contains(normalize-space(),".mе")]/ancestor::*[2][not(div)][not(p)][not(article)][not(head)][not(font)][not(li)][not(ul)]'
