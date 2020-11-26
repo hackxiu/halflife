@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GIVZfbRXXoYqgoCKkj1hyg
+! Checksum: bba/uJZ0qvvs7hICLy0jtA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011262015
-! Last Modified: 2020年11月26日 20:15
+! Version: 202011270019
+! Last Modified: 2020年11月27日 00:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3834,6 +3834,7 @@ tieba.baidu.com##.tuijian-wrap
 /adv02.$domain=~dobro.systems
 /adv03.$domain=~dobro.systems
 /adv1.
+/adv100x60.
 /Adv150.
 /adv180x150.
 /adv2.
@@ -15464,6 +15465,7 @@ _popunder+$popup
 ###hours_ad
 ###houseAd
 ###hovered_sponsored
+###hp-desk-after-header-ad
 ###hp-header-ad
 ###hp-mpu
 ###hp-right-ad
@@ -70235,6 +70237,7 @@ _yad_jsonp_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||gamemale.com/static/js/valida.js
+||alicdn.com/kf/Ufd682a9d70524fc895a0059f276998196.jpg
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -97011,6 +97014,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||paginegialle.it/cgi-bin/jimpres.cgi?
 ||paginegialle.it/engagement.js
 ||pornolupo.org/track.js
+||ppcdn.it/iol/tracklib.3.js
 ||repstatic.it^*/nielsen_static_mapping_repubblica_
 ||sa.sky.it^
 ||seat.it/cgi-bin/getcod.cgi?
