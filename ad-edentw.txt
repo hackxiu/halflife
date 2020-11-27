@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qn+/PLmHuUi4s4mcWj3LvQ
+! Checksum: WR+pv5cuTIZKeCGUJBeAww
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202011270412
-! Last Modified: 2020年11月27日 04:12
+! Version: 202011270833
+! Last Modified: 2020年11月27日 08:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -550,6 +550,7 @@ bigpuzzle.ru##td[valign="top"][width="240px"][height="600"]
 ||ipprof.ru/wp-content/plugins/ad-blocking-advisor/
 ||kontrolnaya-rabota.ru^*/fuckadblock.js$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
+||mobzon.ru/adbp/adbp.js
 ||nnm-club.ws/forum/docs/requests.js
 ||olegon.ru/gas.js
 ||pwnews.net/des/antiblock.js$script
