@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AEo/Ict/8e7rOZeG6hAc8Q
+! Checksum: Wem3JtohuBLxfFYWug11jg
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202011270833
-! Last Modified: 2020年11月27日 08:33
+! Version: 202011271215
+! Last Modified: 2020年11月27日 12:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -16153,7 +16153,7 @@ fuliba.net,uliba.net##.widget_custom_html:nth-child(2)
 !#hboav.com
 @@$image,xmlhttprequest,domain=hboav.com
 @@||exosrv.com/splash.php?idzone=3361640$xmlhttprequest,domain=hboav.com
-@@||hboav.com/guga/das.js$~third-party
+@@||hboav.com/guga/ads.js$~third-party
 @@||hboav.com^$generichide
 @@||realsrv.com/iframe.php?idzone=3476965&size=300x250$subdocument,domain=hboav.com
 ||hboav.com/guga/$~subdocument
