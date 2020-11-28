@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5oqVgbgOogp9wDulHmKB4A
+! Checksum: e9bjmqjAOKeTp5Zp2uJmfg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011281215
-! Last Modified: 2020年11月28日 12:15
+! Version: 202011281614
+! Last Modified: 2020年11月28日 16:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -686,7 +686,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 -content-ad.
 -ContentAd-
 -contest-ad.
--contrib-ads.
+-contrib-ads.$~stylesheet
 -contrib-ads/
 -core-ads.
 -cpm-ad.
@@ -27081,6 +27081,7 @@ _popunder+$popup
 ##.openx_ad
 ##.openx_frame
 ##.openxbuttons
+##.optidigital-ad-center
 ##.optional-ad
 ##.os-advertisement
 ##.os-header-ad
@@ -56521,6 +56522,7 @@ hitfreegames.com##.ad4
 cafemom.com,cio.co.uk,cvs.com,digitalartsonline.co.uk,emarketer.com,flightradar24.com,globaltv.com,glosbe.com,hgtv.ca,newspakistan.pk,ocweekly.com,petagadget.com,sky.com,thehimalayantimes.com,yakimaherald.com##.adContainer
 webfail.com##.adMR
 interestingengineering.com##.adW
+petfinder.com##.ad_petDetail1
 ifaonline.co.uk##.ad_right
 metrowestdailynews.com##.adb
 aol.com,beautysouthafrica.com,blurtit.com,breakingnews.com,dataversity.net,eatv.tv,eurowerks.org,heyuguys.co.uk,ippmedia.com,linkedin.com,readersdigest.co.uk,sakshi.com,songlyrics.com,sugarrae.com,techeblog.com##.adblock
