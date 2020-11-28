@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rj9coYp4UESmiVPueiZpzA
+! Checksum: 107meuqxyGOgLbYOUpQYjA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011282015
-! Last Modified: 2020年11月28日 20:15
+! Version: 202011290018
+! Last Modified: 2020年11月29日 00:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32383,6 +32383,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||acmsg.online^
 ||acousinguy.club^
 ||acrmzrucy.com^
+||acrossgained.com^
 ||acscdn.com^
 ||acticantly.club^
 ||acticgreasonsc.info^
@@ -32736,6 +32737,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||arrnaught.com^
 ||arrowkeeperdigest.com^
 ||arshgkcfdhgr.com^
+||arsoncanteenpicky.com^
 ||artandand.online^
 ||artantash.club^
 ||artapeare.site^
@@ -33531,6 +33533,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||christingsugged.site^
 ||christoredyt.club^
 ||chronicleisoconfused.com^
+||chspracteri.fun^
 ||chugagre.com^
 ||churchasisou.site^
 ||churchasisrev.site^
@@ -36896,6 +36899,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ldqxdxtkepveg.com^
 ||ldrummaroise.club^
 ||ldutvi.com^
+||ldvatxaqcd.com^
 ||ldvmpopwd.com^
 ||ldwidentconc.space^
 ||ldxdpitoeox.com^
@@ -37263,6 +37267,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mainlandrambleinstinct.com^
 ||maintawrte.club^
 ||maipoted.com^
+||makeupworddisparage.com^
 ||makkuqiavqx.com^
 ||malharpossible.pro^
 ||malharvoice.pro^
@@ -38841,6 +38846,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ppbvmesssyacij.com^
 ||ppfrlfe.com^
 ||ppiespresen.club^
+||ppomyzaheudlta.com^
 ||pprcfwhlmtagay.com^
 ||pprq7.com^
 ||ppvlukah.com^
@@ -39980,6 +39986,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||shadeslonesome.com^
 ||shadowlegends.pro^
 ||shaimsoo.net^
+||shakydeploylofty.com^
 ||shanta-jos.com^
 ||sharedheels.com^
 ||sharieta.com^
@@ -40328,6 +40335,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sugqlryshxarn.com^
 ||suitarserviku.site^
 ||suitesbahrag.icu^
+||suitsoon.com^
 ||sultiyearsena.site^
 ||sultrycommiserate.com^
 ||sulxddttj.com^
@@ -40422,6 +40430,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||taowjygwtm.com^
 ||taozgpkjzpdtgr.com^
 ||tapixesa.pro^
+||tarabustasses.xyz^
 ||tarawerap.com^
 ||tartoals.net^
 ||taryarguestio.info^
@@ -40651,6 +40660,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||topperformance.xyz^
 ||topperyregard.fun^
 ||topprofitablegate.com^
+||toprevenuecpmnetwork.com^
 ||toprevenuenetwork.com^
 ||topssluedbunged.com^
 ||topswp.com^
@@ -48871,6 +48881,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||unqpun.pro^$popup
 ||unseen2020.com^$popup
 ||uptopopunder.com^$popup
+||uselnk.com^$popup
 ||usenetnl.download^$popup
 ||utarget.ru^$popup
 ||uthorner.info^$popup
@@ -51777,6 +51788,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||d10wfab8zt419p.cloudfront.net^
 ||d141wsrw9m4as6.cloudfront.net^
 ||d14821r0t3377v.cloudfront.net^
+||d15jg7068qz6nm.cloudfront.net^
 ||d188elxamt3utn.cloudfront.net^
 ||d18mealirgdbbz.cloudfront.net^
 ||d1b240xv9h0q8y.cloudfront.net^
