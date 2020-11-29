@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8eu4jMifaeZltU019Z0v+A
+! Checksum: OaY2TfEhyCtP6k2jyElziA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202011292016
-! Last Modified: 2020年11月29日 20:16
+! Version: 202011300018
+! Last Modified: 2020年11月30日 00:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -31847,6 +31847,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||01dbf3a452b6.com^
 ||02aa19117f396e9.com^
 ||02b5da94a2bd4aea.com^
+||02f08caa2ee.com^
 ||039ad0897e6da.com^
 ||04426f8b7ce9b069431.com^
 ||048d36793b8.com^
@@ -32005,6 +32006,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||3d643f542787c62a7.com^
 ||3djd3.xyz^
 ||3f32172d509aeb0.com^
+||3f9f440ecad916.com^
 ||3npsgv2sx5.com^
 ||3p42lylmo2.monster^
 ||3ue2j83u33.monster^
@@ -32038,6 +32040,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||4c13cac4bb.com^
 ||4c935d6a244f.com^
 ||4cr447ewncl4.com^
+||4ded47cc011c1.com^
 ||4dtrk.com^
 ||4e34b4865905c4.com^
 ||4eacccd99990beed317.com^
@@ -32118,6 +32121,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||67frzna9e9.com^
 ||6868bbe42af8e518.com^
 ||688de7b3822de.com^
+||68d0d5e26bb0ae.com^
 ||6942f24115b63.com^
 ||69i.club^
 ||69oxt4q05.com^
@@ -32304,6 +32308,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||a4mt150303tl.com^
 ||a5020fec1701e9f3.com^
 ||a5e04df959f1af34.com^
+||a5e2773db8a5.com^
 ||a69ee4fa50dc3.com^
 ||a6be07586bc4a7.com^
 ||a6f845e6c37b2833148.com^
@@ -33172,6 +33177,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||boafabie.com^
 ||boahwswzuebmmg.com^
 ||boajagoar.com^
+||boaphaps.net^
 ||boardinaccuratecompulsion.com^
 ||boayipids.com^
 ||bob-bob-bobble.com^
@@ -33394,6 +33400,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||casseroleenvioustransgress.com^
 ||catastrophetray.com^
 ||catchinemuj.club^
+||catchynerves.com^
 ||catiligh.ru^
 ||cationprepa.club^
 ||cationsys.top^
@@ -33564,6 +33571,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||citizenshis.com^
 ||cityxman.com^
 ||ciusqhujddbggb.com^
+||civadsoo.net^
 ||civiliargeo.club^
 ||civiliargeord.club^
 ||civilizefrailoffhand.com^
@@ -33866,6 +33874,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||d0efb7d9aeb478d.com^
 ||d194f913ee63.com^
 ||d1c4d437f10.com^
+||d25192919cb6d.com^
 ||d2ab631af57.com^
 ||d2vybwwevieya6j.monster^
 ||d31ea41705818c9.com^
@@ -34032,6 +34041,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dexamplexhet.club^
 ||dexchangeinc.com^
 ||dexpredict.com^
+||df56c6ad09.com^
 ||df63de4ef399b.com^
 ||df8c5028a1fad1.com^
 ||df931f2841ac729.com^
@@ -34844,6 +34854,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||f6bd46bbc8a.com^
 ||f71bxwn500lj.com^
 ||f8260adbf8558d6.com^
+||f82ef2dafcfe.com^
 ||f8316b45436f.com^
 ||f853150605ccb.com^
 ||fa00c331ceacc.com^
@@ -34914,6 +34925,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fbpopr.com^
 ||fbxnqsviqujxv.com^
 ||fc2b9b7ce3165.com^
+||fc4254b6e17.com^
 ||fcafnvgdokqfo.com^
 ||fcfd5de4b3be3.com^
 ||fcfhjuyanmlvgb.com^
@@ -36440,6 +36452,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jobhobfir.club^
 ||jockeryfgtu.club^
 ||jodellbrought.pro^
+||joiningpreferencemobile.com^
 ||jokehow.com^
 ||jomrhqkqvvxix.com^
 ||jomtingi.net^
@@ -36924,6 +36937,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||leftenvoy.com^
 ||legalledgtjuj.club^
 ||legedlunchar.top^
+||leginsi2leopard1oviy1hf.com^
 ||legislands.club^
 ||legislationpreferably.com^
 ||legislationsoil.com^
@@ -36932,6 +36946,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||lehfzuosurakj.com^
 ||leijsdpbkgobg.com^
 ||leimardog.com^
+||leisurebrain.com^
 ||lejhdbxl.com^
 ||lemetri.info^
 ||lemonetik.com^
@@ -36985,6 +37000,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||lhuetsviudr.com^
 ||lhytmylpwfzuzm.com^
 ||li9t691864th.com^
+||liantmartier.info^
 ||libanyelm.com^
 ||libcdn.xyz^
 ||librarierserty.site^
@@ -37442,6 +37458,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mierdydkqvpgno.com^
 ||mifxolavi.com^
 ||migatesbala.fun^
+||migayush2lam1pa1.com^
 ||mightseers.club^
 ||mightspreadingrumour.com^
 ||mignoops.net^
@@ -37813,6 +37830,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nellads.com^
 ||nelsdecademi.info^
 ||neltoole.net^
+||nepobedimiy2kot11jf.com^
 ||nepyhecawr.com^
 ||nerbulsterme.club^
 ||neshedfrie.club^
@@ -39882,6 +39900,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
 ||sdmwklnd.com^
+||sdnihyxlqiws.com^
 ||sdsttt.com^
 ||sdtqotoe.com^
 ||sdzwkmokd.com^
@@ -39970,6 +39989,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sfhrxcbbmtfqw.com^
 ||sfkxmchhswobcq.com^
 ||sflekykzhqz.com^
+||sflywdvzyh.com^
 ||sflyycxlsad.com^
 ||sfmgzvam.com^
 ||sfokenghj.com^
@@ -41115,6 +41135,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||utjznnqgd.com^
 ||utlawglouce.club^
 ||utngexelkv.com^
+||utoumine.net^
 ||utpenedwritted.info^
 ||utpgxaylxurhbc.com^
 ||utq55kl9vyqv.com^
@@ -42408,6 +42429,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||znztvqgtaivf.com^
 ||zoachops.com^
 ||zoaheeth.com^
+||zoastich.com^
 ||zobsibzczd.com^
 ||zoeysqyx.com^
 ||zoijpllqnm.com^
@@ -62607,6 +62629,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||qudaoweiwang.com^
 ||djpt33.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
