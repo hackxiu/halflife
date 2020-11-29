@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7OlySozV98Ft3Z7xpme7Rw
+! Checksum: 1aKmkocEr1QyNLkOCsZmLw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202011291215
-! Last Modified: 2020年11月29日 12:15
+! Version: 202011291614
+! Last Modified: 2020年11月29日 16:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1250,6 +1250,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||djpt33.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -8993,8 +8994,10 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||radikal.ru^$domain=18board.com|18p2p.com
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+18board.com,18p2p.com##.altbg2 > TD[width="33%"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -33041,6 +33044,7 @@ _mongo_stats/
 ||upt.graphiq.com^
 ||uptime.com/static/rum/$third-party
 ||usercentrics.eu/session/$image
+||userexperience.thehut.net^
 ||usersegment.wpdigital.net^
 ||uservoice.com^*/track.js
 ||userway.org/api/stats/
@@ -33165,6 +33169,7 @@ _mongo_stats/
 ||yellowbrix.com/images/content/cimage.gif?
 ||yellowpages.com^*.gif?tid$third-party
 ||yext.com/plpixel?
+||yimg.com/aaq/vzm/$script,domain=news.yahoo.com
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
 ||yimg.com^*/l?ig=$image
@@ -36430,10 +36435,8 @@ _mongo_stats/
 ||wallpaperstock.net/partners.js
 ||warp.prnewswire.co.uk^
 ||washingtonpost.com/notification-sw.js
-||washingtonpost.com/rw/sites/twpweb/js/init/init.track-header-1.0.0.js
-||washingtonpost.com/wp-srv/javascript/placeSiteMetrix.
 ||washingtonpost.com/wp-stat/analytics/
-||washingtonpost.com^*/one.gif?
+||washingtonpost.com/zeus/iris/iris-main.js
 ||watch-series.to/analytics.html
 ||watchmouse.com^*/jsrum/
 ||watson.live.com^

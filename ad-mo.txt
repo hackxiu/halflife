@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iSpQkgaX2qXeZJHZ+KtCJw
+! Checksum: 76V3g2+sDdKRQ/Y95vG8qg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202011291215
-! Last Modified: 2020年11月29日 12:15
+! Version: 202011291614
+! Last Modified: 2020年11月29日 16:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -24727,6 +24727,7 @@ _popunder+$popup
 ##.eng_ads
 ##.engagement_ad
 ##.eniro_ad
+##.ent-ad-leaderboard
 ##.enterpriseAd
 ##.entry-ad
 ##.entry-ads
@@ -55975,6 +55976,7 @@ hktdc.com###sliderbanner
 thephuketnews.com###slides
 790kspd.com###slideshowwidget-8
 bizrate.com###slimBannerContainer
+washingtonpost.com###slug_brandconnect_front
 washingtonpost.com###slug_leaderboard
 sportsmole.co.uk###sm_shop
 ikascore.com###smalisted
@@ -56425,6 +56427,7 @@ lifegate.com##.Leaderboard_Persone_Article
 lifegate.com##.Leaderboard_Persone_Article_Sidebar
 israelnationalnews.com##.LeftInfo
 myabc50.com,whptv.com,woai.com##.LinksWeLike
+news.yahoo.com##.MAST-status-ok
 hsj.org##.ML_L1_ArticleAds
 mstar.com##.MPFBannerWrapper
 expressandstar.com,juicefm.com,kentonline.co.uk,planetrock.com,pulse1.co.uk,pulse2.co.uk,shropshirestar.com,signal1.co.uk,signal2.co.uk,sportal.co.nz,sportal.com.au,swanseasound.co.uk,thewave.co.uk,three.fm,wave965.com,wirefm.com,wishfm.net##.MPU
@@ -56900,6 +56903,7 @@ theloop.ca##.bigBoxDesktop
 chipchick.com,megafileupload.com,softarchive.net##.big_banner
 hellenicshippingnews.com,wasterecyclingnews.com##.bigbanner
 flyerland.ca,knoxnews.com,mysuburbanlife.com,nowtoronto.com,tcpalm.com,tiff.net##.bigbox
+washingtonpost.com##.bigbox-wrapper
 tucsoncitizen.com##.bigbox_container
 caller.com,commercialappeal.com,courierpress.com,gosanangelo.com,govolsxtra.com,independentmail.com,kitsapsun.com,knoxnews.com,naplesnews.com,redding.com,reporternews.com,tcpalm.com,timesrecordnews.com,vcstar.com##.bigbox_wrapper
 exclaim.ca##.bigboxhome
@@ -57985,6 +57989,7 @@ liveuamap.com##.passby
 cjnews.com##.paszone_container
 nhentai.com##.pb-0.w-100[style]
 prankvidz.com##.pb-container
+washingtonpost.com##.pb-lgmod
 playbuzz.com##.pb-site-player
 eeweb.com##.pbox
 cryptocompare.com##.pc-text
@@ -58559,6 +58564,7 @@ monova.org##[onclick] > [target="_blank"]
 monova.org##[onclick] > a[class]
 filecrypt.cc,filecrypt.co##[onclick^="location.href"]
 filecrypt.cc,filecrypt.co##[onclick^="top.location"]
+washingtonpost.com##[style*="padding-left: 10px; padding-right: 10px;"]
 wahm.com##[style="min-height:250px;"]
 torrentresource.com##[width="150"]:last-child
 4chan.org##[width="728"]
@@ -62484,6 +62490,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||djpt33.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -70227,8 +70234,10 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||radikal.ru^$domain=18board.com|18p2p.com
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+18board.com,18p2p.com##.altbg2 > TD[width="33%"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -92142,6 +92151,7 @@ _mongo_stats/
 ||upt.graphiq.com^
 ||uptime.com/static/rum/$third-party
 ||usercentrics.eu/session/$image
+||userexperience.thehut.net^
 ||usersegment.wpdigital.net^
 ||uservoice.com^*/track.js
 ||userway.org/api/stats/
@@ -92266,6 +92276,7 @@ _mongo_stats/
 ||yellowbrix.com/images/content/cimage.gif?
 ||yellowpages.com^*.gif?tid$third-party
 ||yext.com/plpixel?
+||yimg.com/aaq/vzm/$script,domain=news.yahoo.com
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
 ||yimg.com^*/l?ig=$image
@@ -95531,10 +95542,8 @@ _mongo_stats/
 ||wallpaperstock.net/partners.js
 ||warp.prnewswire.co.uk^
 ||washingtonpost.com/notification-sw.js
-||washingtonpost.com/rw/sites/twpweb/js/init/init.track-header-1.0.0.js
-||washingtonpost.com/wp-srv/javascript/placeSiteMetrix.
 ||washingtonpost.com/wp-stat/analytics/
-||washingtonpost.com^*/one.gif?
+||washingtonpost.com/zeus/iris/iris-main.js
 ||watch-series.to/analytics.html
 ||watchmouse.com^*/jsrum/
 ||watson.live.com^
